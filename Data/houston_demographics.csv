@@ -1,4 +1,4 @@
-Zip_Code,Name,lat,lng,population,median_household_income,median_home_value,Less Than High School,High School Graduate,Associate's Degree,Bachelor's Degree,Master's Degree,Professional Degree,Doctorate Degree
+Zip_Code,Neighborhood,lat,lng,population,median_household_income,median_home_value,Less Than High School,High School Graduate,Associate's Degree,Bachelor's Degree,Master's Degree,Professional Degree,Doctorate Degree
 77002,"Downtown, Midtown",29.75,-95.37,16793,64093.0,208600.0,0.2657488986784141,0.416079295154185,0.04911894273127753,0.15297356828193834,0.07169603524229075,0.02169603524229075,0.022687224669603524
 77003,East Downtown,29.75,-95.35,10508,36412.0,162600.0,0.3181356178306955,0.36939160737621607,0.03862349353855089,0.16567445912588935,0.06112966458545085,0.029330622912734135,0.017714534630463193
 77004,"South Central, Greater Third Ward",29.72,-95.38,32692,41983.0,191700.0,0.15767329336278532,0.34537709056484694,0.040443883454296836,0.23072472914694436,0.13710949826443672,0.060271378983906596,0.028400126222783213
