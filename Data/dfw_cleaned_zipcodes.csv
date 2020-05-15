@@ -1,143 +1,143 @@
 Zip_Code,Name
 75001,Addison
-75002,Allen
-75006,Carrollton
-75007,Carrollton
+75002,West Allen
+75006,Central Carrolton
+75007,North Carrollton
 75009,Celina
-75010,Carrollton
-75013,Allen
+75010,Far North Carrollton
+75013,East Allen
 75019,Coppell
-75022,Flower Mound
-75023,Plano
-75024,Plano
-75025,Plano
-75028,Flower Mound
-75032,Rockwall
-75034,Frisco
-75035,Frisco
-75038,Irving
-75039,Irving
-75040,Garland
-75041,Garland
-75042,Garland
-75043,Garland
-75044,Garland
+75022,West Flower Mound
+75023,"(Quail Creek, Cross Bend) - Plano"
+75024,"(Deerfield West, Normandy Estates) - Plano"
+75025,"(Ridgeview, Russel Creek Park) - Plano"
+75028,East Flower Mound
+75032,South Rockwall
+75034,West Frisco
+75035,East Frisco
+75038,"(Cottonwood Valley, Arts District) - Irving"
+75039,Las Colinas - Irving
+75040,Northeast Garland
+75041,"(Almeta, Bonite, Bella Vista) - Garland"
+75042,"(Forest Crest, Park Groves, Creekside Village) - Garland"
+75043,Bass Park Area - Garland
+75044,"(Firewheel Hills, Picket Place, Camelot) - Garland"
 75048,Sachse
-75050,Grand Prairie
-75051,Grand Prairie
-75052,Grand Prairie
-75054,Grand Prairie
+75050,North Grand Prairie
+75051,South Grand Prairie
+75052,Southwest Grand Prairie
+75054,Estes Park Area - Grand Prairie
 75056,The Colony
-75057,Lewisville
-75060,Irving
-75061,Irving
-75062,Irving
-75063,Irving
+75057,Northeast to Southeast Lewisville
+75060,"(Lamar Brown, Irving Lake, Trinity Oaks) - Irving"
+75061,"(Garden Oaks, Plymoth Park) - Irving"
+75062,"(Hillcrest Oaks, Arts District, Woodhaven) - Irving"
+75063,"(Hackberry Creek, Valley Ranch) - Irving"
 75065,Lake Dallas
-75067,Lewisville
+75067,West to Southwest Lewisville
 75068,Little Elm
-75069,McKinney
-75070,McKinney
-75071,McKinney
-75074,Plano
-75075,Plano
-75077,Lewisville
+75069,Southeast McKinney
+75070,Southwest McKinney
+75071,North McKinney
+75074,"(Timber Brook, Oak Point, Plano Park) - Plano"
+75075,"(Greenway Court, Pitman Creek) - Plano"
+75077,Northwest Lewisville
 75078,Prosper
-75080,Richardson
-75081,Richardson
-75082,Richardson
-75087,Rockwall
-75088,Rowlett
-75089,Rowlett
-75093,Plano
+75080,Northwest Richardson
+75081,East Richardson
+75082,Northeast Richardson
+75087,North Rockwall
+75088,South Rowlett
+75089,North Rowlett
+75093,"(Willow Bend, Westworth Estates) - Plano"
 75094,Murphy
 75098,Wylie
 75101,Bardwell
 75104,Cedar Hill
 75114,Crandall
 75115,DeSoto
-75116,Duncanville
+75116,North Duncanville
 75119,Ennis
 75125,Ferris
 75126,Forney
 75132,Fate
-75134,Lancaster
+75134,North Lancaster
 75135,Caddo Mills
-75137,Duncanville
+75137,South Duncanville
 75141,Hutchins
 75142,Kaufman
 75143,Kemp
-75146,Lancaster
+75146,South Lancaster
 75147,Mabank
-75149,Mesquite
-75150,Mesquite
+75149,Central to West Mesquite
+75150,Northwest Mesquite
 75152,Palmer
 75154,Glenn Heights
 75157,Rosser
 75158,Scurry
 75159,Seagoville
-75160,Terrell
-75161,Terrell
+75160,West Terrell
+75161,East Terrell
 75164,Josephine
-75165,Waxahachie
+75165,East Waxahachie
 75166,Lavon
-75167,Waxahachie
+75167,West Waxahachie
 75172,Wilmer
 75173,Nevada
 75180,Balch Springs
-75181,Mesquite
+75181,Southeast Mesquite
 75182,Sunnyvale
 75189,Royse City
-75201,Downtown
-75202,Historic District
-75203,Cadillac Heights
-75204,"City Place, Uptown"
-75205,University Park
-75206,Lower Greenville
-75207,West_of_Downtown
-75208,Bishop Arts
-75209,"Bluffview, Greenway Parks"
-75210,South Dallas
-75211,Cockrell Hill
+75201,Downtown Dallas
+75202,Historic District - Dallas
+75203,Cadillac Heights - Dallas
+75204,"(City Place, Uptown) - Dallas"
+75205,"(Park Cities, Highland Park) - Dallas"
+75206,Lower Greenville - Dallas
+75207,West_of_Downtown - Dallas
+75208,Bishop Arts - Dallas
+75209,"(Bluffview, Greenway Parks) - Dallas"
+75210,South Dallas - Cotton Bowl Area
+75211,Cockrell Hill - Dallas
 75212,West Dallas
 75214,"Northeast Dallas, Lakewood"
-75215,"Cedars, South Blvd, Park Row, Wheatley Place"
-75216,Cedar Crest
-75217,Pleasant Grove
-75218,"Casa Linda, Lockwood"
-75219,"Turtle Creek, Oaklawn"
+75215,"(Cedars, South Blvd, Park Row, Wheatley Place) - Dallas"
+75216,Cedar Crest - Dallas
+75217,Pleasant Grove - Dallas
+75218,"(Casa Linda, Lockwood) - Dallas"
+75219,"(Turtle Creek, Oaklawn) - Dallas"
 75220,Northwest Dallas
-75223,"Owenwood, Dolphin Heights"
-75224,"Wynnewood, Elmwood, Five Mile Creek"
+75223,"(Owenwood, Dolphin Heights) - Dallas"
+75224,"(Wynnewood, Elmwood, Five Mile Creek) - Dallas"
 75225,University Park
-75226,Deep Ellum
-75227,"Riverway Estates, Bruton Terrace"
-75228,"Casa View, Eastwood Hills"
-75229,Loryland
+75226,Deep Ellum - Dallas
+75227,"(Riverway Estates, Bruton Terrace) - Dallas"
+75228,"(Casa View, Eastwood Hills) - Dallas"
+75229,Loryland - Dallas
 75230,North Dallas
-75231,Vickory Meadow
-75232,Wolf Creek
-75233,Westwood Park
+75231,Vickory Meadow - Dallas
+75232,Wolf Creek - Dallas
+75233,Westwood Park - Dallas
 75234,Farmers Branch
-75235,Love Field
-75236,West Redbird
-75237,East Redbird
-75238,"Lake Highlands, Highland Meadows"
-75240,Galleria
+75235,Love Field - Dallas
+75236,West Redbird - Dallas
+75237,East Redbird - Dallas
+75238,"(Lake Highlands, Highland Meadows) - Dallas"
+75240,Galleria - Dallas
 75241,South Dallas
-75243,"Woodbridge, Forest Meadow, Northwood Heights"
-75244,North Branch
-75246,Old East
-75247,West Dallas
+75243,"(Woodbridge, Forest Meadow, Northwood Heights) - Dallas"
+75244,North Branch - Dallas
+75246,Old East - Dallas
+75247,Brook Hollow - Dallas
 75248,Far North Dallas
-75249,Cedar Ridge
-75251,Park Central
-75252,Preston Villa
-75253,Kleberg
-75254,White Rock Creek
-75287,Rollingwood
-75401,Greenville
-75402,Greenville
+75249,Cedar Ridge - Dallas
+75251,Park Central - Dallas
+75252,Preston Villa - Dallas
+75253,Kleberg - Dallas
+75254,White Rock Creek - Dallas
+75287,Rollingwood - Dallas
+75401,North Greenville
+75402,South Greenville
 75407,Princeton
 75409,Anna
 75422,Campbell
@@ -149,42 +149,42 @@ Zip_Code,Name
 75454,Melissa
 75474,Quinlan
 75496,Wolfe City
-76001,Arlington
-76002,Arlington
-76006,Arlington
+76001,Southwest Arlington
+76002,Southeast Arlington
+76006,River Legacy Parks - Arlington
 76008,Aledo
 76009,Alvarado
-76010,Arlington
-76011,Arlington
-76012,Arlington
-76013,Arlington
-76014,Arlington
-76015,Arlington
-76016,Arlington
-76017,Arlington
-76018,Arlington
+76010,East Arlington
+76011,"(Six Flags, Stadium Areas) - Arlington"
+76012,Northwest Arlington
+76013,West Arlington
+76014,Vandergriff Park Area - Arlington
+76015,Parks Mall Area - Arlington
+76016,Lake Arlington Area - Arlington
+76017,Green Oaks - Arlington
+76018,Fish Creek - Arlington
 76020,Azle
-76021,Bedford
-76022,Bedford
+76021,North Bedford
+76022,South Bedford
 76023,Boyd
 76028,Burleson
-76031,Cleburne
-76033,Cleburne
+76031,East Cleburne
+76033,West Cleburne
 76034,Colleyville
 76035,Cresson
 76036,Crowley
-76039,Euless
-76040,Euless
+76039,North Euless
+76040,South Euless
 76041,Forreston
 76043,Glen Rose
 76044,Godley
-76048,Granbury
-76049,Granbury
+76048,West Granbury
+76049,East Granbury
 76050,Grandview
 76051,Grapevine
-76052,Fort Worth
-76053,Hurst
-76054,Hurst
+76052,Haslet - Fort Worth
+76053,South Hurst
+76054,North Hurst
 76058,Joshua
 76059,Keene
 76060,Kennedale
@@ -200,60 +200,60 @@ Zip_Code,Name
 76078,Rhome
 76082,Springtown
 76084,Venus
-76085,Weatherford
-76086,Weatherford
-76087,Weatherford
-76088,Weatherford
+76085,Far North - Weatherford
+76086,Southeast Weatherford
+76087,South and East Weatherford
+76088,Northwest Weatherford
 76092,Southlake
 76093,Rio Vista
-76102,Fort Worth
-76103,Fort Worth
-76104,Fort Worth
-76105,Fort Worth
-76106,Fort Worth
-76107,Fort Worth
-76108,Fort Worth
-76109,Fort Worth
-76110,Fort Worth
-76111,Fort Worth
-76112,Fort Worth
-76114,Fort Worth
-76115,Fort Worth
-76116,Fort Worth
+76102,"(Greenway, Upper Westside, Eastchase) - Fort Worth"
+76103,Meadowbrook - Fort Worth
+76104,"(Hillside, Morningside) - Fort Worth"
+76105,Burchill - Fort Worth
+76106,"(Diamond Hill, Far Greater Northside Historical, North Hill Manor) - Fort Worth"
+76107,"(Arlington Heights, Monticello, West Beyer) - Fort Worth"
+76108,White Settlement - Fort Worth
+76109,TCU Area - Fort Worth
+76110,"(Shaw Clarke, Ryan Place, Fairmont-Southside Historic District) - Fort Worth"
+76111,"(Sylvan Heights West, Scenic Bluff) - Fort Worth"
+76112,"(Ryanwood, Handley) - Fort Worth"
+76114,"(Fair Oaks, Calloway Park) - Fort Worth"
+76115,"(Southland Terrace, North Greenbriar) - Fort Worth"
+76116,"(Western Hills, Ridglea Hills) - Fort Worth"
 76117,Haltom City
 76118,Richland Hills
-76119,Fort Worth
-76120,Fort Worth
-76123,Fort Worth
+76119,"(Echo Heights, Glencrest) - Fort Worth"
+76120,"(John T White, Cobblestone) - Fort Worth"
+76123,"(Wedgewood, Stone Meadow) - Fort Worth"
 76126,Benbrook
-76127,Fort Worth
-76129,Fort Worth
-76131,Fort Worth
-76132,Fort Worth
-76133,Fort Worth
-76134,Fort Worth
-76135,Fort Worth
-76137,Fort Worth
-76140,Fort Worth
+76127,NAS-JRB - Fort Worth
+76129,TCU
+76131,"(North Brook, Fossil Creek Estates) - Fort Worth"
+76132,"(Quail Ridge Estates, Huken Bend Estates) - Fort Worth"
+76133,Wedgewood - Fort Worth
+76134,"(Willow Creek, South Greenbriar, Highland Hills) - Fort Worth"
+76135,"(Lakeland, Lake Worth, Lakeside) - Fort Worth"
+76137,"(Summerfields, Summerbrook) - Fort Worth"
+76140,"(Quail Run, Hamlet, Garden Acres) - Fort Worth"
 76148,Watauga
-76155,Fort Worth
-76164,Fort Worth
-76177,Fort Worth
-76179,Fort Worth
-76180,North Richland Hills
-76182,North Richland Hills
-76201,Denton
-76205,Denton
-76207,Denton
-76208,Denton
-76209,Denton
-76210,Denton
+76155,DFW Airport Area - Fort Worth
+76164,"(Northside, Marine Park) - Fort Worth"
+76177,"(Texas Motor Speedway, Elizabethtown) - Fort Worth"
+76179,"(Saginaw, Eagle Mountain) - Fort Worth"
+76180,North Richland Hills - Fort Worth
+76182,Smithfield - Fort Worth
+76201,West Denton
+76205,South Denton
+76207,"(North Lakes Park, Denton Airport) - Denton"
+76208,Far East Denton
+76209,Northeast Denton
+76210,Corinth - Denton
 76225,Alvord
 76226,Lantana
 76227,Aubrey
 76234,Decatur
-76244,Fort Worth
-76247,Fort Worth
+76244,Keller - Fort Worth
+76247,Justin - Fort Worth
 76248,Keller
 76249,Krum
 76258,Pilot Point
