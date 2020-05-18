@@ -434,8 +434,8 @@ Celina,33.3,-96.8,Smoothie King,33.221313,-96.932077,Smoothie Shop
 Celina,33.3,-96.8,7-Eleven,33.1981567,-96.6812318,Convenience Store
 Celina,33.3,-96.8,Dollar Tree,33.17354417425216,-96.84247179164481,Discount Store
 Celina,33.3,-96.8,Corner Store,33.2197358,-96.7847036,Convenience Store
+Celina,33.3,-96.8,Hand & Stone,33.17620138,-96.73528348,Massage Studio
 Celina,33.3,-96.8,CVS pharmacy,33.23526252791962,-96.78927919051642,Pharmacy
-Celina,33.3,-96.8,Hand & Stone,33.175646,-96.73495129999999,Massage Studio
 Celina,33.3,-96.8,Famous Footwear,33.224743,-96.79488,Shoe Store
 Celina,33.3,-96.8,Sally Beauty,33.174143,-96.845613,Cosmetics Shop
 Celina,33.3,-96.8,AT&T,33.1778204,-96.8409399,Mobile Phone Shop
@@ -1304,7 +1304,6 @@ South Rockwall,32.9,-96.4,Hobby Lobby,32.9103416,-96.4527982,Fabric Shop
 South Rockwall,32.9,-96.4,QuikTrip,32.91016694210431,-96.45146344649054,Convenience Store
 South Rockwall,32.9,-96.4,DICK'S Sporting Goods,32.90359089797827,-96.45197250739025,Sporting Goods Shop
 South Rockwall,32.9,-96.4,Academy Sports + Outdoors,32.89554058318138,-96.46840989589691,Sporting Goods Shop
-South Rockwall,32.9,-96.4,Ulta Beauty,32.9038509,-96.4525021,Cosmetics Shop
 South Rockwall,32.9,-96.4,Kroger (Signature),32.94958482909432,-96.46028308735214,Supermarket
 South Rockwall,32.9,-96.4,PetSmart,32.9009981,-96.454568,Pet Store
 South Rockwall,32.9,-96.4,Kroger,32.8891911,-96.4710282,Supermarket
@@ -1340,7 +1339,6 @@ South Rockwall,32.9,-96.4,7-Eleven,32.9662072,-96.4640472,Convenience Store
 South Rockwall,32.9,-96.4,Walgreens,32.9505471,-96.4630444,Pharmacy
 South Rockwall,32.9,-96.4,Family Dollar,32.943145,-96.38227,Discount Store
 South Rockwall,32.9,-96.4,Rack Room Shoes- Rockwall,32.89250742811185,-96.46174595470023,Shoe Store
-South Rockwall,32.9,-96.4,Covington's Nursery & Landscape Co.,32.9092714674513,-96.55482658318617,Flower Shop
 South Rockwall,32.9,-96.4,Dollar General,32.915754339275765,-96.5202457296838,Discount Store
 South Rockwall,32.9,-96.4,GNC,32.9158188662649,-96.5173065662384,Supplement Shop
 South Rockwall,32.9,-96.4,Famous Footwear,32.90248342057051,-96.45293839021177,Shoe Store
@@ -1370,6 +1368,7 @@ South Rockwall,32.9,-96.4,"LTW A/C and Refrigeration, Inc.",32.90198374813429,-9
 South Rockwall,32.9,-96.4,Walgreens,32.90815509941706,-96.5700696408748,Pharmacy
 South Rockwall,32.9,-96.4,RISE,32.88860935656535,-96.44078656387174,Sporting Goods Shop
 South Rockwall,32.9,-96.4,FabTech Services Incorporated,32.9163,-96.441703,Construction & Landscaping
+South Rockwall,32.9,-96.4,Zeus Restoration,32.90056768847937,-96.35347938550694,Home Service
 South Rockwall,32.9,-96.4,Bad Ace Vapor LLC,32.905685999999996,-96.446985,Vape Store
 South Rockwall,32.9,-96.4,James Avery Artisan Jewelry,32.904951000000004,-96.451422,Jewelry Store
 South Rockwall,32.9,-96.4,‪Air Duct Cleaners Rockwall TX,32.90785673162743,-96.45143151283264,Home Service
@@ -1399,6 +1398,207 @@ South Rockwall,32.9,-96.4,Rockwall Junk Removal & Garbage Haul Away,32.892824906
 South Rockwall,32.9,-96.4,Kwik Dry Clean Super Center,32.891248597104536,-96.46986782260015,Dry Cleaner
 South Rockwall,32.9,-96.4,As Green As it Gets,32.931362779737185,-96.46023988723755,Construction & Landscaping
 South Rockwall,32.9,-96.4,Interstate All Battery Center,32.889607,-96.470056,Electronics Store
+South Rockwall,32.9,-96.4,PostNet,32.88948017460486,-96.47027112033362,Print Shop
+West Frisco,33.12,-96.88,Kroger,33.11732115315503,-96.84130707015946,Supermarket
+West Frisco,33.12,-96.88,Goody Goody Liquor,33.16974701791306,-96.88822917578551,Liquor Store
+West Frisco,33.12,-96.88,Calloway's Nursery,33.160252206162255,-96.89016406425282,Garden Center
+West Frisco,33.12,-96.88,Market Street,33.114605390881486,-96.83767942717623,Grocery Store
+West Frisco,33.12,-96.88,Costco,33.17179069614749,-96.83732496633725,Warehouse Store
+West Frisco,33.12,-96.88,The Shops At Legacy,33.077835231986164,-96.82125954128423,Shopping Plaza
+West Frisco,33.12,-96.88,Market Street,33.176908,-96.843093,Supermarket
+West Frisco,33.12,-96.88,Sprouts Farmers Market,33.1216856,-96.802699,Grocery Store
+West Frisco,33.12,-96.88,Total Wine & More,33.0970691,-96.801502,Wine Shop
+West Frisco,33.12,-96.88,Nebraska Furniture Mart,33.072537518049565,-96.86699186422508,Furniture / Home Store
+West Frisco,33.12,-96.88,Kroger Marketplace,33.0622422,-96.8890778,Supermarket
+West Frisco,33.12,-96.88,Sprouts Farmers Market,33.179899,-96.8675913,Grocery Store
+West Frisco,33.12,-96.88,QuikTrip,33.175527239779576,-96.83857204120075,Convenience Store
+West Frisco,33.12,-96.88,Academy Sports + Outdoors,33.112529,-96.8027973,Sporting Goods Shop
+West Frisco,33.12,-96.88,Stonebriar Centre,33.0991442,-96.8114882,Shopping Mall
+West Frisco,33.12,-96.88,Nebraska Furniture Mart Customer Pickup,33.07103201253549,-96.86855978251435,Furniture / Home Store
+West Frisco,33.12,-96.88,Tom Thumb,33.118959,-96.8036377,Grocery Store
+West Frisco,33.12,-96.88,Target,33.10437225045824,-96.81202690051732,Big Box Store
+West Frisco,33.12,-96.88,Target,33.173538296866376,-96.84485571641379,Big Box Store
+West Frisco,33.12,-96.88,Kroger Marketplace,33.1701117,-96.8906689,Supermarket
+West Frisco,33.12,-96.88,PetSmart,33.0646159,-96.8831731,Pet Store
+West Frisco,33.12,-96.88,Target,33.064195153620325,-96.88494982537502,Big Box Store
+West Frisco,33.12,-96.88,QuikTrip,33.16777787283427,-96.88982989849696,Convenience Store
+West Frisco,33.12,-96.88,Total Wine & More,33.0297645,-96.837159,Wine Shop
+West Frisco,33.12,-96.88,Kroger,33.151071259401775,-96.86175854520116,Supermarket
+West Frisco,33.12,-96.88,Academy Sports + Outdoors,33.0464435,-96.8319659,Sporting Goods Shop
+West Frisco,33.12,-96.88,PetSmart,33.176165622364195,-96.84052079916,Pet Store
+West Frisco,33.12,-96.88,Sprouts Farmers Market,33.02550890908342,-96.88858330249786,Grocery Store
+West Frisco,33.12,-96.88,PetSmart,33.107041,-96.813502,Pet Store
+West Frisco,33.12,-96.88,FedEx Office,33.153382848023774,-96.84322181553178,Shipping Store
+West Frisco,33.12,-96.88,CVS pharmacy,33.145204189339104,-96.89024727380608,Pharmacy
+West Frisco,33.12,-96.88,Tom Thumb,33.124498,-96.890895,Market
+West Frisco,33.12,-96.88,Sam's Club,33.095105112079004,-96.79979733209392,Warehouse Store
+West Frisco,33.12,-96.88,Walgreens,33.153944164398695,-96.8647800385952,Pharmacy
+West Frisco,33.12,-96.88,ALDI,33.1687703,-96.8926511,Grocery Store
+West Frisco,33.12,-96.88,Best Buy,33.108308,-96.80883,Electronics Store
+West Frisco,33.12,-96.88,Trader Joe's,33.029319892351225,-96.79331933155652,Grocery Store
+West Frisco,33.12,-96.88,Market Street,33.02586512450553,-96.7993875146567,Grocery Store
+West Frisco,33.12,-96.88,Whole Foods Market,33.02956139792221,-96.79648557725595,Grocery Store
+West Frisco,33.12,-96.88,CVS pharmacy,33.10049072908714,-96.7710826736224,Pharmacy
+West Frisco,33.12,-96.88,Kroger,33.04759423928853,-96.83198601007462,Supermarket
+West Frisco,33.12,-96.88,Spec's,33.027070869214675,-96.82688739694827,Liquor Store
+West Frisco,33.12,-96.88,Costco,33.02395613502311,-96.83134728267883,Warehouse Store
+West Frisco,33.12,-96.88,The Shops at Willow Bend,33.0306982771021,-96.83240174443202,Shopping Mall
+West Frisco,33.12,-96.88,PetSmart,33.0257427,-96.8338826,Pet Store
+West Frisco,33.12,-96.88,Sprouts Farmers Market,33.06971449118448,-96.77336633205408,Grocery Store
+West Frisco,33.12,-96.88,Kroger,33.22085443842357,-96.87730001719666,Grocery Store
+West Frisco,33.12,-96.88,CVS pharmacy,33.08388544204112,-96.87637009526271,Pharmacy
+West Frisco,33.12,-96.88,Total Wine & More,33.00883540513341,-96.97890713491824,Wine Shop
+West Frisco,33.12,-96.88,Super H-Mart,32.98499026997583,-96.91196632132015,Supermarket
+West Frisco,33.12,-96.88,Walgreens,33.0707574227338,-96.77457332611084,Pharmacy
+West Frisco,33.12,-96.88,The Vitamin Shoppe,33.1040003,-96.8079889,Supplement Shop
+West Frisco,33.12,-96.88,Costco,32.99828548315984,-96.96404223085615,Warehouse Store
+West Frisco,33.12,-96.88,Michaels,33.029097944989786,-96.83715204368133,Arts & Crafts Store
+West Frisco,33.12,-96.88,Best Buy,33.173075,-96.841371,Electronics Store
+West Frisco,33.12,-96.88,Kroger Marketplace,33.1772036,-96.7353441,Supermarket
+West Frisco,33.12,-96.88,Walmart Photo Center,33.14236557764077,-96.88946289029785,Big Box Store
+West Frisco,33.12,-96.88,Kroger,33.1406354,-96.8028388,Supermarket
+West Frisco,33.12,-96.88,Corner Store,33.1527151,-96.890187,Convenience Store
+West Frisco,33.12,-96.88,QuikTrip,33.01553623314013,-96.78729488639459,Convenience Store
+West Frisco,33.12,-96.88,Walgreens,33.0729199,-96.8772384,Pharmacy
+West Frisco,33.12,-96.88,Walmart Supercenter,33.22025256642576,-96.79702411298345,Big Box Store
+West Frisco,33.12,-96.88,Walgreens,33.0243306,-96.8865021,Pharmacy
+West Frisco,33.12,-96.88,Chick-fil-A,33.224348,-96.796822,Food Service
+West Frisco,33.12,-96.88,ALDI,33.136107017755435,-96.80635616183281,Grocery Store
+West Frisco,33.12,-96.88,Barnes & Noble,33.00595810180095,-96.9786092796569,Bookstore
+West Frisco,33.12,-96.88,Chick-fil-A,33.2243035,-96.9827608,Food Service
+West Frisco,33.12,-96.88,GameStop,33.128475540944265,-97.04405793246363,Video Game Store
+West Frisco,33.12,-96.88,Calloway's Nursery,33.12192908830748,-96.73890434987777,Garden Center
+West Frisco,33.12,-96.88,Target,33.01232728357005,-96.97069264979146,Big Box Store
+West Frisco,33.12,-96.88,CVS pharmacy,33.02533216294607,-96.88544158143749,Pharmacy
+West Frisco,33.12,-96.88,99 Ranch Market,32.98100144864071,-96.90870689298166,Supermarket
+West Frisco,33.12,-96.88,Tom Thumb,33.0740689,-96.7706223,Grocery Store
+West Frisco,33.12,-96.88,QuikTrip,33.12937036074573,-97.03730666902281,Convenience Store
+West Frisco,33.12,-96.88,Hobby Lobby,33.1772883,-96.8901126,Fabric Shop
+West Frisco,33.12,-96.88,Walgreens,33.10029152660956,-96.75097525119781,Pharmacy
+West Frisco,33.12,-96.88,QuikTrip,33.00811794378546,-96.79502878376192,Convenience Store
+West Frisco,33.12,-96.88,QuikTrip,33.1108452199136,-96.76880165539059,Convenience Store
+West Frisco,33.12,-96.88,Kroger,32.99811907032441,-96.84592982801438,Supermarket
+West Frisco,33.12,-96.88,Walgreens,33.2215821,-96.9365966,Pharmacy
+West Frisco,33.12,-96.88,Target,33.030470200293465,-96.82742539841693,Big Box Store
+West Frisco,33.12,-96.88,JOANN Fabrics and Crafts,33.00663741808147,-96.97603379988854,Fabric Shop
+West Frisco,33.12,-96.88,Kroger,33.1096989,-96.7663797,Supermarket
+West Frisco,33.12,-96.88,Kroger,33.01964,-96.9132498,Supermarket
+West Frisco,33.12,-96.88,Walgreens,33.0220074,-96.7940623,Pharmacy
+West Frisco,33.12,-96.88,7-Eleven,33.1062876272226,-96.8405176700252,Convenience Store
+West Frisco,33.12,-96.88,spec's,33.01868669209452,-96.76746685524843,Liquor Store
+West Frisco,33.12,-96.88,Target,33.12914065668947,-96.73067770255739,Big Box Store
+West Frisco,33.12,-96.88,Daiso,32.9809852871118,-96.90811930446712,Market
+West Frisco,33.12,-96.88,RaceTrac,33.189610606245,-96.8418214888191,Convenience Store
+West Frisco,33.12,-96.88,Kohl's,33.056365,-96.789514,Department Store
+West Frisco,33.12,-96.88,Walmart Supercenter,33.12803436843613,-96.73616637074198,Big Box Store
+West Frisco,33.12,-96.88,Walmart Neighborhood Market,33.018299430160276,-96.91598430438272,Grocery Store
+West Frisco,33.12,-96.88,WinCo Foods,32.98669681448198,-96.88916788920085,Supermarket
+West Frisco,33.12,-96.88,Tom Thumb,33.04298756835429,-96.82860850692578,Grocery Store
+West Frisco,33.12,-96.88,El Rancho Supermercado,33.037203766218994,-97.00448450633745,Grocery Store
+West Frisco,33.12,-96.88,Tom Thumb,33.0830414,-96.7138653,Grocery Store
+West Frisco,33.12,-96.88,Kohl's,33.099849523848775,-96.735639365506,Department Store
+West Frisco,33.12,-96.88,Corner Store,33.1877787,-96.7511975,Convenience Store
+West Frisco,33.12,-96.88,Sam's Club,33.0479945060574,-97.01222087693942,Warehouse Store
+East Frisco,33.16,-96.77,Sprouts Farmers Market,33.1216856,-96.802699,Grocery Store
+East Frisco,33.16,-96.77,Kroger Marketplace,33.1772036,-96.7353441,Supermarket
+East Frisco,33.16,-96.77,Costco,33.17179069614749,-96.83732496633725,Warehouse Store
+East Frisco,33.16,-96.77,Market Street,33.176908,-96.843093,Supermarket
+East Frisco,33.16,-96.77,Academy Sports + Outdoors,33.112529,-96.8027973,Sporting Goods Shop
+East Frisco,33.16,-96.77,Market Street,33.17525730000001,-96.69561840000001,Supermarket
+East Frisco,33.16,-96.77,Total Wine & More,33.0970691,-96.801502,Wine Shop
+East Frisco,33.16,-96.77,QuikTrip,33.175527239779576,-96.83857204120075,Convenience Store
+East Frisco,33.16,-96.77,Tom Thumb,33.118959,-96.8036377,Grocery Store
+East Frisco,33.16,-96.77,Sprouts Farmers Market,33.20227879279956,-96.735158264637,Grocery Store
+East Frisco,33.16,-96.77,Sprouts Farmers Market,33.1142606461363,-96.69737028772943,Grocery Store
+East Frisco,33.16,-96.77,Kroger,33.11732115315503,-96.84130707015946,Supermarket
+East Frisco,33.16,-96.77,CVS pharmacy,33.10049072908714,-96.7710826736224,Pharmacy
+East Frisco,33.16,-96.77,Stonebriar Centre,33.0991442,-96.8114882,Shopping Mall
+East Frisco,33.16,-96.77,Choice Beverage,33.173207161846115,-96.67783162748668,Food & Drink Shop
+East Frisco,33.16,-96.77,Calloway's Nursery,33.12192908830748,-96.73890434987777,Garden Center
+East Frisco,33.16,-96.77,The Shops At Legacy,33.077835231986164,-96.82125954128423,Shopping Plaza
+East Frisco,33.16,-96.77,Target,33.173538296866376,-96.84485571641379,Big Box Store
+East Frisco,33.16,-96.77,Market Street,33.114605390881486,-96.83767942717623,Grocery Store
+East Frisco,33.16,-96.77,Sprouts Farmers Market,33.179899,-96.8675913,Grocery Store
+East Frisco,33.16,-96.77,Target,33.10437225045824,-96.81202690051732,Big Box Store
+East Frisco,33.16,-96.77,PetSmart,33.176165622364195,-96.84052079916,Pet Store
+East Frisco,33.16,-96.77,Total Wine & More,33.1263062,-96.6597375,Wine Shop
+East Frisco,33.16,-96.77,Market Street,33.089635942338106,-96.68471932411194,Grocery Store
+East Frisco,33.16,-96.77,Watters Creek,33.088791494058405,-96.68383781927373,Shopping Plaza
+East Frisco,33.16,-96.77,Goody Goody Liquor,33.16974701791306,-96.88822917578551,Liquor Store
+East Frisco,33.16,-96.77,Walmart Supercenter,33.22025256642576,-96.79702411298345,Big Box Store
+East Frisco,33.16,-96.77,Whole Foods Market,33.13097125726671,-96.65650172667111,Grocery Store
+East Frisco,33.16,-96.77,Chick-fil-A,33.224348,-96.796822,Food Service
+East Frisco,33.16,-96.77,Sam's Club,33.095105112079004,-96.79979733209392,Warehouse Store
+East Frisco,33.16,-96.77,Trader Joe's,33.17367353099718,-96.64283941780906,Grocery Store
+East Frisco,33.16,-96.77,Cabela's,33.12145999318888,-96.66386649012571,Outdoor Supply Store
+East Frisco,33.16,-96.77,Target,33.12914065668947,-96.73067770255739,Big Box Store
+East Frisco,33.16,-96.77,Harley-Davidson Of Dallas,33.09854,-96.67936,Motorcycle Shop
+East Frisco,33.16,-96.77,The Village at Allen,33.12733546423632,-96.65787412037587,Shopping Plaza
+East Frisco,33.16,-96.77,PetSmart,33.107041,-96.813502,Pet Store
+East Frisco,33.16,-96.77,The Village At Fairview,33.131862,-96.650803,Shopping Mall
+East Frisco,33.16,-96.77,Walmart Neighborhood Market,33.19726407560165,-96.6647040589671,Grocery Store
+East Frisco,33.16,-96.77,Calloway's Nursery,33.160252206162255,-96.89016406425282,Garden Center
+East Frisco,33.16,-96.77,Best Buy,33.108308,-96.80883,Electronics Store
+East Frisco,33.16,-96.77,Mitsuwa Marketplace,33.06691607582623,-96.6932560654441,Grocery Store
+East Frisco,33.16,-96.77,Sprouts Farmers Market,33.06971449118448,-96.77336633205408,Grocery Store
+East Frisco,33.16,-96.77,Kroger,33.1406354,-96.8028388,Supermarket
+East Frisco,33.16,-96.77,Walmart Supercenter,33.12803436843613,-96.73616637074198,Big Box Store
+East Frisco,33.16,-96.77,FedEx Office,33.153382848023774,-96.84322181553178,Shipping Store
+East Frisco,33.16,-96.77,Target,33.12390783366084,-96.66174541672487,Big Box Store
+East Frisco,33.16,-96.77,Walgreens,33.10029152660956,-96.75097525119781,Pharmacy
+East Frisco,33.16,-96.77,Kroger,33.1746451,-96.6817991,Supermarket
+East Frisco,33.16,-96.77,Walgreens,33.0707574227338,-96.77457332611084,Pharmacy
+East Frisco,33.16,-96.77,Trader Joe's,33.029319892351225,-96.79331933155652,Grocery Store
+East Frisco,33.16,-96.77,QuikTrip,33.1108452199136,-96.76880165539059,Convenience Store
+East Frisco,33.16,-96.77,ALDI,33.136107017755435,-96.80635616183281,Grocery Store
+East Frisco,33.16,-96.77,Whole Foods Market,33.02956139792221,-96.79648557725595,Grocery Store
+East Frisco,33.16,-96.77,Kroger,33.1096989,-96.7663797,Supermarket
+East Frisco,33.16,-96.77,Market Street,33.02586512450553,-96.7993875146567,Grocery Store
+East Frisco,33.16,-96.77,Kroger Marketplace,33.2494469,-96.7826421,Supermarket
+East Frisco,33.16,-96.77,QuikTrip,33.14123304899132,-96.69264278486808,Convenience Store
+East Frisco,33.16,-96.77,Kroger,33.151071259401775,-96.86175854520116,Supermarket
+East Frisco,33.16,-96.77,Kroger,33.22085443842357,-96.87730001719666,Grocery Store
+East Frisco,33.16,-96.77,H Mart,33.03901155695478,-96.69705910986846,Supermarket
+East Frisco,33.16,-96.77,Nebraska Furniture Mart,33.072537518049565,-96.86699186422508,Furniture / Home Store
+East Frisco,33.16,-96.77,Kroger Marketplace,33.1701117,-96.8906689,Supermarket
+East Frisco,33.16,-96.77,Total Wine & More,33.0297645,-96.837159,Wine Shop
+East Frisco,33.16,-96.77,Academy Sports + Outdoors,33.0464435,-96.8319659,Sporting Goods Shop
+East Frisco,33.16,-96.77,The Vitamin Shoppe,33.1040003,-96.8079889,Supplement Shop
+East Frisco,33.16,-96.77,WinCo Foods,33.215088299387126,-96.62683201895382,Supermarket
+East Frisco,33.16,-96.77,QuikTrip,33.229502458805364,-96.63173749215632,Convenience Store
+East Frisco,33.16,-96.77,Kroger,33.1159904,-96.6498817,Supermarket
+East Frisco,33.16,-96.77,QuikTrip,33.179122438689106,-96.61943120921224,Convenience Store
+East Frisco,33.16,-96.77,CVS pharmacy,33.217437,-96.696562,Pharmacy
+East Frisco,33.16,-96.77,Kroger,33.0829117,-96.644842,Supermarket
+East Frisco,33.16,-96.77,QuikTrip,33.16777787283427,-96.88982989849696,Convenience Store
+East Frisco,33.16,-96.77,Costco,33.04460575954025,-96.69934673778249,Warehouse Store
+East Frisco,33.16,-96.77,Best Buy,33.173075,-96.841371,Electronics Store
+East Frisco,33.16,-96.77,Costco,33.21911608923143,-96.6594248028376,Warehouse Store
+East Frisco,33.16,-96.77,Daiso,33.05821045140073,-96.69466617634437,Discount Store
+East Frisco,33.16,-96.77,Walgreens,33.153944164398695,-96.8647800385952,Pharmacy
+East Frisco,33.16,-96.77,Kroger Marketplace,33.0622422,-96.8890778,Supermarket
+East Frisco,33.16,-96.77,Kohl's,33.099849523848775,-96.735639365506,Department Store
+East Frisco,33.16,-96.77,Tom Thumb,33.0740689,-96.7706223,Grocery Store
+East Frisco,33.16,-96.77,Tom Thumb,33.0830414,-96.7138653,Grocery Store
+East Frisco,33.16,-96.77,99 Ranch Market,33.05898878400217,-96.69486742972323,Supermarket
+East Frisco,33.16,-96.77,QuikTrip,33.13073184815396,-96.73273826645851,Convenience Store
+East Frisco,33.16,-96.77,Tom Thumb,33.2005201,-96.7065532,Grocery Store
+East Frisco,33.16,-96.77,QuikTrip,33.05664684406691,-96.69192280730591,Convenience Store
+East Frisco,33.16,-96.77,Spec's,33.027070869214675,-96.82688739694827,Liquor Store
+East Frisco,33.16,-96.77,ALDI,33.1687703,-96.8926511,Grocery Store
+East Frisco,33.16,-96.77,Circle K,33.151599923301966,-96.7161626405449,Convenience Store
+East Frisco,33.16,-96.77,Kroger,33.04759423928853,-96.83198601007462,Supermarket
+East Frisco,33.16,-96.77,Kroger,33.2163496,-96.6815852,Grocery Store
+East Frisco,33.16,-96.77,Kroger,33.10248674906204,-96.70049875974655,Supermarket
+East Frisco,33.16,-96.77,The Shops at Willow Bend,33.0306982771021,-96.83240174443202,Shopping Mall
+East Frisco,33.16,-96.77,PetSmart,33.0257427,-96.8338826,Pet Store
+East Frisco,33.16,-96.77,Best Buy,33.035557,-96.703647,Electronics Store
+East Frisco,33.16,-96.77,The UPS Store,33.173008439507015,-96.7336205542415,Shipping Store
+East Frisco,33.16,-96.77,Target,33.064195153620325,-96.88494982537502,Big Box Store
+East Frisco,33.16,-96.77,RaceTrac,33.189610606245,-96.8418214888191,Convenience Store
+East Frisco,33.16,-96.77,Sam's Club,33.05555890906369,-96.69154854570105,Warehouse Store
+East Frisco,33.16,-96.77,CVS pharmacy,33.145204189339104,-96.89024727380608,Pharmacy
+East Frisco,33.16,-96.77,Sam's Club,33.21880281072233,-96.62988872387113,Warehouse Store
 "(Cottonwood Valley, Arts District) - Irving",32.88,-96.98,Whole Foods Market,32.901396414405326,-96.96034914786165,Grocery Store
 "(Cottonwood Valley, Arts District) - Irving",32.88,-96.98,Half Price Books,32.9096763,-96.9614174,Bookstore
 "(Cottonwood Valley, Arts District) - Irving",32.88,-96.98,Tom Thumb,32.8598617,-96.9572287,Supermarket
@@ -1932,7 +2132,6 @@ Bass Park Area - Garland,32.86,-96.59,Sam's Club,32.96102571065084,-96.644699839
 Bass Park Area - Garland,32.86,-96.59,El Rio Grande Latin Market,32.91598697355041,-96.68219477928372,Grocery Store
 Bass Park Area - Garland,32.86,-96.59,Kroger,32.7444927,-96.5533258,Supermarket
 Bass Park Area - Garland,32.86,-96.59,Kroger (Signature),32.94958482909432,-96.46028308735214,Supermarket
-Bass Park Area - Garland,32.86,-96.59,Covington's Nursery & Landscape Co.,32.9092714674513,-96.55482658318617,Flower Shop
 Bass Park Area - Garland,32.86,-96.59,Walmart Neighborhood Market,32.91707786670624,-96.51588675901002,Grocery Store
 Bass Park Area - Garland,32.86,-96.59,PetSmart,32.9009981,-96.454568,Pet Store
 Bass Park Area - Garland,32.86,-96.59,Walmart Pharmacy,32.8612711691374,-96.653493376853,Pharmacy
@@ -1999,6 +2198,7 @@ Bass Park Area - Garland,32.86,-96.59,Tom Thumb,32.8374945,-96.7543969,Grocery S
 Bass Park Area - Garland,32.86,-96.59,Kroger,32.7202005,-96.6208434,Supermarket
 Bass Park Area - Garland,32.86,-96.59,Macy's,32.953,-96.612,Department Store
 Bass Park Area - Garland,32.86,-96.59,Tom Thumb,32.8623445,-96.6431636,Supermarket
+Bass Park Area - Garland,32.86,-96.59,Hong Kong Market Place,32.92435882904341,-96.71936048352013,Grocery Store
 "(Firewheel Hills, Picket Place, Camelot) - Garland",32.96,-96.65,Firewheel Town Center,32.95394537485001,-96.61274525344237,Shopping Mall
 "(Firewheel Hills, Picket Place, Camelot) - Garland",32.96,-96.65,"Academy Sports Garland, TX",32.95895190141628,-96.64647102355957,Sporting Goods Shop
 "(Firewheel Hills, Picket Place, Camelot) - Garland",32.96,-96.65,Sam's Club,32.96102571065084,-96.64469983927674,Warehouse Store
@@ -4507,7 +4707,6 @@ North Rockwall,32.94,-96.44,DICK'S Sporting Goods,32.90359089797827,-96.45197250
 North Rockwall,32.94,-96.44,Academy Sports + Outdoors,32.89554058318138,-96.46840989589691,Sporting Goods Shop
 North Rockwall,32.94,-96.44,Tom Thumb,32.9645495,-96.4624426,Grocery Store
 North Rockwall,32.94,-96.44,Tom Thumb,32.9205393,-96.5164403,Grocery Store
-North Rockwall,32.94,-96.44,Ulta Beauty,32.9038509,-96.4525021,Cosmetics Shop
 North Rockwall,32.94,-96.44,PetSmart,32.9009981,-96.454568,Pet Store
 North Rockwall,32.94,-96.44,Kroger,32.8891911,-96.4710282,Supermarket
 North Rockwall,32.94,-96.44,Bath & Body Works,32.89664350097629,-96.46139897766756,Cosmetics Shop
@@ -4547,7 +4746,6 @@ North Rockwall,32.94,-96.44,T-Mobile,32.9091161,-96.4515318,Mobile Phone Shop
 North Rockwall,32.94,-96.44,Hot Topic,32.95252397772894,-96.6109025060342,Clothing Store
 North Rockwall,32.94,-96.44,Five Below,32.90537268769672,-96.45001998250814,Discount Store
 North Rockwall,32.94,-96.44,Kohl's,33.011161,-96.587581,Department Store
-North Rockwall,32.94,-96.44,Covington's Nursery & Landscape Co.,32.9092714674513,-96.55482658318617,Flower Shop
 North Rockwall,32.94,-96.44,7-Eleven,32.9295412,-96.4707042,Convenience Store
 North Rockwall,32.94,-96.44,Dollar General,32.915754339275765,-96.5202457296838,Discount Store
 North Rockwall,32.94,-96.44,Bath & Body Works,33.00912,-96.59101,Cosmetics Shop
@@ -4599,6 +4797,8 @@ North Rockwall,32.94,-96.44,7-Eleven,32.9195761,-96.4603313,Convenience Store
 North Rockwall,32.94,-96.44,Butler Law Office,32.91745804037957,-96.45169973373413,Lawyer
 North Rockwall,32.94,-96.44,ServiceMaster Commercial Cleaning by Demand,32.929868,-96.466799,Home Service
 North Rockwall,32.94,-96.44,Ray Hubbard Postal Center,32.929863,-96.466798,Paper / Office Supplies Store
+North Rockwall,32.94,-96.44,7-Eleven,32.9177378,-96.5185666,Convenience Store
+North Rockwall,32.94,-96.44,Cavender's Boot City,32.917546,-96.422756,Clothing Store
 South Rowlett,32.89,-96.55,Sprouts Farmers Market,32.9086021,-96.5733516,Grocery Store
 South Rowlett,32.89,-96.55,Target,32.9089796854774,-96.55802884390384,Big Box Store
 South Rowlett,32.89,-96.55,Tom Thumb,32.9205393,-96.5164403,Grocery Store
@@ -4621,7 +4821,6 @@ South Rowlett,32.89,-96.55,Kroger Marketplace,33.008674266111434,-96.57495886548
 South Rowlett,32.89,-96.55,Walmart Neighborhood Market,32.86485000648934,-96.60664919827406,Grocery Store
 South Rowlett,32.89,-96.55,Urban Legends Comics,32.81301147749903,-96.63614283066933,Comic Shop
 South Rowlett,32.89,-96.55,Kroger,32.968972,-96.6038276,Supermarket
-South Rowlett,32.89,-96.55,Covington's Nursery & Landscape Co.,32.9092714674513,-96.55482658318617,Flower Shop
 South Rowlett,32.89,-96.55,PetSmart,32.9009981,-96.454568,Pet Store
 South Rowlett,32.89,-96.55,QuikTrip,32.863653605726995,-96.67184549677181,Convenience Store
 South Rowlett,32.89,-96.55,QuikTrip,32.824526540906014,-96.6233213550511,Convenience Store
@@ -4641,6 +4840,7 @@ South Rowlett,32.89,-96.55,At Home,32.9456557,-96.60893519999999,Furniture / Hom
 South Rowlett,32.89,-96.55,Big Lots,32.90844413115077,-96.56649972474622,Big Box Store
 South Rowlett,32.89,-96.55,PetSmart,32.794499,-96.627901,Pet Store
 South Rowlett,32.89,-96.55,QuikTrip,32.86901251030158,-96.63249549032206,Convenience Store
+South Rowlett,32.89,-96.55,7-Eleven,32.759977055126,-96.5610507130622,Convenience Store
 South Rowlett,32.89,-96.55,El Rio Grande Latin Market,32.91598697355041,-96.68219477928372,Grocery Store
 South Rowlett,32.89,-96.55,ALDI,32.864545910027935,-96.65217465848846,Grocery Store
 South Rowlett,32.89,-96.55,QuikTrip,33.0117445672763,-96.59145886024238,Convenience Store
@@ -4726,7 +4926,6 @@ North Rowlett,32.94,-96.55,QuikTrip,33.0117445672763,-96.59145886024238,Convenie
 North Rowlett,32.94,-96.55,At Home,32.9456557,-96.60893519999999,Furniture / Home Store
 North Rowlett,32.94,-96.55,QuikTrip,32.96108003816854,-96.6822607984219,Convenience Store
 North Rowlett,32.94,-96.55,Dollar General,32.8954463407201,-96.61480215542697,Discount Store
-North Rowlett,32.94,-96.55,Covington's Nursery & Landscape Co.,32.9092714674513,-96.55482658318617,Flower Shop
 North Rowlett,32.94,-96.55,PetSmart,32.9009981,-96.454568,Pet Store
 North Rowlett,32.94,-96.55,Whole Foods Market,32.99869700503759,-96.69872017831952,Grocery Store
 North Rowlett,32.94,-96.55,Kroger,33.015134,-96.6558873,Supermarket
@@ -4799,6 +4998,7 @@ North Rowlett,32.94,-96.55,CVS pharmacy,33.00714596575222,-96.54793293255851,Pha
 North Rowlett,32.94,-96.55,ALDI,33.01188350162667,-96.59268371163944,Grocery Store
 North Rowlett,32.94,-96.55,Walgreens,32.8902709,-96.4717198,Pharmacy
 North Rowlett,32.94,-96.55,7-Eleven,33.0331894653447,-96.6129112738872,Convenience Store
+North Rowlett,32.94,-96.55,QuikTrip,32.84439257346833,-96.5959795788347,Convenience Store
 "(Willow Bend, Westworth Estates) - Plano",33.04,-96.81,Trader Joe's,33.029319892351225,-96.79331933155652,Grocery Store
 "(Willow Bend, Westworth Estates) - Plano",33.04,-96.81,Market Street,33.02586512450553,-96.7993875146567,Grocery Store
 "(Willow Bend, Westworth Estates) - Plano",33.04,-96.81,Whole Foods Market,33.02956139792221,-96.79648557725595,Grocery Store
@@ -5059,7 +5259,6 @@ Wylie,33.02,-96.52,7-Eleven,32.8836782,-96.4630446,Convenience Store
 Wylie,33.02,-96.52,ALDI,32.885968431310516,-96.47324189543724,Grocery Store
 Wylie,33.02,-96.52,7-Eleven,32.9662072,-96.4640472,Convenience Store
 Wylie,33.02,-96.52,Pet Supplies Plus,33.009186,-96.573676,Pet Store
-Wylie,33.02,-96.52,Covington's Nursery & Landscape Co.,32.9092714674513,-96.55482658318617,Flower Shop
 Wylie,33.02,-96.52,7-Eleven,33.09959044359889,-96.62800923402756,Convenience Store
 Wylie,33.02,-96.52,DSW Designer Shoe Warehouse,32.952312,-96.610998,Shoe Store
 Wylie,33.02,-96.52,LOFT,32.954263,-96.613157,Women's Store
@@ -5099,6 +5298,7 @@ Wylie,33.02,-96.52,7-Eleven,33.0014996,-96.6829503,Convenience Store
 Wylie,33.02,-96.52,7-Eleven,32.9793416143779,-96.6643436564846,Convenience Store
 Wylie,33.02,-96.52,Macy's,32.953,-96.612,Department Store
 Wylie,33.02,-96.52,ALDI,32.906172342151415,-96.56843483448029,Grocery Store
+Wylie,33.02,-96.52,CVS pharmacy,32.94475702989141,-96.64690929370722,Pharmacy
 Bardwell,32.3,-96.6,QuikTrip,32.335873246581286,-96.61546367363512,Convenience Store
 Bardwell,32.3,-96.6,Walgreens,32.325717110487545,-96.6325731575489,Pharmacy
 Bardwell,32.3,-96.6,H-E-B,32.3240896,-96.6335816,Grocery Store
@@ -5867,7 +6067,6 @@ Fate,32.9,-96.3,European Wax Center,32.906563,-96.451142,Health & Beauty Service
 Fate,32.9,-96.3,DICK'S Sporting Goods,32.90359089797827,-96.45197250739025,Sporting Goods Shop
 Fate,32.9,-96.3,Academy Sports + Outdoors,32.89554058318138,-96.46840989589691,Sporting Goods Shop
 Fate,32.9,-96.3,Kroger (Signature),32.94958482909432,-96.46028308735214,Supermarket
-Fate,32.9,-96.3,Ulta Beauty,32.9038509,-96.4525021,Cosmetics Shop
 Fate,32.9,-96.3,PetSmart,32.9009981,-96.454568,Pet Store
 Fate,32.9,-96.3,Kroger,32.8891911,-96.4710282,Supermarket
 Fate,32.9,-96.3,Bath & Body Works,32.89664350097629,-96.46139897766756,Cosmetics Shop
@@ -5959,6 +6158,7 @@ Fate,32.9,-96.3,J.E.P. Marine and Construction,32.873274208175964,-96.4491623640
 Fate,32.9,-96.3,Griffith Roofing Company,32.876492999999996,-96.450209,Construction & Landscaping
 Fate,32.9,-96.3,Dots Fashions,32.902408762940844,-96.45289839596025,Boutique
 Fate,32.9,-96.3,Butler Law Office,32.91745804037957,-96.45169973373413,Lawyer
+Fate,32.9,-96.3,Boyds Septic Cleaning,32.907004,-96.1463139,Furniture / Home Store
 North Lancaster,32.63,-96.76,QuikTrip,32.644232055968104,-96.78876493770149,Convenience Store
 North Lancaster,32.63,-96.76,QuikTrip,32.59012929272872,-96.82430313196355,Convenience Store
 North Lancaster,32.63,-96.76,QuikTrip,32.64444203198091,-96.85656630293799,Convenience Store
@@ -6805,6 +7005,7 @@ Northwest Mesquite,32.82,-96.63,Target,32.813485301163105,-96.62114991085873,Big
 Northwest Mesquite,32.82,-96.63,Winco Foods,32.85513695042885,-96.64418664038715,Supermarket
 Northwest Mesquite,32.82,-96.63,PetSmart,32.794499,-96.627901,Pet Store
 Northwest Mesquite,32.82,-96.63,Tom Thumb,32.7461781,-96.5860986,Grocery Store
+Northwest Mesquite,32.82,-96.63,QuikTrip,32.863653605726995,-96.67184549677181,Convenience Store
 Northwest Mesquite,32.82,-96.63,Walgreens,32.82250035930367,-96.66083277466049,Pharmacy
 Northwest Mesquite,32.82,-96.63,Sprouts Farmers Market,32.8761124,-96.7341862,Grocery Store
 Northwest Mesquite,32.82,-96.63,Whole Foods Market,32.81575396868167,-96.75238743524041,Grocery Store
@@ -6900,7 +7101,6 @@ Northwest Mesquite,32.82,-96.63,7-Eleven,32.7915383,-96.76807,Convenience Store
 Northwest Mesquite,32.82,-96.63,Walgreens,32.83839698670748,-96.69710973819825,Pharmacy
 Northwest Mesquite,32.82,-96.63,Kroger,32.7202005,-96.6208434,Supermarket
 Northwest Mesquite,32.82,-96.63,Fiesta Mart,32.86234508501979,-96.74586696003973,Grocery Store
-Northwest Mesquite,32.82,-96.63,Walmart Pharmacy,32.80046790653172,-96.79370269348556,Pharmacy
 Palmer,32.43,-96.67,H-E-B,32.411814,-96.839792,Grocery Store
 Palmer,32.43,-96.67,Academy Sports + Outdoors,32.42883958624781,-96.83597981929779,Sporting Goods Shop
 Palmer,32.43,-96.67,QuikTrip,32.335873246581286,-96.61546367363512,Convenience Store
@@ -7328,6 +7528,7 @@ West Terrell,32.8,-96.3,Five Below,32.719116,-96.326178,Discount Store
 West Terrell,32.8,-96.3,CVS pharmacy,32.73756779891288,-96.3041045374022,Pharmacy
 West Terrell,32.8,-96.3,Walmart Pharmacy,32.74510772864088,-96.44603812122354,Pharmacy
 West Terrell,32.8,-96.3,Sunglass Hut,32.703001,-96.2850593,Accessories Store
+West Terrell,32.8,-96.3,rue21,32.702404833200816,-96.28365263342857,Clothing Store
 West Terrell,32.8,-96.3,Big Lots,32.73885244791634,-96.30007228725162,Big Box Store
 West Terrell,32.8,-96.3,The UPS Store,32.74392758395229,-96.44930072023772,Shipping Store
 West Terrell,32.8,-96.3,Levi's Outlet Store,32.702690999999994,-96.283757,Clothing Store
@@ -7726,7 +7927,6 @@ Lavon,33.02,-96.45,Academy Sports + Outdoors,32.89554058318138,-96.4684098958969
 Lavon,33.02,-96.45,Sprouts Farmers Market,33.013412697865746,-96.60832732915884,Grocery Store
 Lavon,33.02,-96.45,CVS pharmacy,32.95078439904944,-96.4621372395744,Pharmacy
 Lavon,33.02,-96.45,Walmart Supercenter,32.99173851879723,-96.5743247581236,Big Box Store
-Lavon,33.02,-96.45,Ulta Beauty,32.9038509,-96.4525021,Cosmetics Shop
 Lavon,33.02,-96.45,Kroger,32.8891911,-96.4710282,Supermarket
 Lavon,33.02,-96.45,PetSmart,32.9009981,-96.454568,Pet Store
 Lavon,33.02,-96.45,QuikTrip,33.0117445672763,-96.59145886024238,Convenience Store
@@ -7760,7 +7960,6 @@ Lavon,33.02,-96.45,Dollar Tree,32.901069382142275,-96.45501373368644,Discount St
 Lavon,33.02,-96.45,Sigel's,32.9219292039948,-96.4116401205263,Liquor Store
 Lavon,33.02,-96.45,Walgreens,33.00797071705078,-96.5479427576065,Pharmacy
 Lavon,33.02,-96.45,Best Buy,32.9039416,-96.4529849,Electronics Store
-Lavon,33.02,-96.45,Covington's Nursery & Landscape Co.,32.9092714674513,-96.55482658318617,Flower Shop
 Lavon,33.02,-96.45,The UPS Store,32.9700089,-96.6029742,Shipping Store
 Lavon,33.02,-96.45,The Children's Place,32.90338171,-96.44982,Kids Store
 Lavon,33.02,-96.45,Kirkland’s,32.901123999999996,-96.453919,Furniture / Home Store
@@ -7811,6 +8010,8 @@ Lavon,33.02,-96.45,Bloomfield Homes at Kreymer Estates,33.01656988,-96.52137977,
 Lavon,33.02,-96.45,Strip mall,32.95745528246312,-96.46461725234985,Shopping Mall
 Lavon,33.02,-96.45,GameStop,32.89566413757314,-96.46919984366751,Video Game Store
 Lavon,33.02,-96.45,Crosscreek Photography,33.068364,-96.511528,Photography Studio
+Lavon,33.02,-96.45,7-Eleven,32.9177378,-96.5185666,Convenience Store
+Lavon,33.02,-96.45,Farmers Insurance,33.013515999999996,-96.538723,Insurance Office
 West Waxahachie,32.4,-96.9,H-E-B,32.411814,-96.839792,Grocery Store
 West Waxahachie,32.4,-96.9,Hobby Lobby,32.4182263,-96.8429535,Fabric Shop
 West Waxahachie,32.4,-96.9,Academy Sports + Outdoors,32.42883958624781,-96.83597981929779,Sporting Goods Shop
@@ -8367,7 +8568,6 @@ Sunnyvale,32.79,-96.56,Ollie's Bargain Outlet,32.811068,-96.632989,Outlet Store
 Sunnyvale,32.79,-96.56,Petco,32.83456910840124,-96.70156971593296,Pet Store
 Sunnyvale,32.79,-96.56,Walmart Pharmacy,32.8612711691374,-96.653493376853,Pharmacy
 Sunnyvale,32.79,-96.56,The UPS Store,32.8121774,-96.6180867,Shipping Store
-Sunnyvale,32.79,-96.56,Covington's Nursery & Landscape Co.,32.9092714674513,-96.55482658318617,Flower Shop
 Sunnyvale,32.79,-96.56,Goodwill,32.82536272202368,-96.64909720618068,Thrift / Vintage Store
 Sunnyvale,32.79,-96.56,Walmart Pharmacy,32.79366016878027,-96.6892147064209,Pharmacy
 Sunnyvale,32.79,-96.56,7-Eleven,32.79491003151394,-96.69942126793369,Convenience Store
@@ -8394,6 +8594,7 @@ Sunnyvale,32.79,-96.56,CVS pharmacy,32.733778,-96.683512,Pharmacy
 Sunnyvale,32.79,-96.56,Kroger,32.8653178,-96.7017357,Supermarket
 Sunnyvale,32.79,-96.56,Sam's Club,32.79375105450611,-96.6863886098886,Warehouse Store
 Sunnyvale,32.79,-96.56,Kroger,32.8376105,-96.5968458,Supermarket
+Sunnyvale,32.79,-96.56,Family Thrift Center,32.89556800437277,-96.64198433016253,Thrift / Vintage Store
 Royse City,32.9,-96.3,Buc-Ee’s,32.979356,-96.294461,Convenience Store
 Royse City,32.9,-96.3,Costco,32.908398176040954,-96.44548870958658,Warehouse Store
 Royse City,32.9,-96.3,Hobby Lobby,32.9103416,-96.4527982,Fabric Shop
@@ -8402,7 +8603,6 @@ Royse City,32.9,-96.3,European Wax Center,32.906563,-96.451142,Health & Beauty S
 Royse City,32.9,-96.3,DICK'S Sporting Goods,32.90359089797827,-96.45197250739025,Sporting Goods Shop
 Royse City,32.9,-96.3,Academy Sports + Outdoors,32.89554058318138,-96.46840989589691,Sporting Goods Shop
 Royse City,32.9,-96.3,Kroger (Signature),32.94958482909432,-96.46028308735214,Supermarket
-Royse City,32.9,-96.3,Ulta Beauty,32.9038509,-96.4525021,Cosmetics Shop
 Royse City,32.9,-96.3,PetSmart,32.9009981,-96.454568,Pet Store
 Royse City,32.9,-96.3,Kroger,32.8891911,-96.4710282,Supermarket
 Royse City,32.9,-96.3,Bath & Body Works,32.89664350097629,-96.46139897766756,Cosmetics Shop
@@ -8494,6 +8694,7 @@ Royse City,32.9,-96.3,J.E.P. Marine and Construction,32.873274208175964,-96.4491
 Royse City,32.9,-96.3,Griffith Roofing Company,32.876492999999996,-96.450209,Construction & Landscaping
 Royse City,32.9,-96.3,Dots Fashions,32.902408762940844,-96.45289839596025,Boutique
 Royse City,32.9,-96.3,Butler Law Office,32.91745804037957,-96.45169973373413,Lawyer
+Royse City,32.9,-96.3,Boyds Septic Cleaning,32.907004,-96.1463139,Furniture / Home Store
 Downtown Dallas,32.79,-96.8,Whole Foods Market,32.7958041766768,-96.80160215524401,Grocery Store
 Downtown Dallas,32.79,-96.8,Fashion Industry Gallery,32.785983828449815,-96.80113440435098,Boutique
 Downtown Dallas,32.79,-96.8,West Village,32.80729802982262,-96.79704424311412,Shopping Mall
@@ -9994,106 +10195,106 @@ Cedar Crest - Dallas,32.71,-96.77,CVS pharmacy,32.81595836034599,-96.81056275992
 Cedar Crest - Dallas,32.71,-96.77,Walmart Pharmacy,32.79366016878027,-96.6892147064209,Pharmacy
 Cedar Crest - Dallas,32.71,-96.77,Kroger,32.6609136,-96.9089234,Supermarket
 Cedar Crest - Dallas,32.71,-96.77,Restaurant Depot,32.79514733194371,-96.83257087725703,Kitchen Supply Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Sprouts Farmers Market,32.8761124,-96.7341862,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Central Market,32.8497832,-96.7686762,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Whole Foods Market,32.81575396868167,-96.75238743524041,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Winco Foods,32.85513695042885,-96.64418664038715,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Whole Foods Market,32.871567714949514,-96.76575690507887,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Total Wine & More,32.874457,-96.768189,Wine Shop
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,The Shops at Park Lane,32.86859402364763,-96.76823258399963,Shopping Plaza
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Trader Joe's,32.814791361649974,-96.77048598872065,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,NorthPark Center,32.86857636691755,-96.77295513984531,Shopping Mall
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.8131221,-96.7301087,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Spec's,32.87862802724797,-96.76915532371054,Liquor Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Jimmy's Food Store,32.80405031718526,-96.77364081582759,Gourmet Shop
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Trader Joe's,32.88068055747814,-96.77247615522731,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Mockingbird Station,32.83755048031412,-96.77666797794659,Shopping Plaza
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Sprouts Farmers Market,32.811107859180815,-96.77277356386185,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Trader Joe's,32.821883384766046,-96.78986469259834,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,PetSmart,32.85436965620344,-96.7687852541069,Pet Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,West Village,32.80729802982262,-96.79704424311412,Shopping Mall
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,All Vapes,32.78559150060752,-96.77571014274238,Smoke Shop
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Target,32.85707678731128,-96.75264358520508,Big Box Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,eatZi's Market & Bakery,32.81161325097033,-96.80648437268215,Gourmet Shop
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Royal Blue Grocery,32.83532598190488,-96.80470919522881,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Whole Foods Market,32.7958041766768,-96.80160215524401,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Costco,32.91923391258573,-96.76831667800005,Warehouse Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Target,32.813485301163105,-96.62114991085873,Big Box Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Goody Goody Liquor,32.81055679546318,-96.80683517527511,Liquor Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Dallas Farmers Market,32.77763,-96.78929,Farmers Market
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Ruibal's Plants of Texas,32.77841277124539,-96.79041504400966,Garden Center
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Pet Supplies Plus,32.81876640483231,-96.81763113985517,Pet Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,CVS pharmacy,32.85054917699204,-96.77019839490163,Pharmacy
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Southwest Farmers Market,32.91571518132909,-96.69901470401331,Flea Market
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Fashion Industry Gallery,32.785983828449815,-96.80113440435098,Boutique
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Whole Foods Market,32.82047490184289,-96.8148822046511,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Sam's Club,32.86753765622814,-96.67541925203528,Warehouse Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Preston Center,32.864053859957245,-96.80466229589847,Shopping Mall
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Target,32.86554333167466,-96.74518238048475,Big Box Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,ALDI,32.8560119,-96.7497611,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Walgreens,32.82250035930367,-96.66083277466049,Pharmacy
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Kroger,32.8383822,-96.7709681,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Neiman Marcus,32.78063585961151,-96.7976188659668,Department Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Kroger,32.80643774742219,-96.78904287492236,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Central Market,32.8654419,-96.8364784,Gourmet Shop
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Plants & Planters,32.964688,-96.720634,Garden Center
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,PetSmart,32.794499,-96.627901,Pet Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.7891584,-96.8066885,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,CVS pharmacy,32.790408,-96.808048,Pharmacy
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,CVS pharmacy,32.80706750377956,-96.79806575558487,Pharmacy
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Micro Center,32.93788638755158,-96.74990083930437,Electronics Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Whole Foods Market,32.9075953760098,-96.80333647994816,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Jackson's Home & Garden,32.8429347264842,-96.83376332543129,Furniture / Home Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Albertsons,32.833832454908126,-96.70007396382735,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,ALDI,32.79433650386528,-96.7758992461226,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,The UPS Store,32.820400097479855,-96.78759873660056,Shipping Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.7461781,-96.5860986,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Firewheel Town Center,32.95394537485001,-96.61274525344237,Shopping Mall
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,QuikTrip,32.951284283455934,-96.73662493227772,Convenience Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Trader Joe's,32.95067895158459,-96.80198147243969,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Ruibal's Plants of Texas,32.838898111400326,-96.8334886779947,Flower Shop
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Sprouts Farmers Market,32.9086021,-96.5733516,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,QuikTrip,32.87512633674233,-96.76160847699492,Convenience Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.8637843,-96.8021044,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Best Buy,32.87545791365232,-96.76808648034623,Electronics Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Kroger,32.9081564,-96.7450171,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Kroger,32.8138846,-96.8298657,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.8445,-96.8226018,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,QuikTrip,32.933408212781835,-96.80260006916568,Convenience Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,QuikTrip,32.96108003816854,-96.6822607984219,Convenience Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.8519595,-96.7669597,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Galleria Dallas,32.93002154835603,-96.81964253641392,Shopping Mall
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Pogo's Wine & Spirits,32.850175511316614,-96.82101237247514,Wine Shop
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,CVS pharmacy,32.856644,-96.750313,Pharmacy
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Kroger,32.8653178,-96.7017357,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Walmart Neighborhood Market,32.86485000648934,-96.60664919827406,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Walmart Pharmacy,32.8627034385878,-96.75432618033267,Pharmacy
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Kroger,32.8132007,-96.8124138,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,QuikTrip,32.81198478578763,-96.7272596839083,Convenience Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Sam’s Club Now,32.816699,-96.769459,Warehouse Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Walgreens,32.811314809711526,-96.70162142532794,Pharmacy
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Target,32.864137,-96.80781999999999,Big Box Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.9374777,-96.6055302,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Walmart Pharmacy,32.8612711691374,-96.653493376853,Pharmacy
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,QuikTrip,32.86901251030158,-96.63249549032206,Convenience Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,El Rancho Supermercado,32.79506181290087,-96.77688320207284,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,"Academy Sports Garland, TX",32.95895190141628,-96.64647102355957,Sporting Goods Shop
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Natural Grocers,32.977294114161985,-96.74300909042358,Organic Grocery
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Restaurant Depot,32.96309542723383,-96.70465080360248,Kitchen Supply Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,7-Eleven,32.8289244,-96.8260472,Convenience Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.8642104,-96.7750816,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.9110939,-96.8023728,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Target,32.9089796854774,-96.55802884390384,Big Box Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,El Rancho Supermercado,32.94228262752423,-96.77034652656727,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Albertsons,32.7453598,-96.595274,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.8153899,-96.8008284,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Sam's Club,32.96102571065084,-96.64469983927674,Warehouse Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Michaels,32.853843452992734,-96.76863330756532,Arts & Crafts Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Tom Thumb,32.9523183,-96.8058468,Grocery Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Walgreens,32.9073774,-96.8036852,Pharmacy
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Sam's Club,32.86323361990008,-96.75420966623675,Warehouse Store
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Fiesta Mart Inc,32.932276079425996,-96.70175252137554,Supermarket
-"(Casa Linda, Lockwood) - Dallas",32.84,-96.7,Academy Sports + Outdoors,32.8590841,-96.7509527,Sporting Goods Shop
+Pleasant Grove - Dallas,32.7,-96.68,Dal-Tile Corporation Corporate Headquarters,32.716511130722886,-96.68610678445125,Outdoor Supply Store
+Pleasant Grove - Dallas,32.7,-96.68,QuikTrip,32.768997042622765,-96.62002325926883,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Tom Thumb,32.7461781,-96.5860986,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,QuikTrip,32.73694172005728,-96.61061056708233,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,All Vapes,32.78559150060752,-96.77571014274238,Smoke Shop
+Pleasant Grove - Dallas,32.7,-96.68,Dallas Farmers Market,32.77763,-96.78929,Farmers Market
+Pleasant Grove - Dallas,32.7,-96.68,Corner Store,32.7797027,-96.6232417,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Ruibal's Plants of Texas,32.77841277124539,-96.79041504400966,Garden Center
+Pleasant Grove - Dallas,32.7,-96.68,Jimmy's Food Store,32.80405031718526,-96.77364081582759,Gourmet Shop
+Pleasant Grove - Dallas,32.7,-96.68,Albertsons,32.7453598,-96.595274,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Ann's Health Food Center & Market,32.715611596150296,-96.82972305522537,Health Food Store
+Pleasant Grove - Dallas,32.7,-96.68,QuikTrip,32.74067963512826,-96.82499127794033,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,QuikTrip,32.631691817839226,-96.70188533643014,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Fashion Industry Gallery,32.785983828449815,-96.80113440435098,Boutique
+Pleasant Grove - Dallas,32.7,-96.68,Whole Foods Market,32.81575396868167,-96.75238743524041,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Trader Joe's,32.814791361649974,-96.77048598872065,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Urban Legends Comics,32.81301147749903,-96.63614283066933,Comic Shop
+Pleasant Grove - Dallas,32.7,-96.68,Whole Foods Market,32.7958041766768,-96.80160215524401,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Beverage Depot,32.792756065538235,-96.74620054172364,Liquor Store
+Pleasant Grove - Dallas,32.7,-96.68,Redenta's Garden Shop,32.814164406032944,-96.76179552471804,Flower Shop
+Pleasant Grove - Dallas,32.7,-96.68,Sprouts Farmers Market,32.811107859180815,-96.77277356386185,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Shed 2,32.77770114117337,-96.79007416712155,Farmers Market
+Pleasant Grove - Dallas,32.7,-96.68,Neiman Marcus,32.78063585961151,-96.7976188659668,Department Store
+Pleasant Grove - Dallas,32.7,-96.68,Academy Sports + Outdoors,32.81593417069676,-96.62425160408026,Sporting Goods Shop
+Pleasant Grove - Dallas,32.7,-96.68,Natural Grocers,32.832629533030364,-96.70204017675057,Organic Grocery
+Pleasant Grove - Dallas,32.7,-96.68,Target,32.813485301163105,-96.62114991085873,Big Box Store
+Pleasant Grove - Dallas,32.7,-96.68,Tom Thumb,32.8131221,-96.7301087,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,PetSmart,32.794499,-96.627901,Pet Store
+Pleasant Grove - Dallas,32.7,-96.68,Dollar General,32.734970000000004,-96.70222199999999,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,Walgreens,32.7784273,-96.699533,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Kroger,32.7444927,-96.5533258,Supermarket
+Pleasant Grove - Dallas,32.7,-96.68,Tom Thumb,32.7891584,-96.8066885,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Pet Supplies Plus,32.811402934444224,-96.7699168843133,Pet Store
+Pleasant Grove - Dallas,32.7,-96.68,Kroger,32.771852560199015,-96.60001180644956,Supermarket
+Pleasant Grove - Dallas,32.7,-96.68,7-Eleven,32.759977055126,-96.5610507130622,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,CVS pharmacy,32.790408,-96.808048,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Medallion Discount Liquor,32.81123333924775,-96.76211200817808,Liquor Store
+Pleasant Grove - Dallas,32.7,-96.68,QuikTrip,32.644232055968104,-96.78876493770149,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Walmart Neighborhood Market,32.7690190332357,-96.62840063031317,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,CVS pharmacy,32.745305243990316,-96.58324992135161,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Daiquiri's To Go,32.768766240028505,-96.81070223254561,Liquor Store
+Pleasant Grove - Dallas,32.7,-96.68,PetSmart,32.8127269552753,-96.73015153985645,Pet Store
+Pleasant Grove - Dallas,32.7,-96.68,ALDI,32.79433650386528,-96.7758992461226,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Kroger,32.80643774742219,-96.78904287492236,Supermarket
+Pleasant Grove - Dallas,32.7,-96.68,QuikTrip,32.824526540906014,-96.6233213550511,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Royal Blue Grocery,32.78099466425136,-96.79699422377918,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Dollar Tree,32.80983424437424,-96.7708149001278,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,CVS pharmacy,32.733778,-96.683512,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Walgreens,32.66182601650228,-96.83933907642502,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Dollar Tree,32.834804877469686,-96.70215007769339,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,Walgreens,32.82250035930367,-96.66083277466049,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,QuikTrip,32.686558956892476,-96.82529926300047,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Dallas Design Center,32.7894767505138,-96.81501153123718,Furniture / Home Store
+Pleasant Grove - Dallas,32.7,-96.68,Ulta Beauty,32.8317405,-96.7011627,Cosmetics Shop
+Pleasant Grove - Dallas,32.7,-96.68,Fiesta Mart Inc,32.710493238859286,-96.80282606607014,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,El Rancho Supermercado,32.79506181290087,-96.77688320207284,Supermarket
+Pleasant Grove - Dallas,32.7,-96.68,PetSmart,32.8032564,-96.7895665,Pet Store
+Pleasant Grove - Dallas,32.7,-96.68,Kroger,32.7202005,-96.6208434,Supermarket
+Pleasant Grove - Dallas,32.7,-96.68,7-Eleven,32.79491003151394,-96.69942126793369,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Walmart Pharmacy,32.79366016878027,-96.6892147064209,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Walmart Neighborhood Market,32.59105787309555,-96.78657908030372,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Dollar General,32.78131688701305,-96.59531593322754,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,Smoothie King,32.83291,-96.7041,Smoothie Shop
+Pleasant Grove - Dallas,32.7,-96.68,Family Dollar,32.708535,-96.800264,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,Dollar General,32.647624,-96.54131600000001,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,Petco,32.83456910840124,-96.70156971593296,Pet Store
+Pleasant Grove - Dallas,32.7,-96.68,Sam’s Club Now,32.816699,-96.769459,Warehouse Store
+Pleasant Grove - Dallas,32.7,-96.68,Minyards Food,32.662760744626574,-96.84269718046654,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,QuikTrip,32.81198478578763,-96.7272596839083,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Walmart Pharmacy,32.7886146,-96.5991956,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Target,32.803724741007805,-96.7914712429046,Big Box Store
+Pleasant Grove - Dallas,32.7,-96.68,Dollar General,32.801154595673545,-96.64523720741272,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,Walgreens,32.7197215,-96.8298248,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,CVS pharmacy,32.800111030356206,-96.78331106888855,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Walgreens,32.811314809711526,-96.70162142532794,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Sam's Club,32.79375105450611,-96.6863886098886,Warehouse Store
+Pleasant Grove - Dallas,32.7,-96.68,7-Eleven,32.7895595,-96.8087004,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,7-Eleven,32.7915383,-96.76807,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,ALDI,32.8132873,-96.6366186,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Albertsons,32.833832454908126,-96.70007396382735,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Walmart Pharmacy,32.80046790653172,-96.79370269348556,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Walgreens,32.7750237,-96.7628608,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Dollar Tree,32.72544148286798,-96.83317043127946,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,Ollie's Bargain Outlet,32.811068,-96.632989,Outlet Store
+Pleasant Grove - Dallas,32.7,-96.68,Dollar Tree,32.60483,-96.786337,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,Cvs Pharmacy,32.749175,-96.823356,Drugstore
+Pleasant Grove - Dallas,32.7,-96.68,7-Eleven,32.809145,-96.655126,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,7-Eleven,32.76868140000001,-96.7967179,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Family Dollar,32.62685,-96.77202,Discount Store
+Pleasant Grove - Dallas,32.7,-96.68,The UPS Store,32.8121774,-96.6180867,Shipping Store
+Pleasant Grove - Dallas,32.7,-96.68,CVS pharmacy,32.81155967102453,-96.7814475557446,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,7-Eleven,32.8074766,-96.6833784,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,Town East Mall,32.8076221,-96.6237708,Shopping Mall
+Pleasant Grove - Dallas,32.7,-96.68,"Fiesta Mart, LLC",32.603442,-96.787832,Supermarket
+Pleasant Grove - Dallas,32.7,-96.68,Walgreens,32.64822600643028,-96.53196469362229,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Walgreens,32.805233714261824,-96.7982023847639,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Walgreens,32.77040538954864,-96.5996258856192,Pharmacy
+Pleasant Grove - Dallas,32.7,-96.68,Albertsons,32.803703,-96.6457209,Grocery Store
+Pleasant Grove - Dallas,32.7,-96.68,Circle K,32.8013701,-96.6472523,Convenience Store
+Pleasant Grove - Dallas,32.7,-96.68,7-Eleven,32.8159182,-96.7531839,Convenience Store
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,eatZi's Market & Bakery,32.81161325097033,-96.80648437268215,Gourmet Shop
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Pet Supplies Plus,32.81876640483231,-96.81763113985517,Pet Store
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Goody Goody Liquor,32.81055679546318,-96.80683517527511,Liquor Store
@@ -10187,13 +10388,13 @@ Cedar Crest - Dallas,32.71,-96.77,Restaurant Depot,32.79514733194371,-96.8325708
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,CVS pharmacy,32.856644,-96.750313,Pharmacy
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Tom Thumb,32.9523183,-96.8058468,Grocery Store
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Walmart Pharmacy,32.8627034385878,-96.75432618033267,Pharmacy
-"(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Tom Thumb,32.896203,-96.8047967,Supermarket
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Michaels,32.853843452992734,-96.76863330756532,Arts & Crafts Store
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Kroger,32.9081564,-96.7450171,Supermarket
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Fiesta Mart Inc,32.69253259137927,-96.85584903588126,Grocery Store
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Sam's Club,32.922262741765486,-96.84287007074771,Warehouse Store
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,7-Eleven,32.816362927669275,-96.81128558040709,Convenience Store
 "(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,CVS pharmacy,32.81155967102453,-96.7814475557446,Pharmacy
+"(Turtle Creek, Oaklawn) - Dallas",32.81,-96.82,Walgreens,32.8813042161067,-96.96330711205036,Pharmacy
 Northwest Dallas,32.86,-96.87,Central Market,32.8654419,-96.8364784,Gourmet Shop
 Northwest Dallas,32.86,-96.87,Pet Supplies Plus,32.81876640483231,-96.81763113985517,Pet Store
 Northwest Dallas,32.86,-96.87,Royal Blue Grocery,32.83532598190488,-96.80470919522881,Grocery Store
@@ -10494,106 +10695,6 @@ Northwest Dallas,32.86,-96.87,El Rancho Supermercado,32.79506181290087,-96.77688
 "(Wynnewood, Elmwood, Five Mile Creek) - Dallas",32.71,-96.84,7-Eleven,32.7895595,-96.8087004,Convenience Store
 "(Wynnewood, Elmwood, Five Mile Creek) - Dallas",32.71,-96.84,QuikTrip,32.631691817839226,-96.70188533643014,Convenience Store
 "(Wynnewood, Elmwood, Five Mile Creek) - Dallas",32.71,-96.84,Albertsons,32.5930461,-96.9351707,Grocery Store
-University Park,32.87,-96.79,NorthPark Center,32.86857636691755,-96.77295513984531,Shopping Mall
-University Park,32.87,-96.79,Total Wine & More,32.874457,-96.768189,Wine Shop
-University Park,32.87,-96.79,Trader Joe's,32.88068055747814,-96.77247615522731,Grocery Store
-University Park,32.87,-96.79,Spec's,32.87862802724797,-96.76915532371054,Liquor Store
-University Park,32.87,-96.79,Whole Foods Market,32.871567714949514,-96.76575690507887,Grocery Store
-University Park,32.87,-96.79,Central Market,32.8497832,-96.7686762,Grocery Store
-University Park,32.87,-96.79,PetSmart,32.85436965620344,-96.7687852541069,Pet Store
-University Park,32.87,-96.79,Mockingbird Station,32.83755048031412,-96.77666797794659,Shopping Plaza
-University Park,32.87,-96.79,Royal Blue Grocery,32.83532598190488,-96.80470919522881,Grocery Store
-University Park,32.87,-96.79,Central Market,32.8654419,-96.8364784,Gourmet Shop
-University Park,32.87,-96.79,Trader Joe's,32.821883384766046,-96.78986469259834,Grocery Store
-University Park,32.87,-96.79,Sprouts Farmers Market,32.8761124,-96.7341862,Grocery Store
-University Park,32.87,-96.79,Costco,32.91923391258573,-96.76831667800005,Warehouse Store
-University Park,32.87,-96.79,eatZi's Market & Bakery,32.81161325097033,-96.80648437268215,Gourmet Shop
-University Park,32.87,-96.79,Trader Joe's,32.814791361649974,-96.77048598872065,Grocery Store
-University Park,32.87,-96.79,Pet Supplies Plus,32.81876640483231,-96.81763113985517,Pet Store
-University Park,32.87,-96.79,West Village,32.80729802982262,-96.79704424311412,Shopping Mall
-University Park,32.87,-96.79,Whole Foods Market,32.9075953760098,-96.80333647994816,Grocery Store
-University Park,32.87,-96.79,Whole Foods Market,32.82047490184289,-96.8148822046511,Grocery Store
-University Park,32.87,-96.79,Jimmy's Food Store,32.80405031718526,-96.77364081582759,Gourmet Shop
-University Park,32.87,-96.79,Goody Goody Liquor,32.81055679546318,-96.80683517527511,Liquor Store
-University Park,32.87,-96.79,Tom Thumb,32.8637843,-96.8021044,Grocery Store
-University Park,32.87,-96.79,Sprouts Farmers Market,32.811107859180815,-96.77277356386185,Grocery Store
-University Park,32.87,-96.79,Whole Foods Market,32.81575396868167,-96.75238743524041,Grocery Store
-University Park,32.87,-96.79,Whole Foods Market,32.7958041766768,-96.80160215524401,Grocery Store
-University Park,32.87,-96.79,Target,32.85707678731128,-96.75264358520508,Big Box Store
-University Park,32.87,-96.79,Trader Joe's,32.95067895158459,-96.80198147243969,Grocery Store
-University Park,32.87,-96.79,Galleria Dallas,32.93002154835603,-96.81964253641392,Shopping Mall
-University Park,32.87,-96.79,Pogo's Wine & Spirits,32.850175511316614,-96.82101237247514,Wine Shop
-University Park,32.87,-96.79,Tom Thumb,32.8445,-96.8226018,Supermarket
-University Park,32.87,-96.79,QuikTrip,32.933408212781835,-96.80260006916568,Convenience Store
-University Park,32.87,-96.79,Target,32.864137,-96.80781999999999,Big Box Store
-University Park,32.87,-96.79,Fashion Industry Gallery,32.785983828449815,-96.80113440435098,Boutique
-University Park,32.87,-96.79,All Vapes,32.78559150060752,-96.77571014274238,Smoke Shop
-University Park,32.87,-96.79,Whole Foods Market,32.95318325066417,-96.82118894584136,Grocery Store
-University Park,32.87,-96.79,Kroger,32.8383822,-96.7709681,Supermarket
-University Park,32.87,-96.79,Dallas Farmers Market,32.77763,-96.78929,Farmers Market
-University Park,32.87,-96.79,Best Buy,32.87545791365232,-96.76808648034623,Electronics Store
-University Park,32.87,-96.79,Micro Center,32.93788638755158,-96.74990083930437,Electronics Store
-University Park,32.87,-96.79,Ruibal's Plants of Texas,32.77841277124539,-96.79041504400966,Garden Center
-University Park,32.87,-96.79,Kroger,32.8138846,-96.8298657,Supermarket
-University Park,32.87,-96.79,CVS pharmacy,32.80706750377956,-96.79806575558487,Pharmacy
-University Park,32.87,-96.79,Tom Thumb,32.9110939,-96.8023728,Grocery Store
-University Park,32.87,-96.79,Goody Goody Liquor,32.95096309829762,-96.83092090601443,Liquor Store
-University Park,32.87,-96.79,Kroger,32.80643774742219,-96.78904287492236,Supermarket
-University Park,32.87,-96.79,Tom Thumb,32.7891584,-96.8066885,Grocery Store
-University Park,32.87,-96.79,Target,32.86554333167466,-96.74518238048475,Big Box Store
-University Park,32.87,-96.79,QuikTrip,32.87512633674233,-96.76160847699492,Convenience Store
-University Park,32.87,-96.79,ALDI,32.8560119,-96.7497611,Grocery Store
-University Park,32.87,-96.79,Tom Thumb,32.8131221,-96.7301087,Grocery Store
-University Park,32.87,-96.79,The UPS Store,32.820400097479855,-96.78759873660056,Shipping Store
-University Park,32.87,-96.79,Neiman Marcus,32.78063585961151,-96.7976188659668,Department Store
-University Park,32.87,-96.79,Sprouts Farmers Market,32.9769489,-96.7649131,Grocery Store
-University Park,32.87,-96.79,Spec's,32.95385055583497,-96.8307954585627,Liquor Store
-University Park,32.87,-96.79,7-Eleven,32.8289244,-96.8260472,Convenience Store
-University Park,32.87,-96.79,Tom Thumb,32.8519595,-96.7669597,Supermarket
-University Park,32.87,-96.79,Southwest Farmers Market,32.91571518132909,-96.69901470401331,Flea Market
-University Park,32.87,-96.79,Tom Thumb,32.8642104,-96.7750816,Grocery Store
-University Park,32.87,-96.79,Kroger,32.8132007,-96.8124138,Supermarket
-University Park,32.87,-96.79,Tom Thumb,32.9523183,-96.8058468,Grocery Store
-University Park,32.87,-96.79,Kroger,32.9081564,-96.7450171,Supermarket
-University Park,32.87,-96.79,Target,32.862575112632975,-96.85431395188571,Big Box Store
-University Park,32.87,-96.79,QuikTrip,32.90609002323001,-96.91924459435113,Convenience Store
-University Park,32.87,-96.79,Central Market,33.0021965,-96.7646127,Gourmet Shop
-University Park,32.87,-96.79,ALDI,32.79433650386528,-96.7758992461226,Grocery Store
-University Park,32.87,-96.79,Winco Foods,32.85513695042885,-96.64418664038715,Supermarket
-University Park,32.87,-96.79,Walmart Pharmacy,32.8627034385878,-96.75432618033267,Pharmacy
-University Park,32.87,-96.79,Natural Grocers,32.977294114161985,-96.74300909042358,Organic Grocery
-University Park,32.87,-96.79,QuikTrip,32.833495654995026,-96.83700957421259,Convenience Store
-University Park,32.87,-96.79,Sam's Club,32.922262741765486,-96.84287007074771,Warehouse Store
-University Park,32.87,-96.79,Tom Thumb,32.8153899,-96.8008284,Supermarket
-University Park,32.87,-96.79,QuikTrip,32.819449200648556,-96.86773845798683,Convenience Store
-University Park,32.87,-96.79,QuikTrip,32.826854,-96.886123,Convenience Store
-University Park,32.87,-96.79,Sam’s Club Now,32.816699,-96.769459,Warehouse Store
-University Park,32.87,-96.79,North Oak Cliff Beer & Wine,32.7496648,-96.8429886,Wine Shop
-University Park,32.87,-96.79,Tom Thumb,32.8598617,-96.9572287,Supermarket
-University Park,32.87,-96.79,PetSmart,32.9840789,-96.7697571,Pet Store
-University Park,32.87,-96.79,Tom Thumb,32.9107746,-96.8530131,Grocery Store
-University Park,32.87,-96.79,Sam's Club,32.86323361990008,-96.75420966623675,Warehouse Store
-University Park,32.87,-96.79,El Rancho Supermercado,32.79506181290087,-96.77688320207284,Supermarket
-University Park,32.87,-96.79,El Rio Grande Latin Market,32.74885414729656,-96.8588177305769,Supermarket
-University Park,32.87,-96.79,Target,32.803724741007805,-96.7914712429046,Big Box Store
-University Park,32.87,-96.79,Sam's Club,32.86753765622814,-96.67541925203528,Warehouse Store
-University Park,32.87,-96.79,Tom Thumb,32.9797026,-96.7667661,Grocery Store
-University Park,32.87,-96.79,QuikTrip,32.8622419358503,-96.74967483717153,Convenience Store
-University Park,32.87,-96.79,El Rio Grande Latin Market,32.81763508587543,-96.83186373244561,Supermarket
-University Park,32.87,-96.79,Kroger,32.952991397870974,-96.76772904372555,Supermarket
-University Park,32.87,-96.79,CVS pharmacy,32.88808057845817,-96.77167347573959,Pharmacy
-University Park,32.87,-96.79,Walgreens,32.8099296,-96.8086349,Pharmacy
-University Park,32.87,-96.79,QuikTrip,33.00811794378546,-96.79502878376192,Convenience Store
-University Park,32.87,-96.79,CVS pharmacy,32.81595836034599,-96.81056275992988,Pharmacy
-University Park,32.87,-96.79,Michaels,32.957539,-96.815942,Arts & Crafts Store
-University Park,32.87,-96.79,CVS pharmacy,32.829344822109604,-96.82618647124406,Pharmacy
-University Park,32.87,-96.79,Fiesta Mart Inc,32.932276079425996,-96.70175252137554,Supermarket
-University Park,32.87,-96.79,Kroger,32.99811907032441,-96.84592982801438,Supermarket
-University Park,32.87,-96.79,Sam's Club,33.00177830827298,-96.77003323421714,Warehouse Store
-University Park,32.87,-96.79,Old Town Shopping Center,32.8551168,-96.7683184,Shopping Plaza
-University Park,32.87,-96.79,Fiesta Mart,32.86234508501979,-96.74586696003973,Grocery Store
-University Park,32.87,-96.79,Kroger,32.984462873724645,-96.80119426580859,Supermarket
-University Park,32.87,-96.79,QuikTrip,32.838641442078945,-96.95192145691048,Convenience Store
 Deep Ellum - Dallas,32.78,-96.78,Dallas Farmers Market,32.77763,-96.78929,Farmers Market
 Deep Ellum - Dallas,32.78,-96.78,All Vapes,32.78559150060752,-96.77571014274238,Smoke Shop
 Deep Ellum - Dallas,32.78,-96.78,Ruibal's Plants of Texas,32.77841277124539,-96.79041504400966,Garden Center
@@ -11894,106 +11995,6 @@ East Redbird - Dallas,32.66,-96.87,HomeGoods,32.6924061,-97.0280261,Department S
 "(Lake Highlands, Highland Meadows) - Dallas",32.88,-96.71,Kroger,32.952991397870974,-96.76772904372555,Supermarket
 "(Lake Highlands, Highland Meadows) - Dallas",32.88,-96.71,Tom Thumb,32.8153899,-96.8008284,Supermarket
 "(Lake Highlands, Highland Meadows) - Dallas",32.88,-96.71,El Rancho Supermercado,32.79506181290087,-96.77688320207284,Supermarket
-Galleria - Dallas,32.93,-96.79,Trader Joe's,32.95067895158459,-96.80198147243969,Grocery Store
-Galleria - Dallas,32.93,-96.79,Costco,32.91923391258573,-96.76831667800005,Warehouse Store
-Galleria - Dallas,32.93,-96.79,QuikTrip,32.933408212781835,-96.80260006916568,Convenience Store
-Galleria - Dallas,32.93,-96.79,Galleria Dallas,32.93002154835603,-96.81964253641392,Shopping Mall
-Galleria - Dallas,32.93,-96.79,Whole Foods Market,32.95318325066417,-96.82118894584136,Grocery Store
-Galleria - Dallas,32.93,-96.79,Whole Foods Market,32.9075953760098,-96.80333647994816,Grocery Store
-Galleria - Dallas,32.93,-96.79,Trader Joe's,32.88068055747814,-96.77247615522731,Grocery Store
-Galleria - Dallas,32.93,-96.79,Spec's,32.87862802724797,-96.76915532371054,Liquor Store
-Galleria - Dallas,32.93,-96.79,Sprouts Farmers Market,32.9769489,-96.7649131,Grocery Store
-Galleria - Dallas,32.93,-96.79,Total Wine & More,32.874457,-96.768189,Wine Shop
-Galleria - Dallas,32.93,-96.79,Micro Center,32.93788638755158,-96.74990083930437,Electronics Store
-Galleria - Dallas,32.93,-96.79,Whole Foods Market,32.871567714949514,-96.76575690507887,Grocery Store
-Galleria - Dallas,32.93,-96.79,NorthPark Center,32.86857636691755,-96.77295513984531,Shopping Mall
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.9523183,-96.8058468,Grocery Store
-Galleria - Dallas,32.93,-96.79,Spec's,32.95385055583497,-96.8307954585627,Liquor Store
-Galleria - Dallas,32.93,-96.79,Central Market,33.0021965,-96.7646127,Gourmet Shop
-Galleria - Dallas,32.93,-96.79,Sprouts Farmers Market,32.8761124,-96.7341862,Grocery Store
-Galleria - Dallas,32.93,-96.79,Central Market,32.8497832,-96.7686762,Grocery Store
-Galleria - Dallas,32.93,-96.79,Central Market,32.8654419,-96.8364784,Gourmet Shop
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.9110939,-96.8023728,Grocery Store
-Galleria - Dallas,32.93,-96.79,PetSmart,32.85436965620344,-96.7687852541069,Pet Store
-Galleria - Dallas,32.93,-96.79,Market Street,33.02586512450553,-96.7993875146567,Grocery Store
-Galleria - Dallas,32.93,-96.79,PetSmart,32.9840789,-96.7697571,Pet Store
-Galleria - Dallas,32.93,-96.79,Trader Joe's,33.029319892351225,-96.79331933155652,Grocery Store
-Galleria - Dallas,32.93,-96.79,Total Wine & More,33.0103373,-96.7097292,Wine Shop
-Galleria - Dallas,32.93,-96.79,Royal Blue Grocery,32.83532598190488,-96.80470919522881,Grocery Store
-Galleria - Dallas,32.93,-96.79,Whole Foods Market,33.02956139792221,-96.79648557725595,Grocery Store
-Galleria - Dallas,32.93,-96.79,Southwest Farmers Market,32.91571518132909,-96.69901470401331,Flea Market
-Galleria - Dallas,32.93,-96.79,Total Wine & More,33.0297645,-96.837159,Wine Shop
-Galleria - Dallas,32.93,-96.79,Trader Joe's,32.821883384766046,-96.78986469259834,Grocery Store
-Galleria - Dallas,32.93,-96.79,Whole Foods Market,32.99869700503759,-96.69872017831952,Grocery Store
-Galleria - Dallas,32.93,-96.79,Kroger,32.9081564,-96.7450171,Supermarket
-Galleria - Dallas,32.93,-96.79,eatZi's Market & Bakery,32.81161325097033,-96.80648437268215,Gourmet Shop
-Galleria - Dallas,32.93,-96.79,Pet Supplies Plus,32.81876640483231,-96.81763113985517,Pet Store
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.9797026,-96.7667661,Grocery Store
-Galleria - Dallas,32.93,-96.79,Trader Joe's,32.814791361649974,-96.77048598872065,Grocery Store
-Galleria - Dallas,32.93,-96.79,Sam's Club,32.922262741765486,-96.84287007074771,Warehouse Store
-Galleria - Dallas,32.93,-96.79,Whole Foods Market,32.82047490184289,-96.8148822046511,Grocery Store
-Galleria - Dallas,32.93,-96.79,Costco,33.02395613502311,-96.83134728267883,Warehouse Store
-Galleria - Dallas,32.93,-96.79,West Village,32.80729802982262,-96.79704424311412,Shopping Mall
-Galleria - Dallas,32.93,-96.79,Super H-Mart,32.98499026997583,-96.91196632132015,Supermarket
-Galleria - Dallas,32.93,-96.79,Spec's,33.027070869214675,-96.82688739694827,Liquor Store
-Galleria - Dallas,32.93,-96.79,Target,32.85707678731128,-96.75264358520508,Big Box Store
-Galleria - Dallas,32.93,-96.79,QuikTrip,33.00811794378546,-96.79502878376192,Convenience Store
-Galleria - Dallas,32.93,-96.79,QuikTrip,32.90609002323001,-96.91924459435113,Convenience Store
-Galleria - Dallas,32.93,-96.79,Goody Goody Liquor,32.81055679546318,-96.80683517527511,Liquor Store
-Galleria - Dallas,32.93,-96.79,Jimmy's Food Store,32.80405031718526,-96.77364081582759,Gourmet Shop
-Galleria - Dallas,32.93,-96.79,Kroger,32.952991397870974,-96.76772904372555,Supermarket
-Galleria - Dallas,32.93,-96.79,Whole Foods Market,32.81575396868167,-96.75238743524041,Grocery Store
-Galleria - Dallas,32.93,-96.79,Sprouts Farmers Market,32.811107859180815,-96.77277356386185,Grocery Store
-Galleria - Dallas,32.93,-96.79,Pogo's Wine & Spirits,32.850175511316614,-96.82101237247514,Wine Shop
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.8445,-96.8226018,Supermarket
-Galleria - Dallas,32.93,-96.79,Sam's Club,33.00177830827298,-96.77003323421714,Warehouse Store
-Galleria - Dallas,32.93,-96.79,QuikTrip,33.00656388104498,-96.69892128888662,Convenience Store
-Galleria - Dallas,32.93,-96.79,Hobby Lobby,33.0175628,-96.7156956,Fabric Shop
-Galleria - Dallas,32.93,-96.79,Whole Foods Market,32.7958041766768,-96.80160215524401,Grocery Store
-Galleria - Dallas,32.93,-96.79,The Shops at Willow Bend,33.0306982771021,-96.83240174443202,Shopping Mall
-Galleria - Dallas,32.93,-96.79,Best Buy,32.87545791365232,-96.76808648034623,Electronics Store
-Galleria - Dallas,32.93,-96.79,Kroger,32.99811907032441,-96.84592982801438,Supermarket
-Galleria - Dallas,32.93,-96.79,Academy Sports + Outdoors,33.0464435,-96.8319659,Sporting Goods Shop
-Galleria - Dallas,32.93,-96.79,Target,32.864137,-96.80781999999999,Big Box Store
-Galleria - Dallas,32.93,-96.79,H Mart,33.03901155695478,-96.69705910986846,Supermarket
-Galleria - Dallas,32.93,-96.79,Kroger,32.984462873724645,-96.80119426580859,Supermarket
-Galleria - Dallas,32.93,-96.79,spec's,33.01868669209452,-96.76746685524843,Liquor Store
-Galleria - Dallas,32.93,-96.79,Target,32.86554333167466,-96.74518238048475,Big Box Store
-Galleria - Dallas,32.93,-96.79,99 Ranch Market,32.98100144864071,-96.90870689298166,Supermarket
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.9988139,-96.7305525,Grocery Store
-Galleria - Dallas,32.93,-96.79,Fashion Industry Gallery,32.785983828449815,-96.80113440435098,Boutique
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.9107746,-96.8530131,Grocery Store
-Galleria - Dallas,32.93,-96.79,Kroger,32.8383822,-96.7709681,Supermarket
-Galleria - Dallas,32.93,-96.79,ALDI,32.8560119,-96.7497611,Grocery Store
-Galleria - Dallas,32.93,-96.79,Target,32.98243226856123,-96.76970957059834,Big Box Store
-Galleria - Dallas,32.93,-96.79,Kroger,32.8138846,-96.8298657,Supermarket
-Galleria - Dallas,32.93,-96.79,Winco Foods,32.85513695042885,-96.64418664038715,Supermarket
-Galleria - Dallas,32.93,-96.79,Costco,33.04460575954025,-96.69934673778249,Warehouse Store
-Galleria - Dallas,32.93,-96.79,Target,32.862575112632975,-96.85431395188571,Big Box Store
-Galleria - Dallas,32.93,-96.79,Michaels,33.029097944989786,-96.83715204368133,Arts & Crafts Store
-Galleria - Dallas,32.93,-96.79,Dollar Tree,32.98552,-96.843801,Discount Store
-Galleria - Dallas,32.93,-96.79,Kroger,33.04759423928853,-96.83198601007462,Supermarket
-Galleria - Dallas,32.93,-96.79,CVS pharmacy,32.80706750377956,-96.79806575558487,Pharmacy
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.9998551,-96.7936833,Grocery Store
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.7891584,-96.8066885,Grocery Store
-Galleria - Dallas,32.93,-96.79,Kroger,32.80643774742219,-96.78904287492236,Supermarket
-Galleria - Dallas,32.93,-96.79,WinCo Foods,32.98669681448198,-96.88916788920085,Supermarket
-Galleria - Dallas,32.93,-96.79,Sprouts Farmers Market,33.06971449118448,-96.77336633205408,Grocery Store
-Galleria - Dallas,32.93,-96.79,The UPS Store,32.820400097479855,-96.78759873660056,Shipping Store
-Galleria - Dallas,32.93,-96.79,7-Eleven,32.8289244,-96.8260472,Convenience Store
-Galleria - Dallas,32.93,-96.79,Kroger,33.015134,-96.6558873,Supermarket
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.8519595,-96.7669597,Supermarket
-Galleria - Dallas,32.93,-96.79,Tom Thumb,32.8642104,-96.7750816,Grocery Store
-Galleria - Dallas,32.93,-96.79,Kroger,32.9770984,-96.6640319,Supermarket
-Galleria - Dallas,32.93,-96.79,Sam's Club,32.96102571065084,-96.64469983927674,Warehouse Store
-Galleria - Dallas,32.93,-96.79,Kroger,33.0389452,-96.7348536,Supermarket
-Galleria - Dallas,32.93,-96.79,Kroger,32.8132007,-96.8124138,Supermarket
-Galleria - Dallas,32.93,-96.79,Target,32.950908704806345,-96.85386876592146,Big Box Store
-Galleria - Dallas,32.93,-96.79,Walgreens,33.0707574227338,-96.77457332611084,Pharmacy
-Galleria - Dallas,32.93,-96.79,QuikTrip,32.826854,-96.886123,Convenience Store
-Galleria - Dallas,32.93,-96.79,Target,33.030470200293465,-96.82742539841693,Big Box Store
-Galleria - Dallas,32.93,-96.79,Sam's Club,32.86753765622814,-96.67541925203528,Warehouse Store
-Galleria - Dallas,32.93,-96.79,QuikTrip,32.819449200648556,-96.86773845798683,Convenience Store
 South Dallas,32.67,-96.76,Ann's Health Food Center & Market,32.715611596150296,-96.82972305522537,Health Food Store
 South Dallas,32.67,-96.76,QuikTrip,32.74067963512826,-96.82499127794033,Convenience Store
 South Dallas,32.67,-96.76,QuikTrip,32.644232055968104,-96.78876493770149,Convenience Store
@@ -12491,9 +12492,9 @@ Brook Hollow - Dallas,32.83,-96.88,Walgreens,32.8099296,-96.8086349,Pharmacy
 Brook Hollow - Dallas,32.83,-96.88,CVS pharmacy,32.829344822109604,-96.82618647124406,Pharmacy
 Brook Hollow - Dallas,32.83,-96.88,CVS pharmacy,32.81560375656008,-96.82833440003719,Pharmacy
 Brook Hollow - Dallas,32.83,-96.88,Target,32.86554333167466,-96.74518238048475,Big Box Store
-Brook Hollow - Dallas,32.83,-96.88,Tom Thumb,32.896203,-96.8047967,Supermarket
 Brook Hollow - Dallas,32.83,-96.88,Tom Thumb,32.742651,-96.8579407,Supermarket
 Brook Hollow - Dallas,32.83,-96.88,CVS pharmacy,32.81595836034599,-96.81056275992988,Pharmacy
+Brook Hollow - Dallas,32.83,-96.88,Tom Thumb,32.8519595,-96.7669597,Supermarket
 Far North Dallas,32.97,-96.8,Trader Joe's,32.95067895158459,-96.80198147243969,Grocery Store
 Far North Dallas,32.97,-96.8,Whole Foods Market,32.95318325066417,-96.82118894584136,Grocery Store
 Far North Dallas,32.97,-96.8,Sprouts Farmers Market,32.9769489,-96.7649131,Grocery Store
@@ -13415,6 +13416,7 @@ Princeton,33.1,-96.5,PetSmart,33.124642,-96.659702,Pet Store
 Princeton,33.1,-96.5,Walgreens,33.12888128625117,-96.6443961693115,Pharmacy
 Princeton,33.1,-96.5,Chestnut Square Farmer's Market,33.19467926830528,-96.61313450370204,Farmers Market
 Princeton,33.1,-96.5,Kroger,33.1159904,-96.6498817,Supermarket
+Princeton,33.1,-96.5,Dollar Tree,33.12523338387735,-96.65645920113259,Discount Store
 Princeton,33.1,-96.5,Target,33.12390783366084,-96.66174541672487,Big Box Store
 Princeton,33.1,-96.5,Dollar General,33.014418,-96.534601,Discount Store
 Princeton,33.1,-96.5,Allen Premium Outlets,33.1326412,-96.661166,Outlet Mall
@@ -13493,7 +13495,6 @@ Princeton,33.1,-96.5,Walmart Grocery Pickup and Delivery,33.024946,-96.511498,Gr
 Princeton,33.1,-96.5,Planet Spirit,33.181455506286945,-96.53001233755168,Liquor Store
 Princeton,33.1,-96.5,CVS pharmacy,33.100258997994516,-96.65988902482455,Pharmacy
 Princeton,33.1,-96.5,Comet Cleaners,33.12324975429332,-96.61423750963901,Dry Cleaner
-Princeton,33.1,-96.5,1 Stop Beer Wine & Cigar,33.01967863455185,-96.56827500244626,Beer Store
 Anna,33.3,-96.5,Goody Goody Liquor,33.34308302224519,-96.58861644076295,Liquor Store
 Anna,33.3,-96.5,CVS pharmacy,33.28299579372498,-96.56109260498482,Pharmacy
 Anna,33.3,-96.5,QuikTrip,33.229502458805364,-96.63173749215632,Convenience Store
@@ -13522,6 +13523,7 @@ Anna,33.3,-96.5,Kroger,33.215559992816445,-96.63288028570605,Supermarket
 Anna,33.3,-96.5,Redbox,33.34313150037979,-96.56627340742664,Video Store
 Anna,33.3,-96.5,Dollar General,33.205392745716246,-96.61231556023401,Discount Store
 Anna,33.3,-96.5,Bath & Body Works,33.2163312242704,-96.63986921899048,Cosmetics Shop
+Anna,33.3,-96.5,Dollar Tree,33.1746,-96.50419,Discount Store
 Anna,33.3,-96.5,Family Dollar,33.203009,-96.6124,Discount Store
 Anna,33.3,-96.5,Redbox,33.22186247116141,-96.63006225266548,Video Store
 Anna,33.3,-96.5,Planet Smoothie,33.219854,-96.638612,Smoothie Shop
@@ -13593,53 +13595,6 @@ Anna,33.3,-96.5,puppy direct,33.21649169921875,-96.62680053710938,Pet Store
 Anna,33.3,-96.5,Lady Butterbug,33.213761,-96.625674,Gift Shop
 Anna,33.3,-96.5,Lady Butterbug®,33.213792,-96.625815,Furniture / Home Store
 Anna,33.3,-96.5,"Michael D. Curran, Attorney at Law",33.220591,-96.632109,Lawyer
-Anna,33.3,-96.5,Taylormade Heat And Air,33.220591,-96.632109,Home Service
-Campbell,33.1,-95.9,Dollar General,32.999884053831344,-95.9416134394657,Discount Store
-Campbell,33.1,-95.9,Brookshire's,33.2366109541937,-95.9042792493259,Grocery Store
-Campbell,33.1,-95.9,CVS pharmacy,33.23681,-95.911569,Pharmacy
-Campbell,33.1,-95.9,Hibbett Sports,33.10120080950303,-95.91282638786315,Sporting Goods Shop
-Campbell,33.1,-95.9,Brewer and Son's Plumbing,33.13268,-95.88608,Construction & Landscaping
-Campbell,33.1,-95.9,Matthew's A/C Heating,33.14251016773039,-95.88276028633118,Home Service
-Campbell,33.1,-95.9,Petty's Home Inspections,33.14861917564558,-95.8762302654577,Home Service
-Campbell,33.1,-95.9,Dollar Store & More,33.128833,-95.838915,Convenience Store
-Campbell,33.1,-95.9,J&M Tire Shop,33.1291,-95.837241,Auto Garage
-Campbell,33.1,-95.9,CF Metalwork,33.1096682,-95.97695979999997,Business Service
-Campbell,33.1,-95.9,Blackjack Liquor,33.13035584034293,-95.82811855074459,Liquor Store
-Campbell,33.1,-95.9,SafePlay Golf Inc.,33.101787968744254,-95.98216295242308,Sporting Goods Shop
-Campbell,33.1,-95.9,CTI of Texas,33.15373,-95.84773,Construction & Landscaping
-Campbell,33.1,-95.9,SafePlay Golf Inc.,33.10051172539932,-95.98318219184875,Sporting Goods Shop
-Campbell,33.1,-95.9,Beer:30,33.13069969466903,-95.82517769914138,Liquor Store
-Campbell,33.1,-95.9,Hopkins County Rest Area,33.132979,-95.821318,Public Bathroom
-Campbell,33.1,-95.9,JP Contractor Inc.  /  Jason Pitts,33.128483,-95.9813708,Construction & Landscaping
-Campbell,33.1,-95.9,Campbell Travel Center,33.134427295712406,-95.98831700766412,Convenience Store
-Campbell,33.1,-95.9,Highway 69 Cycles,33.009509215606236,-95.94332456588745,Motorcycle Shop
-Campbell,33.1,-95.9,Compumin,32.99687,-95.939831,Other Repair Shop
-Campbell,33.1,-95.9,Anchor Plumbing,32.99551553839591,-95.93940049409866,Home Service
-Campbell,33.1,-95.9,Loyd Brigance Grass Sales Inc.,33.12445780000001,-96.0294095,Construction & Landscaping
-Campbell,33.1,-95.9,Back at the Ranch- Greenville,33.04187444068848,-96.01359844207764,Furniture / Home Store
-Campbell,33.1,-95.9,DMS Air,33.02598116403972,-96.00208640098572,Other Repair Shop
-Campbell,33.1,-95.9,All American Doors East Texas,33.20208578120695,-95.8325171470642,Construction & Landscaping
-Campbell,33.1,-95.9,101 Carpet Care Plus,32.98645591773935,-95.9434425830841,Home Service
-Campbell,33.1,-95.9,Carpet Cleaner Haltom City,33.21854858882584,-95.861656665802,Home Service
-Campbell,33.1,-95.9,Penske Truck Rental,33.132356,-96.04513,Rental Service
-Campbell,33.1,-95.9,Carroll Pools,33.1175,-96.05081,Construction & Landscaping
-Campbell,33.1,-95.9,tiny house,33.135131,-96.046645,Home Service
-Campbell,33.1,-95.9,Time Warner Spectrum Cable,33.2286006887037,-95.89297950267792,Business Service
-Campbell,33.1,-95.9,Joyful Hearts Learning Center,33.229486,-95.90335300000001,Child Care Service
-Campbell,33.1,-95.9,Jerry's Jump Zone,33.2289861,-95.87754489999999,Event Service
-Campbell,33.1,-95.9,A/APARTMENT & HOME MOVERS,33.23177763002147,-95.89729785919188,Home Service
-Campbell,33.1,-95.9,3m Refrigeration,33.2332852,-95.9058848,Home Service
-Campbell,33.1,-95.9,Dollar General,33.23494885214563,-95.91447688734239,Discount Store
-Campbell,33.1,-95.9,Walmart Garden Center,33.234935,-95.914764,Garden Center
-Campbell,33.1,-95.9,Jackson Hewitt Tax Service,33.234984,-95.9147608,Business Service
-Campbell,33.1,-95.9,Walmart Pharmacy,33.2350875,-95.9147219,Pharmacy
-Campbell,33.1,-95.9,Walmart Grocery Pickup,33.235117,-95.914805,Grocery Store
-Campbell,33.1,-95.9,Dub's quick stop,33.23596751352818,-95.8924103501622,Convenience Store
-Campbell,33.1,-95.9,Spartan Liquor,33.194325,-96.018249,Liquor Store
-Campbell,33.1,-95.9,Aracely's Hair Salon,33.23717,-95.894876,Health & Beauty Service
-Campbell,33.1,-95.9,Redbox,33.238633,-95.912801,Video Store
-Campbell,33.1,-95.9,Walmart Supercenter,33.23488439539497,-95.91444469617493,Big Box Store
-Campbell,33.1,-95.9,Carroll Foundation Repair,33.1174,-96.0506923,Construction & Landscaping
 Celeste,33.3,-96.2,Dollar General,33.37901728984569,-96.23918913783808,Discount Store
 Celeste,33.3,-96.2,Dollar Tree,33.3819723,-96.2394474,Discount Store
 Celeste,33.3,-96.2,Dollar General,33.3631,-96.0783,Discount Store
@@ -14216,6 +14171,106 @@ Southwest Arlington,32.63,-97.15,Macy's,32.68,-97.13,Department Store
 Southwest Arlington,32.63,-97.15,HomeGoods,32.6924061,-97.0280261,Department Store
 Southwest Arlington,32.63,-97.15,7-Eleven,32.6479192,-97.1346927,Convenience Store
 Southwest Arlington,32.63,-97.15,CVS pharmacy,32.6596789834166,-97.27027463065382,Pharmacy
+Southeast Arlington,32.62,-97.09,Sprouts Farmers Market,32.6062186,-97.1131917,Grocery Store
+Southeast Arlington,32.62,-97.09,Total Wine & More,32.679494,-97.1205212,Wine Shop
+Southeast Arlington,32.62,-97.09,Sam's Club,32.59404711642228,-97.14837075312752,Warehouse Store
+Southeast Arlington,32.62,-97.09,Arlington Highlands,32.68070746081329,-97.10969924926758,Shopping Mall
+Southeast Arlington,32.62,-97.09,Kroger Marketplace,32.5738864,-97.0834569,Supermarket
+Southeast Arlington,32.62,-97.09,Target,32.64300245208594,-97.06055522642671,Big Box Store
+Southeast Arlington,32.62,-97.09,Costco,32.68328755627715,-97.11237814923412,Warehouse Store
+Southeast Arlington,32.62,-97.09,Gracie Lane,32.669555315593385,-97.13511595918986,Gift Shop
+Southeast Arlington,32.62,-97.09,ALDI,32.67200779604811,-97.04499219991497,Grocery Store
+Southeast Arlington,32.62,-97.09,PetSmart,32.673488,-97.038845,Pet Store
+Southeast Arlington,32.62,-97.09,QuikTrip,32.68894853820952,-97.11554364200677,Convenience Store
+Southeast Arlington,32.62,-97.09,CVS pharmacy,32.648444589335625,-97.04422328156403,Pharmacy
+Southeast Arlington,32.62,-97.09,Kroger,32.66060401937263,-97.13608869911468,Supermarket
+Southeast Arlington,32.62,-97.09,Target,32.59020555321659,-97.14461804512567,Big Box Store
+Southeast Arlington,32.62,-97.09,CVS pharmacy,32.5951737889749,-97.1072384578942,Pharmacy
+Southeast Arlington,32.62,-97.09,QuikTrip,32.680911962360234,-97.00750259996668,Convenience Store
+Southeast Arlington,32.62,-97.09,Raymond's Liquor Stop,32.615396000000004,-97.16053199999999,Liquor Store
+Southeast Arlington,32.62,-97.09,Academy Sports + Outdoors,32.571088,-97.1127472,Sporting Goods Shop
+Southeast Arlington,32.62,-97.09,Walgreens,32.5715396,-97.0932016,Pharmacy
+Southeast Arlington,32.62,-97.09,QuikTrip,32.674635310567794,-97.02306129151091,Convenience Store
+Southeast Arlington,32.62,-97.09,Hobby Lobby,32.672522,-97.139288,Fabric Shop
+Southeast Arlington,32.62,-97.09,WinCo Foods,32.67353402389601,-97.13911171918606,Supermarket
+Southeast Arlington,32.62,-97.09,Tom Thumb,32.6712253,-97.0034707,Supermarket
+Southeast Arlington,32.62,-97.09,Target,32.68409889335653,-97.13603832801509,Big Box Store
+Southeast Arlington,32.62,-97.09,Grand Prairie Premium Outlets,32.67950664,-97.05366126,Outlet Mall
+Southeast Arlington,32.62,-97.09,IKEA,32.69003559980955,-97.02220838401873,Furniture / Home Store
+Southeast Arlington,32.62,-97.09,Sprouts Farmers Market,32.6769207,-97.1947703,Grocery Store
+Southeast Arlington,32.62,-97.09,Spec's Wine & Spirits,32.682278850227874,-97.13266460081464,Liquor Store
+Southeast Arlington,32.62,-97.09,Dollar General,32.65657,-97.076422,Discount Store
+Southeast Arlington,32.62,-97.09,Green's Produce,32.70705194304998,-97.15479519941283,Farmers Market
+Southeast Arlington,32.62,-97.09,QuikTrip,32.59223822393973,-97.15135292739691,Convenience Store
+Southeast Arlington,32.62,-97.09,Smoothie King,32.66595,-97.133667,Smoothie Shop
+Southeast Arlington,32.62,-97.09,PetSmart,32.681919,-97.11098,Pet Store
+Southeast Arlington,32.62,-97.09,ALDI,32.65478757718437,-97.13298082351685,Grocery Store
+Southeast Arlington,32.62,-97.09,GameStop,32.67950378877709,-97.12901557233113,Video Game Store
+Southeast Arlington,32.62,-97.09,Walgreens,32.6719808,-97.043675,Pharmacy
+Southeast Arlington,32.62,-97.09,Hiep Thai,32.711022239634964,-97.06708396081906,Grocery Store
+Southeast Arlington,32.62,-97.09,Sprouts Farmers Market,32.5925211,-96.9393553,Grocery Store
+Southeast Arlington,32.62,-97.09,Hong Kong Market,32.7101599493229,-97.04500659064978,Supermarket
+Southeast Arlington,32.62,-97.09,Hillside Village,32.60241589657342,-96.94217920303345,Shopping Mall
+Southeast Arlington,32.62,-97.09,Academy Sports + Outdoors,32.682680577567496,-97.12452113628387,Sporting Goods Shop
+Southeast Arlington,32.62,-97.09,QuikTrip,32.70906437445637,-97.02031397362852,Convenience Store
+Southeast Arlington,32.62,-97.09,Walgreens,32.6770256,-97.1941447,Pharmacy
+Southeast Arlington,32.62,-97.09,Nordstrom Rack,32.67869718353023,-97.12823219510659,Clothing Store
+Southeast Arlington,32.62,-97.09,Dollar Tree,32.59762719463482,-97.15044948461107,Discount Store
+Southeast Arlington,32.62,-97.09,Dollar Tree,32.6462912017143,-97.05945928789887,Discount Store
+Southeast Arlington,32.62,-97.09,Walgreens,32.6547565,-97.0776519,Pharmacy
+Southeast Arlington,32.62,-97.09,7-Eleven,32.707386561093784,-97.19171480280966,Convenience Store
+Southeast Arlington,32.62,-97.09,QuikTrip,32.67554182327889,-97.09246609666063,Convenience Store
+Southeast Arlington,32.62,-97.09,Best Buy,32.6773338,-97.1374816,Electronics Store
+Southeast Arlington,32.62,-97.09,Tom Thumb,32.72275656143119,-97.15037763118744,Grocery Store
+Southeast Arlington,32.62,-97.09,Winco Foods,32.67305,-97.13687,Supermarket
+Southeast Arlington,32.62,-97.09,Kroger,32.64849045261919,-97.18908919752093,Supermarket
+Southeast Arlington,32.62,-97.09,The UPS Store,32.67075697705327,-97.13151695051457,Shipping Store
+Southeast Arlington,32.62,-97.09,Kroger,32.6593111,-97.0662419,Supermarket
+Southeast Arlington,32.62,-97.09,QuikTrip,32.64893439144533,-97.06476123386713,Convenience Store
+Southeast Arlington,32.62,-97.09,Ulta Beauty,32.5980634,-97.1507558,Cosmetics Shop
+Southeast Arlington,32.62,-97.09,Hobby Lobby,32.5644331,-97.1187085,Fabric Shop
+Southeast Arlington,32.62,-97.09,OfficeMax,32.671143,-97.131769,Paper / Office Supplies Store
+Southeast Arlington,32.62,-97.09,Kroger,32.6827477,-97.1934668,Supermarket
+Southeast Arlington,32.62,-97.09,7-Eleven,32.6770947,-97.1660245,Convenience Store
+Southeast Arlington,32.62,-97.09,Kroger,32.6073451,-97.1181455,Supermarket
+Southeast Arlington,32.62,-97.09,The Parks at Arlington,32.67956370474904,-97.12959930395144,Shopping Mall
+Southeast Arlington,32.62,-97.09,QuikTrip,32.65488282639792,-97.134156735433,Convenience Store
+Southeast Arlington,32.62,-97.09,Tom Thumb,32.5819493,-97.1284601,Grocery Store
+Southeast Arlington,32.62,-97.09,Dallas Cowboys Pro Shop,32.74892397959307,-97.09265112876892,Sporting Goods Shop
+Southeast Arlington,32.62,-97.09,Walmart,32.707051645239986,-97.02103000760299,Big Box Store
+Southeast Arlington,32.62,-97.09,Sam's Club,32.67355206773463,-97.03970174644722,Warehouse Store
+Southeast Arlington,32.62,-97.09,At Home,32.6786716,-97.0482675,Furniture / Home Store
+Southeast Arlington,32.62,-97.09,ALDI,32.607811574855496,-97.11545258760447,Grocery Store
+Southeast Arlington,32.62,-97.09,ALDI,32.590496025755456,-96.9248815227865,Grocery Store
+Southeast Arlington,32.62,-97.09,QuikTrip,32.74206349732895,-97.02124906249664,Convenience Store
+Southeast Arlington,32.62,-97.09,QuikTrip,32.756976184492444,-97.114233696675,Convenience Store
+Southeast Arlington,32.62,-97.09,At Home,32.5729118,-97.1163925,Construction & Landscaping
+Southeast Arlington,32.62,-97.09,Fiesta Mart,32.70748550040592,-97.0905032515717,Grocery Store
+Southeast Arlington,32.62,-97.09,Traders Village,32.6940446,-97.05587299999999,Flea Market
+Southeast Arlington,32.62,-97.09,FedEx Ship Center,32.73271,-97.051702,Shipping Store
+Southeast Arlington,32.62,-97.09,Tom Thumb,32.6481094,-96.9230181,Supermarket
+Southeast Arlington,32.62,-97.09,Hobby Lobby,32.592565,-96.941203,Fabric Shop
+Southeast Arlington,32.62,-97.09,HomeGoods,32.6924061,-97.0280261,Department Store
+Southeast Arlington,32.62,-97.09,Walmart Neighborhood Market,32.58861780079795,-96.92448010080756,Grocery Store
+Southeast Arlington,32.62,-97.09,Walgreens,32.73111002689045,-97.0705031996788,Pharmacy
+Southeast Arlington,32.62,-97.09,Spec's,32.710266668781856,-97.15740121514594,Liquor Store
+Southeast Arlington,32.62,-97.09,QuikTrip,32.76373,-97.07614,Convenience Store
+Southeast Arlington,32.62,-97.09,Michaels,32.60377343747376,-96.93707013149839,Arts & Crafts Store
+Southeast Arlington,32.62,-97.09,CVS pharmacy,32.65870119809129,-97.16722061663626,Pharmacy
+Southeast Arlington,32.62,-97.09,Target,32.603303196712254,-96.9367145772834,Big Box Store
+Southeast Arlington,32.62,-97.09,PetSmart,32.5861194,-97.1403252,Pet Store
+Southeast Arlington,32.62,-97.09,Dollar Tree,32.71085186588216,-97.06575193644457,Discount Store
+Southeast Arlington,32.62,-97.09,ALDI,32.72180372897001,-97.1477222442627,Grocery Store
+Southeast Arlington,32.62,-97.09,QuikTrip,32.66439578767676,-97.24089559533813,Convenience Store
+Southeast Arlington,32.62,-97.09,Walgreens,32.6905301,-97.1153778,Pharmacy
+Southeast Arlington,32.62,-97.09,Kroger,32.762798,-97.1180085,Supermarket
+Southeast Arlington,32.62,-97.09,FedEx Office,32.677369134257034,-97.12740870455015,Shipping Store
+Southeast Arlington,32.62,-97.09,Ulta Beauty,32.7566177,-97.1004483,Cosmetics Shop
+Southeast Arlington,32.62,-97.09,Albertsons,32.6768894,-97.1999184,Grocery Store
+Southeast Arlington,32.62,-97.09,Marshalls,32.5906101,-96.9378576,Department Store
+Southeast Arlington,32.62,-97.09,Batteries Plus Bulbs,32.604807,-97.120493,Lighting Store
+Southeast Arlington,32.62,-97.09,Albertsons,32.5930461,-96.9351707,Grocery Store
+Southeast Arlington,32.62,-97.09,7-Eleven,32.678164,-97.043544,Convenience Store
 River Legacy Parks - Arlington,32.78,-97.1,Whole Foods Market,32.76649702921431,-97.0989113578509,Grocery Store
 River Legacy Parks - Arlington,32.78,-97.1,Tom Thumb,32.7833881,-97.0934462,Grocery Store
 River Legacy Parks - Arlington,32.78,-97.1,Brü City,32.8187274713962,-97.08323348600493,Beer Store
@@ -14437,6 +14492,7 @@ Alvarado,32.4,-97.2,Cricket Wireless,32.41757,-97.22546,Mobile Phone Shop
 Alvarado,32.4,-97.2,U.S. Patriot Construction & Roofing Inc,32.4256128,-97.2163499,Construction & Landscaping
 Alvarado,32.4,-97.2,UPS Access Point location,32.416161,-97.22957,Shipping Store
 Alvarado,32.4,-97.2,Priority Plumbing,32.42593,-97.22086,Home Service
+Alvarado,32.4,-97.2,Frontier Landscape Construction,32.436967,-97.18348499999999,Construction & Landscaping
 Alvarado,32.4,-97.2,Diamond M Services Air Conditioning and Heating Service,32.36075,-97.21822,Home Service
 Alvarado,32.4,-97.2,Garris Wholesale,32.43790394752232,-97.17032790184021,Furniture / Home Store
 Alvarado,32.4,-97.2,Sentinel Electric LLC,32.4483946,-97.1960948,Construction & Landscaping
@@ -14509,7 +14565,6 @@ Alvarado,32.4,-97.2,CNC Fabrications & Maintenance Inc.,32.5234271366007,-97.268
 Alvarado,32.4,-97.2,Big Blue Party Rentals,32.50956268792081,-97.1026611328125,Event Service
 Alvarado,32.4,-97.2,Craven Roofing & Construction,32.537859409451066,-97.21420021097822,Construction & Landscaping
 Alvarado,32.4,-97.2,Texas Paving,32.5371202,-97.1776581,Construction & Landscaping
-Alvarado,32.4,-97.2,Carpet Cleaning Of Midlothian TX,32.46465706030691,-97.05454230308533,Home Service
 East Arlington,32.72,-97.08,Hiep Thai,32.711022239634964,-97.06708396081906,Grocery Store
 East Arlington,32.72,-97.08,Total Wine & More,32.679494,-97.1205212,Wine Shop
 East Arlington,32.72,-97.08,Costco,32.68328755627715,-97.11237814923412,Warehouse Store
@@ -16218,7 +16273,6 @@ Cresson,32.57,-97.65,Famous Footware,32.456138,-97.731147,Shoe Store
 Cresson,32.57,-97.65,Family Dollar,32.597484,-97.813646,Discount Store
 Cresson,32.57,-97.65,H & H Painting & Remodeling,32.5546533,-97.689667,Construction & Landscaping
 Cresson,32.57,-97.65,Double Barrel Fireworks,32.570914768500295,-97.60518725604837,Toy / Game Store
-Cresson,32.57,-97.65,ADT Security Services,32.532920675187846,-97.61782765388489,Business Service
 Cresson,32.57,-97.65,CJ's Machine and Fab Shop,32.52408948049863,-97.63670266256668,Business Service
 Cresson,32.57,-97.65,Paradise Outdoor Kitchens,32.597921,-97.574994,Furniture / Home Store
 Cresson,32.57,-97.65,GCH Ready Mixed Concrete & Batch Plant,32.485775,-97.688519,Construction & Landscaping
@@ -16241,6 +16295,7 @@ Cresson,32.57,-97.65,Jim's Tree Service,32.63825458126102,-97.5435733795166,Cons
 Cresson,32.57,-97.65,Norfolk Lock & keys,32.64042106932463,-97.54517197608948,Locksmith
 Cresson,32.57,-97.65,Fat Rat Wraps,32.469146821098,-97.71098613739014,Print Shop
 Cresson,32.57,-97.65,Protech Roofing,32.64054935858201,-97.54438877105713,Furniture / Home Store
+Cresson,32.57,-97.65,Mike Locksmith,32.64008860092983,-97.54388451576233,Locksmith
 Cresson,32.57,-97.65,E Rl Thornt Fwy Lock & keys,32.6406559648061,-97.54435658454895,Locksmith
 Cresson,32.57,-97.65,AP Blacktop Service,32.63079531,-97.53431478,Business Service
 Cresson,32.57,-97.65,Sessions Enterprises LLC,32.46911061424504,-97.71542251110077,Home Service
@@ -16783,10 +16838,10 @@ Godley,32.4,-97.5,Metro by T-Mobile,32.34479365512676,-97.39590349673153,Mobile 
 Godley,32.4,-97.5,Fred Loya Insurance,32.344846999999994,-97.395785,Insurance Office
 Godley,32.4,-97.5,RV Tech,32.3485,-97.39235,Auto Garage
 Godley,32.4,-97.5,Cleburne Rain Gutters,32.34713414774286,-97.39326238632202,Home Service
+Godley,32.4,-97.5,Farmers Insurance,32.345664,-97.39404,Insurance Office
 Godley,32.4,-97.5,Cricket Wireless Authorized Retailer,32.345664,-97.39404,Mobile Phone Shop
 Godley,32.4,-97.5,Stars And Stripes Painting,32.4652363968583,-97.4028217792511,Home Service
 Godley,32.4,-97.5,"Honor Lock & keys, Inc.",32.46530881366518,-97.40196347236633,Locksmith
-Godley,32.4,-97.5,Diamond Auto Glass,32.46505535458633,-97.40166306495667,Auto Workshop
 West Granbury,32.4,-97.8,H-E-B,32.4575157,-97.7296676,Grocery Store
 West Granbury,32.4,-97.8,Kroger,32.453995027689224,-97.72695034267466,Supermarket
 West Granbury,32.4,-97.8,GameStop,32.43392175,-97.783775,Video Game Store
@@ -16968,7 +17023,6 @@ East Granbury,32.5,-97.7,Diamond C Sandblasting & Painting,32.44296546702055,-97
 East Granbury,32.5,-97.7,Alluring Spa,32.443998,-97.749826,Health & Beauty Service
 East Granbury,32.5,-97.7,Beltone Hearing Care Center,32.441707,-97.75555,Medical Supply Store
 East Granbury,32.5,-97.7,Patti's Last Resort Quilt Shop & Retreat Center,32.42682918487318,-97.67612010240555,Clothing Store
-East Granbury,32.5,-97.7,ADT Security Services,32.532920675187846,-97.61782765388489,Business Service
 East Granbury,32.5,-97.7,Franklin Renovations,32.42261806378169,-97.70541787147522,Home Service
 East Granbury,32.5,-97.7,Daniel's Welding Services,32.426257,-97.72919,Construction & Landscaping
 East Granbury,32.5,-97.7,James Avery Jewelry,32.469478,-97.787054,Jewelry Store
@@ -16987,6 +17041,7 @@ East Granbury,32.5,-97.7,Aaron's,32.43915074249923,-97.76589820144193,Furniture 
 East Granbury,32.5,-97.7,Larry's Liquor,32.43859016976028,-97.76595161783268,Liquor Store
 East Granbury,32.5,-97.7,Bates Heating & Air,32.43772285032439,-97.76522040367126,Home Service
 East Granbury,32.5,-97.7,HomeGoods,32.4386036,-97.7664383,Department Store
+East Granbury,32.5,-97.7,Ulta Beauty,32.438462,-97.7668044,Cosmetics Shop
 Grandview,32.3,-97.2,QuikTrip,32.415391929844056,-97.22871641477562,Convenience Store
 Grandview,32.3,-97.2,I-H 35 Liquor Depot,32.417556159820414,-97.22550100125704,Liquor Store
 Grandview,32.3,-97.2,Dollar General,32.270526768148756,-97.17617174141004,Discount Store
@@ -18202,6 +18257,7 @@ Millsap,32.7,-98.0,Mattress Depot,32.808143,-98.101743,Mattress Store
 Millsap,32.7,-98.0,The Handy Stop,32.796492,-98.117729,Convenience Store
 Millsap,32.7,-98.0,Freeway Insurance,32.8081049,-98.1037791,Insurance Office
 Millsap,32.7,-98.0,Mr. C Food Stores,32.808953,-98.103674,Convenience Store
+Millsap,32.7,-98.0,Bargains For Better Homes,32.81005,-98.10368,Furniture / Home Store
 Millsap,32.7,-98.0,KSD Vapes,32.80403,-98.112529,Smoke Shop
 Millsap,32.7,-98.0,Wallace Insurance Agency,32.80953209398939,-98.1063973903656,Insurance Office
 Millsap,32.7,-98.0,Awards & More,32.807133450709365,-98.11020612716675,Gift Shop
@@ -19027,7 +19083,6 @@ South and East Weatherford,32.7,-97.8,Walden Farm & Ranch Supply,32.724927318890
 South and East Weatherford,32.7,-97.8,Wells Fargo Advisors,32.72566435329306,-97.78641721944084,Business Service
 South and East Weatherford,32.7,-97.8,Nextlink,32.728489829872416,-97.79904054750496,IT Services
 South and East Weatherford,32.7,-97.8,Liquor Galore,32.728629243110056,-97.79832913726199,Liquor Store
-South and East Weatherford,32.7,-97.8,"Artisan Vapor & CBD Weatherford, TX",32.727364280927766,-97.78760612010956,Smoke Shop
 South and East Weatherford,32.7,-97.8,Girls & Pearls Boutique,32.726822739564895,-97.815420627594,Clothing Store
 South and East Weatherford,32.7,-97.8,Spectacles West,32.72788873907111,-97.78728726818846,Optical Shop
 South and East Weatherford,32.7,-97.8,OfficeMax - Print & Copy Services,32.72957768738879,-97.7942116467056,Print Shop
@@ -19078,6 +19133,7 @@ South and East Weatherford,32.7,-97.8,Firehouse Builders,32.74232,-97.76979,Cons
 South and East Weatherford,32.7,-97.8,Metro by T-Mobile,32.74964765718326,-97.797102224544,Mobile Phone Shop
 South and East Weatherford,32.7,-97.8,DK Gas Station,32.73715997,-97.76057477,Convenience Store
 South and East Weatherford,32.7,-97.8,Ben Combs Optical,32.750322,-97.797512,Optical Shop
+South and East Weatherford,32.7,-97.8,Charter Spectrum,32.745883015372264,-97.77297735214233,Business Service
 Northwest Weatherford,32.9,-97.9,"Four Way Traction, Inc.",32.87434532287151,-97.90407836437225,Convenience Store
 Northwest Weatherford,32.9,-97.9,Phillips Services Unlimited,32.8962634,-97.9457582,Construction & Landscaping
 Northwest Weatherford,32.9,-97.9,Gosnell Construction Inc.,32.858353,-97.86844699999999,Construction & Landscaping
@@ -21578,7 +21634,6 @@ TCU,32.709,-97.363,Target,32.74901609484095,-97.43193784771015,Big Box Store
 "(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,Natural Grocers,32.75084,-97.35432,Organic Grocery
 "(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,Dollar Tree,32.858662,-97.239719,Discount Store
 "(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,Target,32.90821745718941,-97.18836232307834,Big Box Store
-"(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,Office Depot,32.884418,-97.259262,Paper / Office Supplies Store
 "(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,Walmart Pharmacy,32.88340512188873,-97.38653483788875,Pharmacy
 "(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,CVS pharmacy,32.89375188229521,-97.29017951088542,Pharmacy
 "(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,Tom Thumb,32.8640062,-97.1795488,Grocery Store
@@ -21613,6 +21668,7 @@ TCU,32.709,-97.363,Target,32.74901609484095,-97.43193784771015,Big Box Store
 "(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,Fiesta Mart,32.79578178015157,-97.3464709745518,Grocery Store
 "(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,GameStop,32.90798115096343,-97.18985108878299,Video Game Store
 "(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,Tom Thumb,32.9323121,-97.2281451,Grocery Store
+"(North Brook, Fossil Creek Estates) - Fort Worth",32.88,-97.35,Walgreens,32.893108228482845,-97.28892311453819,Pharmacy
 "(Quail Ridge Estates, Huken Bend Estates) - Fort Worth",32.66,-97.42,Spec's,32.680331335958364,-97.41633396647143,Liquor Store
 "(Quail Ridge Estates, Huken Bend Estates) - Fort Worth",32.66,-97.42,Total Wine & More,32.673025,-97.40055,Wine Shop
 "(Quail Ridge Estates, Huken Bend Estates) - Fort Worth",32.66,-97.42,Costco,32.677616496502004,-97.40858328967609,Warehouse Store
@@ -22590,7 +22646,6 @@ DFW Airport Area - Fort Worth,32.81,-97.05,Michaels,32.909888,-96.961546,Arts & 
 "(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,Calloway's Nursery,32.94030537044018,-97.147101107167,Garden Center
 "(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,Walmart Supercenter,32.96740496410291,-97.41160117793304,Big Box Store
 "(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,QuikTrip,32.839226601749786,-97.23954653028342,Convenience Store
-"(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,Office Depot,32.884418,-97.259262,Paper / Office Supplies Store
 "(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,Smoothie King,32.894361,-97.258179,Smoothie Shop
 "(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,CVS pharmacy,32.98305987450109,-97.38270579105597,Pharmacy
 "(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,7-Eleven,32.9695017831795,-97.3530533909797,Convenience Store
@@ -22613,6 +22668,7 @@ DFW Airport Area - Fort Worth,32.81,-97.05,Michaels,32.909888,-96.961546,Arts & 
 "(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,Corner Store,32.8606515,-97.2855953,Convenience Store
 "(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,Dollar General,32.93843877215723,-97.25416585494636,Discount Store
 "(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,Tom Thumb,32.999729,-97.205279,Grocery Store
+"(Texas Motor Speedway, Elizabethtown) - Fort Worth",32.97,-97.29,Dollar Tree,32.902705,-97.197151,Discount Store
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Kroger Marketplace,32.8826796,-97.3955804,Grocery Store
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,WinCo Foods,32.90324752835162,-97.32105176653492,Supermarket
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Costco,32.900853972256414,-97.32030595751863,Warehouse Store
@@ -22678,7 +22734,6 @@ DFW Airport Area - Fort Worth,32.81,-97.05,Michaels,32.909888,-96.961546,Arts & 
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Walmart Neighborhood Market,32.875033747636884,-97.27034825986101,Grocery Store
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,7-Eleven,32.851738746737674,-97.4108072012234,Convenience Store
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,CVS pharmacy,32.89375188229521,-97.29017951088542,Pharmacy
-"(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Office Depot,32.884418,-97.259262,Paper / Office Supplies Store
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Walgreens,32.89168699483017,-97.25849962509528,Pharmacy
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,7-Eleven,32.9695017831795,-97.3530533909797,Convenience Store
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Dollar Tree,32.858662,-97.239719,Discount Store
@@ -22713,6 +22768,7 @@ DFW Airport Area - Fort Worth,32.81,-97.05,Michaels,32.909888,-96.961546,Arts & 
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,The UPS Store,32.8952807,-97.2901882,Shipping Store
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Walmart Pharmacy,32.90411631119883,-97.5461314949292,Pharmacy
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,CVS pharmacy,32.81242480891865,-97.43291525824809,Pharmacy
+"(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Walgreens,32.8606793,-97.2887555,Pharmacy
 North Richland Hills - Fort Worth,32.84,-97.22,WinCo Foods,32.84290941790971,-97.23531769652114,Supermarket
 North Richland Hills - Fort Worth,32.84,-97.22,QuikTrip,32.82946492396729,-97.22066098392354,Convenience Store
 North Richland Hills - Fort Worth,32.84,-97.22,QuikTrip,32.861202207724496,-97.21025037149707,Convenience Store
@@ -23218,6 +23274,7 @@ Far East Denton,33.21,-97.07,Bed Bath & Beyond,33.190818,-97.1030265,Furniture /
 Far East Denton,33.21,-97.07,Mardel Christian and Education #21,33.19499520045787,-97.09755128666254,Bookstore
 Far East Denton,33.21,-97.07,Kroger,33.195245148019296,-97.09566326471759,Supermarket
 Far East Denton,33.21,-97.07,Atomic Candy,33.214422263505206,-97.13272752331194,Candy Store
+Far East Denton,33.21,-97.07,Recycled Books,33.21582999812857,-97.13216219281873,Bookstore
 Far East Denton,33.21,-97.07,The Bearded Monk,33.216399574122946,-97.13146424695316,Beer Store
 Far East Denton,33.21,-97.07,Natural Grocers,33.231468993735355,-97.13255951885246,Organic Grocery
 Far East Denton,33.21,-97.07,PetSmart,33.1939143,-97.0926248,Pet Store
@@ -23312,7 +23369,6 @@ Far East Denton,33.21,-97.07,7-Eleven,33.1943738701093,-97.1245208465189,Conveni
 Far East Denton,33.21,-97.07,Walgreens,33.2303449,-97.1329188,Pharmacy
 Far East Denton,33.21,-97.07,Dollar General,33.260766,-97.221307,Discount Store
 Far East Denton,33.21,-97.07,CVS pharmacy,33.071062969282416,-97.03518219823643,Pharmacy
-Far East Denton,33.21,-97.07,CVS pharmacy,33.07269940026496,-97.10937738418579,Pharmacy
 Northeast Denton,33.23,-97.11,Natural Grocers,33.231468993735355,-97.13255951885246,Organic Grocery
 Northeast Denton,33.23,-97.11,Atomic Candy,33.214422263505206,-97.13272752331194,Candy Store
 Northeast Denton,33.23,-97.11,The Bearded Monk,33.216399574122946,-97.13146424695316,Beer Store
@@ -23391,7 +23447,6 @@ Northeast Denton,33.23,-97.11,Macy's,33.191,-97.108,Department Store
 Northeast Denton,33.23,-97.11,JOANN Fabrics and Crafts,33.231815343822745,-97.16589860450249,Fabric Shop
 Northeast Denton,33.23,-97.11,Walmart Supercenter,33.22787022481112,-96.98416338815954,Big Box Store
 Northeast Denton,33.23,-97.11,Big Lots,33.18590968763949,-97.10516886749383,Big Box Store
-Northeast Denton,33.23,-97.11,Denton Florist,33.232535,-97.091429,Flower Shop
 Northeast Denton,33.23,-97.11,Richards Janitorial Service,33.233933,-97.1324039,Business Service
 Northeast Denton,33.23,-97.11,Howard E Watt PC,33.224089,-97.131941,Lawyer
 Northeast Denton,33.23,-97.11,Faded Blue,33.2236538,-97.13208730000001,Furniture / Home Store
@@ -23413,6 +23468,7 @@ Northeast Denton,33.23,-97.11,Denton Camera Exchange,33.215132000000004,-97.1367
 Northeast Denton,33.23,-97.11,Camille Milner - Milner Law,33.2148834,-97.1389543,Lawyer
 Northeast Denton,33.23,-97.11,Walmart Supercenter,33.191631952675536,-97.09354272029204,Big Box Store
 Northeast Denton,33.23,-97.11,Starr Kustom Paint,33.209922607441435,-97.08451867103577,Motorsports Shop
+Northeast Denton,33.23,-97.11,Dent Connect,33.20745,-97.13347,Auto Garage
 Corinth - Denton,33.15,-97.1,Kroger,33.1457721,-97.1022627,Supermarket
 Corinth - Denton,33.15,-97.1,Total Wine & More,33.19274889840985,-97.09997355937958,Wine Shop
 Corinth - Denton,33.15,-97.1,Sprouts Farmers Market,33.1479705,-97.1069909,Grocery Store
@@ -23570,6 +23626,7 @@ Lantana,33.12,-97.17,Hobby Lobby,33.187335,-97.103637,Fabric Shop
 Lantana,33.12,-97.17,HomeGoods,33.074807181990515,-97.08130468542332,Furniture / Home Store
 Lantana,33.12,-97.17,QuikTrip,33.206089043441224,-97.13571241163538,Convenience Store
 Lantana,33.12,-97.17,Tom Thumb,33.0399075,-97.0972478,Grocery Store
+Lantana,33.12,-97.17,GameStop,33.01260232559716,-97.21865460075124,Video Game Store
 Lantana,33.12,-97.17,Target,33.189529783001625,-97.09847255172237,Big Box Store
 Lantana,33.12,-97.17,Walmart Supercenter,33.07620784648163,-97.07869341909719,Big Box Store
 Lantana,33.12,-97.17,PetSmart,33.1939143,-97.0926248,Pet Store
@@ -23637,7 +23694,6 @@ Lantana,33.12,-97.17,7-Eleven,33.0719902496249,-97.0364195197089,Convenience Sto
 Lantana,33.12,-97.17,Tom Thumb,33.0411116,-97.038011,Grocery Store
 Lantana,33.12,-97.17,7-Eleven,33.10130147260352,-97.23444339694157,Convenience Store
 Lantana,33.12,-97.17,Chick-fil-A,33.0255927,-97.2793061,Food Service
-Lantana,33.12,-97.17,Kohl's,33.03517,-97.06649,Department Store
 Aubrey,33.3,-97.0,Chick-fil-A,33.2243035,-96.9827608,Food Service
 Aubrey,33.3,-97.0,Total Wine & More,33.19274889840985,-97.09997355937958,Wine Shop
 Aubrey,33.3,-97.0,Natural Grocers,33.231468993735355,-97.13255951885246,Organic Grocery
@@ -23715,7 +23771,6 @@ Aubrey,33.3,-97.0,Four Seasons Nursery,33.235011,-97.085166,Construction & Lands
 Aubrey,33.3,-97.0,Tk Print Shop,33.234277,-97.084517,Arts & Crafts Store
 Aubrey,33.3,-97.0,Beazer Homes Sutton Fields,33.2661306,-96.89099689999999,Home Service
 Aubrey,33.3,-97.0,Brookshire Brothers,33.389669,-96.95232,Market
-Aubrey,33.3,-97.0,Denton Florist,33.232535,-97.091429,Flower Shop
 Aubrey,33.3,-97.0,Roof Masters,33.231840999999996,-97.101247,Construction & Landscaping
 Aubrey,33.3,-97.0,CalAtlantic Homes at Dobbins Place,33.2206864,-96.9035558,Construction & Landscaping
 Aubrey,33.3,-97.0,Big Lots,33.18590968763949,-97.10516886749383,Big Box Store
@@ -23738,6 +23793,7 @@ Aubrey,33.3,-97.0,Kroger Clicklist,33.194636,-97.096672,Grocery Store
 Aubrey,33.3,-97.0,Academy Sports + Outdoors,33.2170677,-96.8759078,Sporting Goods Shop
 Aubrey,33.3,-97.0,Vaporescence,33.23157361891495,-97.13672890120253,Smoke Shop
 Aubrey,33.3,-97.0,Howard E Watt PC,33.224089,-97.131941,Lawyer
+Aubrey,33.3,-97.0,Lennar at Fireside Park,33.2417743702664,-97.14437484741211,Home Service
 Decatur,33.3,-97.5,Freedom Powersports Decatur,33.2212992,-97.5885372,Motorcycle Shop
 Decatur,33.3,-97.5,Dollar General,33.22542529491987,-97.59436630424274,Discount Store
 Decatur,33.3,-97.5,Bealls,33.22451150014043,-97.59350610026193,Department Store
@@ -23896,7 +23952,6 @@ Keller - Fort Worth,32.93,-97.28,Walgreens,32.89168699483017,-97.25849962509528,
 Keller - Fort Worth,32.93,-97.28,CVS pharmacy,32.98647804917343,-97.18230328015856,Pharmacy
 Keller - Fort Worth,32.93,-97.28,PetSmart,32.8253829,-97.2000173,Pet Store
 Keller - Fort Worth,32.93,-97.28,QuikTrip,32.839226601749786,-97.23954653028342,Convenience Store
-Keller - Fort Worth,32.93,-97.28,Office Depot,32.884418,-97.259262,Paper / Office Supplies Store
 Keller - Fort Worth,32.93,-97.28,Kroger Marketplace,32.8826796,-97.3955804,Grocery Store
 Keller - Fort Worth,32.93,-97.28,Smoothie King,32.894361,-97.258179,Smoothie Shop
 Keller - Fort Worth,32.93,-97.28,Liq-O-Rama,32.84394920234128,-97.34343010275707,Liquor Store
@@ -23938,6 +23993,7 @@ Keller - Fort Worth,32.93,-97.28,7-Eleven,32.89535140243345,-97.25772768259043,C
 Keller - Fort Worth,32.93,-97.28,North East Mall,32.829863801557266,-97.19976760978699,Shopping Mall
 Keller - Fort Worth,32.93,-97.28,Pet Supplies Plus,32.914577,-97.28897,Pet Store
 Keller - Fort Worth,32.93,-97.28,QuikTrip,32.840633280967516,-97.18576200287806,Convenience Store
+Keller - Fort Worth,32.93,-97.28,7-Eleven,32.9152474,-97.323192,Convenience Store
 Justin - Fort Worth,33.1,-97.3,Buc-ee's,33.02436611526884,-97.27793946635003,Convenience Store
 Justin - Fort Worth,33.1,-97.3,Roanoke Pharmacy And Gift,33.003827938273,-97.22449854883912,Pharmacy
 Justin - Fort Worth,33.1,-97.3,Nike Factory Store,33.02247199270476,-97.28182441572157,Sporting Goods Shop
@@ -24123,6 +24179,7 @@ Krum,33.3,-97.3,Dollar General,33.260766,-97.221307,Discount Store
 Krum,33.3,-97.3,Kohl's,33.229912,-97.166782,Department Store
 Krum,33.3,-97.3,Guitar Center,33.2321104,-97.1631119,Music Store
 Krum,33.3,-97.3,Dollar General,33.179308504392885,-97.28573913594379,Discount Store
+Krum,33.3,-97.3,Petco,33.23197032505231,-97.1662641918761,Pet Store
 Krum,33.3,-97.3,GameStop,33.230446013390356,-97.16736402845903,Video Game Store
 Krum,33.3,-97.3,Dollar General,33.36832517447504,-97.17454111534666,Discount Store
 Krum,33.3,-97.3,Great Clips,33.22937474224303,-97.1688137948513,Business Service
@@ -24130,7 +24187,6 @@ Krum,33.3,-97.3,Dollar General,33.230109999999996,-97.148775,Discount Store
 Krum,33.3,-97.3,famous footwear,33.231791067273306,-97.16455058182214,Shoe Store
 Krum,33.3,-97.3,Mattress Firm,33.230511858780176,-97.16723868363277,Mattress Store
 Krum,33.3,-97.3,America's Best Contacts & Eyeglasses,33.232221,-97.161865,Optical Shop
-Krum,33.3,-97.3,Rooms To Go,33.22185,-97.170357,Furniture / Home Store
 Krum,33.3,-97.3,Gunfighter Supply LLC,33.29452054829587,-97.28345380622102,Gun Shop
 Krum,33.3,-97.3,Houston's PC Medic,33.3111157,-97.25766900000002,IT Services
 Krum,33.3,-97.3,Albertsons,33.2283697,-97.1629229,Grocery Store
@@ -24496,7 +24552,6 @@ Trophy Club,33.01,-97.23,PetSmart,32.8822706,-97.2588557,Pet Store
 Trophy Club,33.01,-97.23,Walmart Supercenter,33.07620784648163,-97.07869341909719,Big Box Store
 Trophy Club,33.01,-97.23,Walgreens,32.89168699483017,-97.25849962509528,Pharmacy
 Trophy Club,33.01,-97.23,Dollar Tree,32.902705,-97.197151,Discount Store
-Trophy Club,33.01,-97.23,Office Depot,32.884418,-97.259262,Paper / Office Supplies Store
 Trophy Club,33.01,-97.23,Smoothie King,32.894361,-97.258179,Smoothie Shop
 Trophy Club,33.01,-97.23,PetSmart,33.068692,-97.0802037,Pet Store
 Trophy Club,33.01,-97.23,7-Eleven,32.941683899538575,-97.17674826671757,Convenience Store
@@ -24513,6 +24568,7 @@ Trophy Club,33.01,-97.23,Walmart Pharmacy,32.90561494141455,-97.1892946559458,Ph
 Trophy Club,33.01,-97.23,7-Eleven,32.9695017831795,-97.3530533909797,Convenience Store
 Trophy Club,33.01,-97.23,QuikTrip,32.93170532286079,-97.08495291122276,Convenience Store
 Trophy Club,33.01,-97.23,CVS pharmacy,32.89375188229521,-97.29017951088542,Pharmacy
+Trophy Club,33.01,-97.23,Corner Store,32.8942915,-97.2652183,Convenience Store
 Sanger,33.4,-97.2,2nd Chance,33.36218405247652,-97.17266782070952,Antique Shop
 Sanger,33.4,-97.2,Dollar General,33.36832517447504,-97.17454111534666,Discount Store
 Sanger,33.4,-97.2,Dollar General,33.476414,-97.163708,Discount Store
@@ -24996,7 +25052,6 @@ Milford,32.1,-97.0,AT&T Store,32.008679627759804,-97.09844873116708,Mobile Phone
 Milford,32.1,-97.0,Levi's Outlet Store at the Outlets at Hillsboro,32.01572,-97.09447,Clothing Store
 Milford,32.1,-97.0,Sally Beauty,32.00438,-97.09929,Cosmetics Shop
 Milford,32.1,-97.0,Famous Footwear,32.01335671390817,-97.09277983072361,Shoe Store
-Milford,32.1,-97.0,Nike Factory Store,32.01535080184346,-97.09451872883608,Sporting Goods Shop
 Milford,32.1,-97.0,RD Ranchers Daughter,32.11917,-96.97563,Clothing Store
 Milford,32.1,-97.0,Brookshire's,32.00923599538136,-97.13062755227828,Grocery Store
 Milford,32.1,-97.0,PhotoHeadz,32.104396103707984,-96.94897270281217,Photography Studio
