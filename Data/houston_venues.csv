@@ -3508,6 +3508,7 @@ Aldine,29.9,-95.39,Premium Draught,29.785078174746292,-95.38786487992098,Beer St
 Aldine,29.9,-95.39,European Wax Center,29.828910963742754,-95.43072542042579,Health & Beauty Service
 Aldine,29.9,-95.39,Fry's Electronics,29.91200744404894,-95.41403849122742,Electronics Store
 Aldine,29.9,-95.39,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
+Aldine,29.9,-95.39,Academy Sports + Outdoors,29.818018,-95.4695203,Sporting Goods Shop
 Aldine,29.9,-95.39,Walgreens,29.914842,-95.4055402,Pharmacy
 Aldine,29.9,-95.39,Smoothie King,29.775785,-95.382698,Smoothie Shop
 Aldine,29.9,-95.39,Stripes Store 7784,29.897642848314018,-95.51606293222241,Convenience Store
@@ -3598,7 +3599,6 @@ Aldine,29.9,-95.39,Walmart Supercenter,29.918278276488756,-95.4150255804732,Big 
 Aldine,29.9,-95.39,Walmart Supercenter,29.788781050993975,-95.46555544737775,Big Box Store
 Aldine,29.9,-95.39,Walmart Supercenter,29.9136671,-95.48694411,Big Box Store
 Aldine,29.9,-95.39,Joe V's Smart Shop,29.8317901,-95.4846158,Grocery Store
-Aldine,29.9,-95.39,Corner Store,29.9033188,-95.5242751,Convenience Store
 "Fallbrook, Forestwood",29.92,-95.45,Bedrock City Comic Company,29.985405531744945,-95.50000199690602,Toy / Game Store
 "Fallbrook, Forestwood",29.92,-95.45,Thang Hung Market,29.946593596683375,-95.46557966606753,Grocery Store
 "Fallbrook, Forestwood",29.92,-95.45,Total Wine & More,29.96619095782134,-95.54326236248016,Wine Shop
@@ -10549,6 +10549,7 @@ North Humble,30.01,-95.29,Petco,30.000075534870103,-95.16989416595885,Pet Store
 North Humble,30.01,-95.29,Ulta Beauty,30.0502537,-95.435679,Cosmetics Shop
 North Humble,30.01,-95.29,Michaels,30.067645498708927,-95.42961974562911,Arts & Crafts Store
 North Humble,30.01,-95.29,Kroger,30.066610546990333,-95.18717060197565,Supermarket
+North Humble,30.01,-95.29,PetSmart,30.014236,-95.260582,Pet Store
 North Humble,30.01,-95.29,Animal Ark,30.067744853668426,-95.19633024971614,Pet Store
 North Humble,30.01,-95.29,Walgreens,29.93347777013402,-95.24878283282305,Pharmacy
 North Humble,30.01,-95.29,CVS pharmacy,30.01423827074559,-95.44980217444565,Pharmacy
@@ -10613,7 +10614,6 @@ North Humble,30.01,-95.29,Sound Revolution,30.01450618800988,-95.45037751668193,
 North Humble,30.01,-95.29,Family Dollar,29.980598400108587,-95.21890161396865,Discount Store
 North Humble,30.01,-95.29,Sam's Club,29.999473282537984,-95.42240581040794,Warehouse Store
 North Humble,30.01,-95.29,Alabama-Coushatta Smoke Shop,30.01617369113623,-95.35382427111941,Smoke Shop
-North Humble,30.01,-95.29,Circle K,30.022478999999997,-95.387724,Convenience Store
  North Humble,30.05,-95.22,Kroger Marketplace,30.0718753,-95.2431187,Supermarket
  North Humble,30.05,-95.22,Costco,30.02190812505144,-95.2670134017296,Warehouse Store
  North Humble,30.05,-95.22,Warren's Nursery,30.06881296634674,-95.23085,Garden Center
@@ -11460,10 +11460,10 @@ Porter,30.11,-95.27,PetSmart,30.118791,-95.38015,Pet Store
 Porter,30.11,-95.27,Kroger,30.0068572,-95.281281,Grocery Store
 Porter,30.11,-95.27,Ulta Beauty,30.0151571,-95.2614219,Cosmetics Shop
 Porter,30.11,-95.27,The Vitamin Shoppe,30.00384927,-95.27017966,Supplement Shop
+Porter,30.11,-95.27,Corner Store,30.1939425,-95.191588,Convenience Store
 Porter,30.11,-95.27,Dollar Tree,30.0496308507641,-95.2336808535812,Discount Store
 Porter,30.11,-95.27,Kroger,30.1241171,-95.4073493,Supermarket
 Porter,30.11,-95.27,AT&T,30.00386291270087,-95.27009143496343,Mobile Phone Shop
-Porter,30.11,-95.27,The UPS Store,30.13083208124451,-95.23494327116396,Shipping Store
 Porter,30.11,-95.27,Kroger Marketplace,30.118567080420316,-95.3817040483654,Grocery Store
 Porter,30.11,-95.27,Target,30.00055415493944,-95.17269556460901,Big Box Store
 Porter,30.11,-95.27,Smoothie King,30.004368,-95.269595,Smoothie Shop
@@ -11918,7 +11918,6 @@ West Tomball,30.06,-95.68,Smoothie King,30.021449,-95.527563,Smoothie Shop
 West Tomball,30.06,-95.68,Walgreens,30.032092,-95.555301,Pharmacy
 West Tomball,30.06,-95.68,Kroger,30.0329345,-95.5525331,Supermarket
 West Tomball,30.06,-95.68,Target,30.087473,-95.52035,Department Store
-West Tomball,30.06,-95.68,At Home,29.9578673,-95.676027,Construction & Landscaping
 West Tomball,30.06,-95.68,Walgreens,30.1342991,-95.6532725,Pharmacy
 West Tomball,30.06,-95.68,The UPS Store,29.998683079432013,-95.58285847306246,Shipping Store
 West Tomball,30.06,-95.68,Fleet Feet,30.012944337430458,-95.53915437533992,Sporting Goods Shop
@@ -11944,6 +11943,7 @@ West Tomball,30.06,-95.68,CVS pharmacy,29.946741135627608,-95.62846489110635,Pha
 West Tomball,30.06,-95.68,Calvin Klein,29.9971262,-95.755949,Clothing Store
 West Tomball,30.06,-95.68,Family Dollar,29.948534000000002,-95.58420799999999,Discount Store
 West Tomball,30.06,-95.68,CVS pharmacy,29.95216208312505,-95.58464923192854,Pharmacy
+West Tomball,30.06,-95.68,Dollar General,30.134103945365666,-95.75297073917368,Discount Store
 East Willis,30.5,-95.4,Kroger Marketplace,30.4225686,-95.4940543,Supermarket
 East Willis,30.5,-95.4,Dollar General,30.53848048307948,-95.48363615172842,Discount Store
 East Willis,30.5,-95.4,County Line Grocery Store,30.52638982715321,-95.35272877816548,Convenience Store
@@ -12627,6 +12627,7 @@ East Woodlands - Conroe,30.18,-95.4,Petco,30.17625764875716,-95.53580856392819,P
 East Woodlands - Conroe,30.18,-95.4,Dollar Tree,30.12538445834905,-95.45063975619681,Discount Store
 East Woodlands - Conroe,30.18,-95.4,T-Mobile,30.165514,-95.449889,Mobile Phone Shop
 East Woodlands - Conroe,30.18,-95.4,Kroger Marketplace,30.276283954462766,-95.46491503715521,Supermarket
+East Woodlands - Conroe,30.18,-95.4,EXPRESS,30.164571,-95.454919,Clothing Store
 East Woodlands - Conroe,30.18,-95.4,Kohl's,30.0641,-95.43353,Department Store
 East Woodlands - Conroe,30.18,-95.4,Sally Beauty,30.124946,-95.450788,Cosmetics Shop
 East Woodlands - Conroe,30.18,-95.4,Walgreens,30.053816,-95.4330983,Pharmacy
@@ -12643,7 +12644,6 @@ East Woodlands - Conroe,30.18,-95.4,ALDI,30.13119903720422,-95.55410486747772,Su
 East Woodlands - Conroe,30.18,-95.4,Petco,30.05059777544046,-95.43594685817706,Pet Store
 East Woodlands - Conroe,30.18,-95.4,CVS pharmacy,30.065591139875576,-95.404396435532,Pharmacy
 East Woodlands - Conroe,30.18,-95.4,Walmart Supercenter,30.114299966508554,-95.38711033426672,Big Box Store
-East Woodlands - Conroe,30.18,-95.4,Atkinsons Farm,30.060517443861993,-95.46528191448478,Farmers Market
 Northeast Spring,30.09,-95.36,HEB,30.1076864,-95.3875628,Grocery Store
 Northeast Spring,30.09,-95.36,Chick-fil-A,30.1152582,-95.3841346,Food Service
 Northeast Spring,30.09,-95.36,Academy,30.07318652470881,-95.43356132329687,Department Store
@@ -12735,6 +12735,7 @@ Northeast Spring,30.09,-95.36,The Vitamin Shoppe,30.00384927,-95.27017966,Supple
 Northeast Spring,30.09,-95.36,Dollar Tree,30.12538445834905,-95.45063975619681,Discount Store
 Northeast Spring,30.09,-95.36,Sound Revolution,30.01450618800988,-95.45037751668193,Record Shop
 Northeast Spring,30.09,-95.36,"Spec's Wines, Spirits & Finer Foods",29.978274211314282,-95.43468849733884,Liquor Store
+Northeast Spring,30.09,-95.36,AT&T,30.00386291270087,-95.27009143496343,Mobile Phone Shop
 Northeast Spring,30.09,-95.36,Walgreens,30.051420770004583,-95.49221254885197,Pharmacy
 Northeast Spring,30.09,-95.36,Walmart Neighborhood Market,30.06469856533353,-95.40582209487674,Grocery Store
 Northeast Spring,30.09,-95.36,Walgreens,30.1771575,-95.4509357,Pharmacy
@@ -12743,7 +12744,6 @@ Northeast Spring,30.09,-95.36,Corner Store,30.1763047,-95.460469,Convenience Sto
 Northeast Spring,30.09,-95.36,Target,30.087473,-95.52035,Department Store
 Northeast Spring,30.09,-95.36,Victoria's Secret,30.164201862418995,-95.45550357438732,Lingerie Store
 Northeast Spring,30.09,-95.36,CVS pharmacy,30.029974850343475,-95.4802690028405,Pharmacy
-Northeast Spring,30.09,-95.36,CVS pharmacy,30.049090626184228,-95.23495278585659,Pharmacy
 Southwest Spring,30.05,-95.47,H-E-B,30.0686343,-95.4499001,Grocery Store
 Southwest Spring,30.05,-95.47,Sprouts Farmers Market,30.0709370135796,-95.50792157649994,Grocery Store
 Southwest Spring,30.05,-95.47,Academy,30.07318652470881,-95.43356132329687,Department Store
@@ -13677,7 +13677,6 @@ East Cypress,29.98,-95.66,"Spec's Wines, Spirits & Finer Foods",29.9679803528599
 East Cypress,29.98,-95.66,Fiesta Mart Inc,29.960375024184422,-95.55077965341194,Grocery Store
 East Cypress,29.98,-95.66,H-E-B,30.0885366,-95.6298663,Grocery Store
 East Cypress,29.98,-95.66,CVS pharmacy,29.927229621343066,-95.59532403945923,Pharmacy
-East Cypress,29.98,-95.66,At Home,29.9578673,-95.676027,Construction & Landscaping
 East Cypress,29.98,-95.66,Target,29.9697681050352,-95.696320104951,Big Box Store
 East Cypress,29.98,-95.66,H-E-B,29.8475074,-95.6476437,Grocery Store
 East Cypress,29.98,-95.66,PetSmart,30.0918977,-95.6409675,Pet Store
@@ -13715,6 +13714,7 @@ East Cypress,29.98,-95.66,Walgreens,29.8495088,-95.6464957,Pharmacy
 East Cypress,29.98,-95.66,Smoothie King,30.021449,-95.527563,Smoothie Shop
 East Cypress,29.98,-95.66,Kroger,29.902495993025905,-95.63174763323104,Supermarket
 East Cypress,29.98,-95.66,Kroger,29.8649384,-95.6068015,Supermarket
+East Cypress,29.98,-95.66,Kroger,29.907954,-95.5836751,Supermarket
 Damon,29.3,-95.7,Dollar General,29.293167,-95.73019,Discount Store
 Damon,29.3,-95.7,Q Mart,29.298033393267133,-95.73305967985286,Convenience Store
 Damon,29.3,-95.7,Chaffin Water Well Service,29.34836859597607,-95.62801212072372,Business Service
@@ -13782,7 +13782,6 @@ West Cypress,29.96,-95.74,Nautica,29.996396,-95.755668,Men's Store
 West Cypress,29.96,-95.74,H-E-B,29.9111035,-95.5860287,Grocery Store
 West Cypress,29.96,-95.74,Staples,29.916091,-95.612535,Paper / Office Supplies Store
 West Cypress,29.96,-95.74,CVS pharmacy,29.939605,-95.723967,Pharmacy
-West Cypress,29.96,-95.74,At Home,29.9578673,-95.676027,Construction & Landscaping
 West Cypress,29.96,-95.74,Walgreens,29.94813182967515,-95.6295295804739,Pharmacy
 West Cypress,29.96,-95.74,Walgreens,29.993213679593822,-95.73797464370722,Pharmacy
 West Cypress,29.96,-95.74,Aldi,29.857966128016255,-95.71826040744781,Market
@@ -13827,6 +13826,7 @@ West Cypress,29.96,-95.74,Stripes,29.83123812680882,-95.75369260146051,Convenien
 West Cypress,29.96,-95.74,Houston Garden Center,29.867103808154244,-95.64455981617436,Flower Shop
 West Cypress,29.96,-95.74,Floor & Decor,29.92129285481976,-95.62206929039348,Home Service
 West Cypress,29.96,-95.74,CVS pharmacy,29.97306721524194,-95.70057882223965,Pharmacy
+West Cypress,29.96,-95.74,T-Mobile,29.880256525024407,-95.68599759755318,Mobile Phone Shop
 Weston Lakes,29.7,-95.9,CVS pharmacy,29.70601206087516,-95.84673814707045,Pharmacy
 Weston Lakes,29.7,-95.9,H-E-B Fulshear,29.7197215,-95.8483995,Grocery Store
 Weston Lakes,29.7,-95.9,Academy Sports + Outdoors,29.7004872,-95.8101119,Sporting Goods Shop
@@ -14104,6 +14104,7 @@ Hockley,30.1,-95.8,"Spec's Wines, Spirits & Finer Foods",30.088562225857842,-95.
 Hockley,30.1,-95.8,CVS pharmacy,30.014826,-95.768017,Pharmacy
 Hockley,30.1,-95.8,Nike Factory Store,29.997297549394034,-95.75644196901006,Sporting Goods Shop
 Hockley,30.1,-95.8,GUESS Factory,29.9970767,-95.7580351,Clothing Store
+Hockley,30.1,-95.8,Michael Kors Outlet,29.997348018661295,-95.75646385156148,Boutique
 Hockley,30.1,-95.8,Walgreens,30.21134836420335,-95.75540596197129,Pharmacy
 Hockley,30.1,-95.8,PetSmart,30.0918977,-95.6409675,Pet Store
 Hockley,30.1,-95.8,Kohl's,30.089382,-95.640991,Department Store
@@ -14192,7 +14193,6 @@ Hockley,30.1,-95.8,Fresh Seafood Online,30.205076,-95.756577,Fish Market
 Hockley,30.1,-95.8,Carter's,30.006052,-95.72722,Kids Store
 Hockley,30.1,-95.8,"RFP,Roofing L.L.C",30.2059955,-95.7511093,Construction & Landscaping
 Hockley,30.1,-95.8,Graham Land Designs,30.205933859951536,-95.74990510940552,Construction & Landscaping
-Hockley,30.1,-95.8,Bath & Body Works - Fairfield Town Center,29.993298,-95.749272,Cosmetics Shop
 Northeast Katy,29.83,-95.73,Kroger Marketplace,29.81286263946895,-95.77029232870842,Grocery Store
 Northeast Katy,29.83,-95.73,H-E-B,29.789239,-95.7170471,Grocery Store
 Northeast Katy,29.83,-95.73,Sam's Club,29.787156093815742,-95.7255274003663,Warehouse Store
@@ -15419,6 +15419,7 @@ Southwest Sugar Land,29.56,-95.64,Walgreens,29.6470328,-95.5815384,Pharmacy
 Southwest Sugar Land,29.56,-95.64,Walgreens,29.5844779,-95.6326054,Pharmacy
 Southwest Sugar Land,29.56,-95.64,Kroger,29.6633466,-95.7382129,Supermarket
 Southwest Sugar Land,29.56,-95.64,Target,29.658281278752884,-95.71056418825226,Big Box Store
+Southwest Sugar Land,29.56,-95.64,Bed Bath & Beyond,29.6401573,-95.5860145,Furniture / Home Store
 Southwest Sugar Land,29.56,-95.64,Kroger,29.648136892465093,-95.649345077818,Supermarket
 Southwest Sugar Land,29.56,-95.64,Michaels,29.584026,-95.646215,Arts & Crafts Store
 Southwest Sugar Land,29.56,-95.64,Floor & Decor,29.5908204,-95.5975652,Home Service
@@ -15468,7 +15469,6 @@ Southwest Sugar Land,29.56,-95.64,Corner Store,29.6803309,-95.6339158,Convenienc
 Southwest Sugar Land,29.56,-95.64,Fiesta Mart,29.703621108916366,-95.63932292926029,Grocery Store
 Southwest Sugar Land,29.56,-95.64,CVS pharmacy,29.588196629821198,-95.62318751520843,Pharmacy
 Southwest Sugar Land,29.56,-95.64,Smoothie King,29.66397467197516,-95.74530451174459,Smoothie Shop
-Southwest Sugar Land,29.56,-95.64,Walgreens,29.6373776525957,-95.5297514088852,Pharmacy
 Sweeny,29.1,-95.7,Circle K,29.0870828,-95.7220587,Convenience Store
 Sweeny,29.1,-95.7,Dollar General,29.145582,-95.649597,Discount Store
 Sweeny,29.1,-95.7,Dollar General,29.048092999999998,-95.70930600000001,Discount Store
@@ -18495,6 +18495,7 @@ Fresno,29.54,-95.47,Russian General Store,29.67645903442679,-95.49322496881076,G
 Fresno,29.54,-95.47,Dollar General,29.58434360052455,-95.56305823990708,Discount Store
 Fresno,29.54,-95.47,Randalls,29.555047,-95.3791389,Supermarket
 Fresno,29.54,-95.47,Fry's Electronics,29.652333490621455,-95.56569271982436,Electronics Store
+Fresno,29.54,-95.47,Floor & Decor,29.5908204,-95.5975652,Home Service
 Fresno,29.54,-95.47,Fiesta Grocery Store,29.646653761173916,-95.46051731340947,Grocery Store
 Fresno,29.54,-95.47,Family Dollar,29.6410819786621,-95.5086758392848,Discount Store
 Fresno,29.54,-95.47,The UPS Store,29.55662228838137,-95.38026937175346,Shipping Store
@@ -18510,7 +18511,6 @@ Fresno,29.54,-95.47,Walgreens,29.66383513949685,-95.46494722366333,Pharmacy
 Fresno,29.54,-95.47,99 Cents Only Stores,29.681642999999998,-95.439135,Discount Store
 Fresno,29.54,-95.47,Ashley HomeStore,29.559191,-95.393836,Furniture / Home Store
 Fresno,29.54,-95.47,The UPS Store,29.582129978899935,-95.54394900798792,Shipping Store
-Fresno,29.54,-95.47,UPS Access Point location,29.537504,-95.534287,Shipping Store
 Friendswood,29.52,-95.19,H-E-B,29.5057334,-95.1908829,Grocery Store
 Friendswood,29.52,-95.19,Kroger,29.5211327,-95.1596638,Supermarket
 Friendswood,29.52,-95.19,Total Wine & More,29.5475107,-95.151625,Wine Shop
