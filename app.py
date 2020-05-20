@@ -89,7 +89,7 @@ def cluster_map(neighborhood_cluster, token):
 
 def main():
     dallas_df, houston_df, dallas_top_10, houston_top_10 = load_data()
-    token = os.environ('token')
+    token = getenv('token')
     st.header('Similiar Areas of DFW and Houston')
     st.image('./Data/Houston-vs-Dallas-direct-flights-to-India.png')
     st.markdown('The current job market has substantially contracted in the last few months due to the economic decline caused by the novel coronavirus(COVID-19).  Many people have lost their jobs or were already looking to change jobs.  With the job prospects looking thinner by the day, job seekers will start considering relocation to expand their opportunities for employment. The transition of uprooting your family and moving to a new area can only add to the stress of changing jobs. The goal of this analysis is to help locate a neighborhood that is similar to the neighborhood that one is currently living in.  This analysis focuses on those transitioning between the Greater Houston and Greater Dallas markets.  The neighborhoods will be clustered using the *k-means* algorithm based on a variety of features of each neighborhood. The features used for clustering will include types of shops located near the neighborhood, population, median household income, education, and median home value.')
