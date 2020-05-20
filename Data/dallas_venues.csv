@@ -7467,7 +7467,6 @@ Seagoville,32.6,-96.6,Broom Doctor Cleaning & Organizing Services,32.649449,-96.
 Seagoville,32.6,-96.6,Auto Repair,32.68243224719317,-96.59660875797272,Auto Garage
 Seagoville,32.6,-96.6,LOTS OF CASH PAWN,32.53286,-96.657721,Jewelry Store
 Seagoville,32.6,-96.6,Citywide Garage Door Repair Dallas,32.62883995744743,-96.69493049383163,Home Service
-Seagoville,32.6,-96.6,Family Dollar,32.68572998046875,-96.60127258300781,Discount Store
 Seagoville,32.6,-96.6,Wright's Family Food Center,32.686305,-96.588751,Grocery Store
 Seagoville,32.6,-96.6,Best Quality Electric,32.668428,-96.664199,Home Service
 Seagoville,32.6,-96.6,Scott-Macon Equipment - Dallas,32.6851525,-96.62344000000002,Construction & Landscaping
@@ -7518,6 +7517,7 @@ Seagoville,32.6,-96.6,Flowerland,32.734664,-96.651809,Flower Shop
 Seagoville,32.6,-96.6,Fiesta Mart,32.735435485839844,-96.65019226074219,Supermarket
 Seagoville,32.6,-96.6,Doctor Rooter,32.741118,-96.581867,Construction & Landscaping
 Seagoville,32.6,-96.6,Dallas Pavers Guys,32.722598604044066,-96.51489257812499,Home Service
+Seagoville,32.6,-96.6,Carpet Cleaning Mesquite TX,32.74245391043103,-96.60085737705231,Home Service
 West Terrell,32.8,-96.3,QuikTrip,32.703672467127255,-96.27496809831523,Convenience Store
 West Terrell,32.8,-96.3,Kroger Marketplace,32.74849292409478,-96.44997135318562,Supermarket
 West Terrell,32.8,-96.3,QuikTrip,32.705145694377094,-96.27525328878968,Convenience Store
@@ -8173,7 +8173,6 @@ Wilmer,32.61,-96.67,Ross Dress for Less,32.6690702684564,-96.5862606711409,Cloth
 Wilmer,32.61,-96.67,Walmart Supercenter,32.732506387356686,-96.6154296877766,Big Box Store
 Wilmer,32.61,-96.67,Sprint Store,32.6976338,-96.6287087,Mobile Phone Shop
 Wilmer,32.61,-96.67,Auto Repair,32.68243224719317,-96.59660875797272,Auto Garage
-Wilmer,32.61,-96.67,Family Dollar,32.68572998046875,-96.60127258300781,Discount Store
 Wilmer,32.61,-96.67,Fred Loya Insurance,32.6036372,-96.7852177,Insurance Office
 Wilmer,32.61,-96.67,Rodriguez Tree Service,32.645647,-96.777961,Construction & Landscaping
 Wilmer,32.61,-96.67,Evans Construction and Wrecking,32.656464,-96.772873,Construction & Landscaping
@@ -8213,6 +8212,7 @@ Wilmer,32.61,-96.67,Cassandra Preston - State Farm Insurance Agent,32.602869,-96
 Wilmer,32.61,-96.67,USA Beauty Supply,32.60398653442452,-96.82107115029939,Cosmetics Shop
 Wilmer,32.61,-96.67,Lancaster Music,32.59889,-96.8212,Music Store
 Wilmer,32.61,-96.67,sprint,32.59184265136719,-96.82295227050781,Mobile Phone Shop
+Wilmer,32.61,-96.67,Palomar Modular Buildings,32.5966948,-96.82368825,Construction & Landscaping
 Nevada,33.06,-96.38,Buc-Ee’s,32.979356,-96.294461,Convenience Store
 Nevada,33.06,-96.38,Brookshire's,33.157769518408514,-96.38878660867829,Grocery Store
 Nevada,33.06,-96.38,Kroger (Signature),32.94958482909432,-96.46028308735214,Supermarket
@@ -13265,7 +13265,6 @@ Kleberg - Dallas,32.67,-96.61,Town East Mall,32.8076221,-96.6237708,Shopping Mal
 Kleberg - Dallas,32.67,-96.61,Walgreens,32.77040538954864,-96.5996258856192,Pharmacy
 Kleberg - Dallas,32.67,-96.61,Dollar General,32.753635990341834,-96.472541189083,Discount Store
 Kleberg - Dallas,32.67,-96.61,Walmart Neighborhood Market,32.812966643489546,-96.60983877269382,Grocery Store
-Kleberg - Dallas,32.67,-96.61,Family Dollar,32.68572998046875,-96.60127258300781,Discount Store
 Kleberg - Dallas,32.67,-96.61,Albertsons,32.803703,-96.6457209,Grocery Store
 Kleberg - Dallas,32.67,-96.61,Famous Footwear,32.796781642639175,-96.62852129554422,Shoe Store
 Kleberg - Dallas,32.67,-96.61,Circle K,32.8013701,-96.6472523,Convenience Store
@@ -13296,6 +13295,7 @@ Kleberg - Dallas,32.67,-96.61,Bruton Bazaar,32.75017303026431,-96.66596544080012
 Kleberg - Dallas,32.67,-96.61,99 Cents Only Stores,32.749714,-96.667378,Discount Store
 Kleberg - Dallas,32.67,-96.61,Metro by T-Mobile,32.749806432275136,-96.66766964672019,Mobile Phone Shop
 Kleberg - Dallas,32.67,-96.61,Bruton Lock & Safe Near You,32.749564644276084,-96.66832566261292,Locksmith
+Kleberg - Dallas,32.67,-96.61,Fiesta Mart Inc,32.76163052010792,-96.68379318769064,Grocery Store
 White Rock Creek - Dallas,32.95,-96.8,Trader Joe's,32.95067895158459,-96.80198147243969,Grocery Store
 White Rock Creek - Dallas,32.95,-96.8,Whole Foods Market,32.95318325066417,-96.82118894584136,Grocery Store
 White Rock Creek - Dallas,32.95,-96.8,QuikTrip,32.933408212781835,-96.80260006916568,Convenience Store
@@ -14500,6 +14500,7 @@ Southwest Arlington,32.63,-97.15,FedEx Office,32.677369134257034,-97.12740870455
 Southwest Arlington,32.63,-97.15,The Runner,32.71266169826607,-97.16162465389603,Sporting Goods Shop
 Southwest Arlington,32.63,-97.15,Kroger,32.6593111,-97.0662419,Supermarket
 Southwest Arlington,32.63,-97.15,Kroger,32.762798,-97.1180085,Supermarket
+Southwest Arlington,32.63,-97.15,Dollar Tree,32.6462912017143,-97.05945928789887,Discount Store
 Southwest Arlington,32.63,-97.15,Walgreens,32.6905301,-97.1153778,Pharmacy
 Southwest Arlington,32.63,-97.15,FedEx Ship Center,32.73271,-97.051702,Shipping Store
 Southwest Arlington,32.63,-97.15,Walgreens,32.73111002689045,-97.0705031996788,Pharmacy
@@ -14517,7 +14518,6 @@ Southwest Arlington,32.63,-97.15,QuikTrip,32.66920037933996,-97.31095848553896,C
 Southwest Arlington,32.63,-97.15,Macy's,32.68,-97.13,Department Store
 Southwest Arlington,32.63,-97.15,HomeGoods,32.6924061,-97.0280261,Department Store
 Southwest Arlington,32.63,-97.15,7-Eleven,32.6479192,-97.1346927,Convenience Store
-Southwest Arlington,32.63,-97.15,CVS pharmacy,32.6596789834166,-97.27027463065382,Pharmacy
 Southeast Arlington,32.62,-97.09,Sprouts Farmers Market,32.6062186,-97.1131917,Grocery Store
 Southeast Arlington,32.62,-97.09,Total Wine & More,32.679494,-97.1205212,Wine Shop
 Southeast Arlington,32.62,-97.09,Sam's Club,32.59404711642228,-97.14837075312752,Warehouse Store
@@ -17873,106 +17873,6 @@ North Hurst,32.86,-97.18,Walmart Neighborhood Market,32.875033747636884,-97.2703
 North Hurst,32.86,-97.18,QuikTrip,32.78510280404344,-97.06160037885525,Convenience Store
 North Hurst,32.86,-97.18,Walgreens,32.9309025,-97.2898925,Pharmacy
 North Hurst,32.86,-97.18,PetSmart,32.942286,-97.124733,Pet Store
-Joshua,32.48,-97.41,H-E-B,32.5206069,-97.3518676,Grocery Store
-Joshua,32.48,-97.41,Kroger Marketplace,32.516641703362346,-97.34911585389563,Supermarket
-Joshua,32.48,-97.41,QuikTrip,32.49846062078251,-97.36812921705467,Convenience Store
-Joshua,32.48,-97.41,Walmart Neighborhood Market,32.538237683378625,-97.36106961570358,Grocery Store
-Joshua,32.48,-97.41,Target,32.52356942862007,-97.34912601404133,Big Box Store
-Joshua,32.48,-97.41,Half Price Books,32.574011,-97.321701,Bookstore
-Joshua,32.48,-97.41,Aldi,32.523705475407155,-97.34367212873849,Grocery Store
-Joshua,32.48,-97.41,Best Buy,32.57130176030815,-97.32090305237301,Electronics Store
-Joshua,32.48,-97.41,QuikTrip,32.54419778714251,-97.32732487675351,Convenience Store
-Joshua,32.48,-97.41,Academy Sports + Outdoors,32.57300725504129,-97.32201218605042,Sporting Goods Shop
-Joshua,32.48,-97.41,City Market,32.54307547383999,-97.31747283620895,Grocery Store
-Joshua,32.48,-97.41,QuikTrip,32.57825082428325,-97.31638950735929,Convenience Store
-Joshua,32.48,-97.41,Smoothie King,32.53995,-97.331328,Smoothie Shop
-Joshua,32.48,-97.41,Old Navy,32.57027182077641,-97.32122262943398,Clothing Store
-Joshua,32.48,-97.41,Hobby Lobby,32.5373137,-97.3367926,Fabric Shop
-Joshua,32.48,-97.41,Kohl's,32.56816,-97.319312,Department Store
-Joshua,32.48,-97.41,H-E-B,32.34744,-97.394135,Grocery Store
-Joshua,32.48,-97.41,Walgreens,32.5303737,-97.3379,Pharmacy
-Joshua,32.48,-97.41,Jamba Juice,32.52731471,-97.3385126,Smoothie Shop
-Joshua,32.48,-97.41,Walgreens,32.5654502,-97.3514091,Pharmacy
-Joshua,32.48,-97.41,JCPenney,32.5659145,-97.3207635,Department Store
-Joshua,32.48,-97.41,Michaels,32.567193500544555,-97.32269844291295,Arts & Crafts Store
-Joshua,32.48,-97.41,Walgreens,32.61659807153344,-97.3891287135848,Pharmacy
-Joshua,32.48,-97.41,Kroger,32.5633212,-97.3539339,Supermarket
-Joshua,32.48,-97.41,GameStop,32.5280093466371,-97.34048783654453,Video Game Store
-Joshua,32.48,-97.41,Albertsons,32.38478463012583,-97.39454358821604,Grocery Store
-Joshua,32.48,-97.41,7-Eleven,32.544516899041,-97.3142729401752,Convenience Store
-Joshua,32.48,-97.41,Stampede Harley-Davidson,32.54645916309794,-97.31526041196271,Motorcycle Shop
-Joshua,32.48,-97.41,Goodwill Super Store,32.51457598826874,-97.35285839369422,Thrift / Vintage Store
-Joshua,32.48,-97.41,PetSmart,32.5694554,-97.3225831,Pet Store
-Joshua,32.48,-97.41,Pier 1 Imports,32.47904663,-97.32858441,Furniture / Home Store
-Joshua,32.48,-97.41,7-Eleven,32.5394122,-97.360322,Convenience Store
-Joshua,32.48,-97.41,GameStop,32.56418804799775,-97.35375566026227,Video Game Store
-Joshua,32.48,-97.41,Boot Barn,32.566878607602256,-97.32164526853676,Shoe Store
-Joshua,32.48,-97.41,HomeGoods,32.56660017825001,-97.32200671656813,Department Store
-Joshua,32.48,-97.41,Dollar Tree,32.5373893260038,-97.33607822982883,Discount Store
-Joshua,32.48,-97.41,Walmart Pharmacy,32.5293251915603,-97.3398286766004,Pharmacy
-Joshua,32.48,-97.41,CVS pharmacy,32.56669777699189,-97.35190716989744,Pharmacy
-Joshua,32.48,-97.41,Dollar General,32.46417729440422,-97.26199507713318,Discount Store
-Joshua,32.48,-97.41,Dollar General,32.579361999999996,-97.354349,Discount Store
-Joshua,32.48,-97.41,CVS pharmacy,32.52023288595067,-97.34814414229767,Pharmacy
-Joshua,32.48,-97.41,Walgreens,32.3374629,-97.4145779,Pharmacy
-Joshua,32.48,-97.41,Brookshire's,32.57781938891401,-97.35550444473805,Grocery Store
-Joshua,32.48,-97.41,7-Eleven,32.57822,-97.358874,Convenience Store
-Joshua,32.48,-97.41,Albertsons,32.5650381,-97.3222187,Grocery Store
-Joshua,32.48,-97.41,Sally Beauty,32.565286267846595,-97.32137109225232,Cosmetics Shop
-Joshua,32.48,-97.41,Dollar Tree,32.575053197243996,-97.33909555021943,Discount Store
-Joshua,32.48,-97.41,Redbox,32.531914,-97.337784,Video Store
-Joshua,32.48,-97.41,Brookshire's,32.447647594327016,-97.39148830436453,Grocery Store
-Joshua,32.48,-97.41,T-Mobile,32.563689177002566,-97.32245849155822,Mobile Phone Shop
-Joshua,32.48,-97.41,America's Best Contacts & Eyeglasses,32.565358,-97.321492,Optical Shop
-Joshua,32.48,-97.41,The UPS Store,32.568553,-97.32282,Shipping Store
-Joshua,32.48,-97.41,Batteries Plus Bulbs,32.537873,-97.332711,Lighting Store
-Joshua,32.48,-97.41,Dollar General,32.339656,-97.411343,Discount Store
-Joshua,32.48,-97.41,Family Dollar,32.395897452472305,-97.34019130658086,Discount Store
-Joshua,32.48,-97.41,Mattress Firm,32.572287,-97.321298,Furniture / Home Store
-Joshua,32.48,-97.41,Dollar Tree,32.340165,-97.41244,Discount Store
-Joshua,32.48,-97.41,7-Eleven,32.5649624368686,-97.3516103625297,Convenience Store
-Joshua,32.48,-97.41,Office Depot,32.5235187,-97.3485276,Paper / Office Supplies Store
-Joshua,32.48,-97.41,Kroger,32.33713362960676,-97.41306921912877,Supermarket
-Joshua,32.48,-97.41,Verizon Authorized Retailer - Russell Cellular,32.336711357449765,-97.41953060030937,Mobile Phone Shop
-Joshua,32.48,-97.41,Walmart Supercenter,32.5767815682288,-97.33853560615677,Big Box Store
-Joshua,32.48,-97.41,FedEx Office Print & Ship Center,32.57452617316331,-97.32051819562912,Shipping Store
-Joshua,32.48,-97.41,7-Eleven,32.617651,-97.387681,Convenience Store
-Joshua,32.48,-97.41,Stars And Stripes Painting,32.4652363968583,-97.4028217792511,Home Service
-Joshua,32.48,-97.41,"Honor Lock & keys, Inc.",32.46530881366518,-97.40196347236633,Locksmith
-Joshua,32.48,-97.41,UPS Authorized Shipping Provider,32.462872,-97.421272,Shipping Store
-Joshua,32.48,-97.41,Corner Store <3,32.460989,-97.419473,Convenience Store
-Joshua,32.48,-97.41,Mallory's Screen Print & Embroidery,32.467929,-97.38395899999999,Print Shop
-Joshua,32.48,-97.41,Joshua Pharmacy,32.47843009827547,-97.3796707502092,Pharmacy
-Joshua,32.48,-97.41,Main Street Parlor,32.46164,-97.38841,Health & Beauty Service
-Joshua,32.48,-97.41,"Unlimited Logos, Inc",32.50435,-97.39728,Print Shop
-Joshua,32.48,-97.41,Flossie Scrapper,32.483211517334,-97.3773345947266,Arts & Crafts Store
-Joshua,32.48,-97.41,Cathy's Smoke Shop,32.46156203503443,-97.38483017590539,Smoke Shop
-Joshua,32.48,-97.41,Joshua Feed & Pet,32.45446,-97.384991,Pet Store
-Joshua,32.48,-97.41,7-Eleven,32.5998257111963,-97.320824638009,Convenience Store
-Joshua,32.48,-97.41,Gutter Helmet of Dallas Fort Worth,32.4848651,-97.3460741,Home Service
-Joshua,32.48,-97.41,Walmart Supercenter,32.52822257,-97.33847232,Big Box Store
-Joshua,32.48,-97.41,Burleson Power Sports,32.516714,-97.352415,Motorsports Shop
-Joshua,32.48,-97.41,H-E-B plus! Pharmacy,32.520569,-97.35204,Pharmacy
-Joshua,32.48,-97.41,Home Zone Furniture,32.526772,-97.3523283,Furniture / Home Store
-Joshua,32.48,-97.41,BIG TEX JUNK REMOVAL,32.525032831764676,-97.34866261482237,Home Service
-Joshua,32.48,-97.41,Ayos Air,32.52249989111295,-97.34134554862976,Home Service
-Joshua,32.48,-97.41,Moseley Fence,32.496666,-97.32433600000002,Construction & Landscaping
-Joshua,32.48,-97.41,Fred Loya Insurance,32.5273773508439,-97.3416926491561,Insurance Office
-Joshua,32.48,-97.41,Cato Fashions,32.52657849021203,-97.34030767371463,Women's Store
-Joshua,32.48,-97.41,Aveanna Healthcare,32.5464406,-97.3649746,Home Service
-Joshua,32.48,-97.41,Walmart Grocery Pickup,32.5279079,-97.338229,Grocery Store
-Joshua,32.48,-97.41,Burleson Plumbing Service,32.536777,-97.342667,Business Service
-Joshua,32.48,-97.41,Artech Heating & Air,32.52966431000974,-97.33283758163452,Home Service
-Joshua,32.48,-97.41,Connect Hearing,32.53432967760899,-97.33468022020008,Medical Supply Store
-Joshua,32.48,-97.41,Clinton Musselman: Allstate Insurance,32.53967838688599,-97.33735240995884,Insurance Office
-Joshua,32.48,-97.41,Maaco Collision Repair & Auto Painting,32.5392388,-97.3339764,Auto Workshop
-Joshua,32.48,-97.41,CVS pharmacy,32.61766944747575,-97.3890266172673,Pharmacy
-Joshua,32.48,-97.41,Goosehead Insurance - Marcus Becerra,32.53825904108177,-97.3310655423279,Insurance Office
-Joshua,32.48,-97.41,Sharon Robinson - State Farm Insurance Agent,32.540717,-97.329484,Insurance Office
-Joshua,32.48,-97.41,Custom Wine Packaging,32.54223,-97.32913688,Gift Shop
-Joshua,32.48,-97.41,Convenience with Fuel,32.5662397026277,-97.3663440051649,Organic Grocery
-Joshua,32.48,-97.41,Barney Ballard Corporation,32.54924,-97.33325,Construction & Landscaping
-Joshua,32.48,-97.41,Lonestar Ranch & Outdoors,32.384955,-97.411292,Construction & Landscaping
 Keene,32.39,-97.32,QuikTrip,32.415391929844056,-97.22871641477562,Convenience Store
 Keene,32.39,-97.32,H-E-B,32.34744,-97.394135,Grocery Store
 Keene,32.39,-97.32,I-H 35 Liquor Depot,32.417556159820414,-97.22550100125704,Liquor Store
@@ -18073,206 +17973,6 @@ Keene,32.39,-97.32,"Lisa M. Powell, Attorney at Law",32.334272,-97.416966,Lawyer
 Keene,32.39,-97.32,H&R Block,32.336687,-97.419636,Business Service
 Keene,32.39,-97.32,Nolan River Mall,32.334437172924495,-97.42031387660134,Shopping Mall
 Keene,32.39,-97.32,Dry Clean Supercenter,32.335976,-97.42166,Dry Cleaner
-Kennedale,32.64,-97.21,Sprouts Farmers Market,32.6769207,-97.1947703,Grocery Store
-Kennedale,32.64,-97.21,Walgreens,32.6770256,-97.1941447,Pharmacy
-Kennedale,32.64,-97.21,Kroger,32.64849045261919,-97.18908919752093,Supermarket
-Kennedale,32.64,-97.21,Sam's Club,32.59404711642228,-97.14837075312752,Warehouse Store
-Kennedale,32.64,-97.21,Total Wine & More,32.679494,-97.1205212,Wine Shop
-Kennedale,32.64,-97.21,Raymond's Liquor Stop,32.615396000000004,-97.16053199999999,Liquor Store
-Kennedale,32.64,-97.21,Kroger,32.6827477,-97.1934668,Supermarket
-Kennedale,32.64,-97.21,7-Eleven,32.707386561093784,-97.19171480280966,Convenience Store
-Kennedale,32.64,-97.21,Sprouts Farmers Market,32.6062186,-97.1131917,Grocery Store
-Kennedale,32.64,-97.21,Green's Produce,32.70705194304998,-97.15479519941283,Farmers Market
-Kennedale,32.64,-97.21,Costco,32.68328755627715,-97.11237814923412,Warehouse Store
-Kennedale,32.64,-97.21,Arlington Highlands,32.68070746081329,-97.10969924926758,Shopping Mall
-Kennedale,32.64,-97.21,WinCo Foods,32.67353402389601,-97.13911171918606,Supermarket
-Kennedale,32.64,-97.21,QuikTrip,32.66237890699099,-97.28069505842433,Convenience Store
-Kennedale,32.64,-97.21,Kroger,32.66060401937263,-97.13608869911468,Supermarket
-Kennedale,32.64,-97.21,Target,32.68409889335653,-97.13603832801509,Big Box Store
-Kennedale,32.64,-97.21,QuikTrip,32.68894853820952,-97.11554364200677,Convenience Store
-Kennedale,32.64,-97.21,Target,32.59020555321659,-97.14461804512567,Big Box Store
-Kennedale,32.64,-97.21,7-Eleven,32.6770947,-97.1660245,Convenience Store
-Kennedale,32.64,-97.21,Spec's Wine & Spirits,32.682278850227874,-97.13266460081464,Liquor Store
-Kennedale,32.64,-97.21,Albertsons,32.6768894,-97.1999184,Grocery Store
-Kennedale,32.64,-97.21,GameStop,32.665856372399524,-97.20642421849752,Video Game Store
-Kennedale,32.64,-97.21,Tom Thumb,32.72275656143119,-97.15037763118744,Grocery Store
-Kennedale,32.64,-97.21,Winchester Gallery,32.73461441564906,-97.22688515549565,Hobby Shop
-Kennedale,32.64,-97.21,QuikTrip,32.59223822393973,-97.15135292739691,Convenience Store
-Kennedale,32.64,-97.21,QuikTrip,32.57825082428325,-97.31638950735929,Convenience Store
-Kennedale,32.64,-97.21,Tuesday Morning,32.671684710882516,-97.19972027116393,Discount Store
-Kennedale,32.64,-97.21,Spec's Wine & Spirits,32.75638236467232,-97.1699339354943,Liquor Store
-Kennedale,32.64,-97.21,QuikTrip,32.66946580936592,-97.20410865175842,Convenience Store
-Kennedale,32.64,-97.21,Best Buy,32.57130176030815,-97.32090305237301,Electronics Store
-Kennedale,32.64,-97.21,Dollar General,32.635718604211846,-97.33453033008563,Discount Store
-Kennedale,32.64,-97.21,Big Lots,32.67448200620836,-97.1913065734052,Big Box Store
-Kennedale,32.64,-97.21,Best Buy,32.6773338,-97.1374816,Electronics Store
-Kennedale,32.64,-97.21,WinCo Foods,32.63300561693519,-97.34965828948528,Supermarket
-Kennedale,32.64,-97.21,Dollar Tree,32.59762719463482,-97.15044948461107,Discount Store
-Kennedale,32.64,-97.21,Academy Sports + Outdoors,32.682680577567496,-97.12452113628387,Sporting Goods Shop
-Kennedale,32.64,-97.21,Sam's Club,32.763941315686054,-97.1719143839263,Warehouse Store
-Kennedale,32.64,-97.21,Nordstrom Rack,32.67869718353023,-97.12823219510659,Clothing Store
-Kennedale,32.64,-97.21,Kroger Marketplace,32.5738864,-97.0834569,Supermarket
-Kennedale,32.64,-97.21,Spec's,32.710266668781856,-97.15740121514594,Liquor Store
-Kennedale,32.64,-97.21,PetSmart,32.681919,-97.11098,Pet Store
-Kennedale,32.64,-97.21,Academy Sports + Outdoors,32.571088,-97.1127472,Sporting Goods Shop
-Kennedale,32.64,-97.21,Old Home Supply,32.72453644273714,-97.33505606558019,Furniture / Home Store
-Kennedale,32.64,-97.21,The UPS Store,32.67075697705327,-97.13151695051457,Shipping Store
-Kennedale,32.64,-97.21,CVS pharmacy,32.6596789834166,-97.27027463065382,Pharmacy
-Kennedale,32.64,-97.21,OfficeMax,32.671143,-97.131769,Paper / Office Supplies Store
-Kennedale,32.64,-97.21,ALDI,32.756165026903524,-97.17042982578278,Grocery Store
-Kennedale,32.64,-97.21,Target,32.64300245208594,-97.06055522642671,Big Box Store
-Kennedale,32.64,-97.21,CVS pharmacy,32.6717194314556,-97.37600185270594,Pharmacy
-Kennedale,32.64,-97.21,The Parks at Arlington,32.67956370474904,-97.12959930395144,Shopping Mall
-Kennedale,32.64,-97.21,QuikTrip,32.756976184492444,-97.114233696675,Convenience Store
-Kennedale,32.64,-97.21,ALDI,32.67200779604811,-97.04499219991497,Grocery Store
-Kennedale,32.64,-97.21,ALDI,32.72180372897001,-97.1477222442627,Grocery Store
-Kennedale,32.64,-97.21,Walgreens,32.5715396,-97.0932016,Pharmacy
-Kennedale,32.64,-97.21,QuikTrip,32.65488282639792,-97.134156735433,Convenience Store
-Kennedale,32.64,-97.21,QuikTrip,32.73255849581731,-97.33120133656263,Convenience Store
-Kennedale,32.64,-97.21,Hiep Thai,32.711022239634964,-97.06708396081906,Grocery Store
-Kennedale,32.64,-97.21,The Runner,32.71266169826607,-97.16162465389603,Sporting Goods Shop
-Kennedale,32.64,-97.21,City Market,32.54307547383999,-97.31747283620895,Grocery Store
-Kennedale,32.64,-97.21,Grand Prairie Premium Outlets,32.67950664,-97.05366126,Outlet Mall
-Kennedale,32.64,-97.21,CVS pharmacy,32.648444589335625,-97.04422328156403,Pharmacy
-Kennedale,32.64,-97.21,QuikTrip,32.54419778714251,-97.32732487675351,Convenience Store
-Kennedale,32.64,-97.21,7-Eleven,32.7157738,-97.3523122,Convenience Store
-Kennedale,32.64,-97.21,QuikTrip,32.67554182327889,-97.09246609666063,Convenience Store
-Kennedale,32.64,-97.21,El Rio Grande Latin Market,32.70716634274999,-97.31941808356439,Grocery Store
-Kennedale,32.64,-97.21,Kroger,32.7045815,-97.3610941,Supermarket
-Kennedale,32.64,-97.21,Hobby Lobby,32.5644331,-97.1187085,Fabric Shop
-Kennedale,32.64,-97.21,Tom Thumb,32.5819493,-97.1284601,Grocery Store
-Kennedale,32.64,-97.21,Dollar General,32.765741444023035,-97.21866091004016,Discount Store
-Kennedale,32.64,-97.21,Fiesta Mart,32.70748550040592,-97.0905032515717,Grocery Store
-Kennedale,32.64,-97.21,El Rancho,32.67579055068031,-97.32164016072011,Market
-Kennedale,32.64,-97.21,Smoothie King,32.53995,-97.331328,Smoothie Shop
-Kennedale,32.64,-97.21,FedEx Office,32.677369134257034,-97.12740870455015,Shipping Store
-Kennedale,32.64,-97.21,Albertsons,32.6334662,-97.3715795,Grocery Store
-Kennedale,32.64,-97.21,Walgreens,32.6719808,-97.043675,Pharmacy
-Kennedale,32.64,-97.21,Walgreens,32.6905301,-97.1153778,Pharmacy
-Kennedale,32.64,-97.21,7-Eleven,32.712767,-97.28009499999999,Convenience Store
-Kennedale,32.64,-97.21,7-Eleven,32.544516899041,-97.3142729401752,Convenience Store
-Kennedale,32.64,-97.21,Kroger,32.6073451,-97.1181455,Supermarket
-Kennedale,32.64,-97.21,Walgreens,32.5654502,-97.3514091,Pharmacy
-Kennedale,32.64,-97.21,At Home,32.5729118,-97.1163925,Construction & Landscaping
-Kennedale,32.64,-97.21,Walgreens,32.6547565,-97.0776519,Pharmacy
-Kennedale,32.64,-97.21,Fiesta Mart Inc,32.68671393146434,-97.3280593896662,Grocery Store
-Kennedale,32.64,-97.21,QuikTrip,32.62706075505626,-97.32283843362761,Convenience Store
-Kennedale,32.64,-97.21,Albertsons,32.6441124,-97.1861586,Grocery Store
-Kennedale,32.64,-97.21,ALDI,32.607811574855496,-97.11545258760447,Grocery Store
-Kennedale,32.64,-97.21,Corner Store,32.645726,-97.186188,Convenience Store
-Kennedale,32.64,-97.21,Kroger,32.5633212,-97.3539339,Supermarket
-Kennedale,32.64,-97.21,Kroger,32.6593111,-97.0662419,Supermarket
-Kennedale,32.64,-97.21,Walgreens,32.6344737,-97.3688359,Pharmacy
-Kennedale,32.64,-97.21,Traders Village,32.6940446,-97.05587299999999,Flea Market
-Kennedale,32.64,-97.21,Macy's,32.68,-97.13,Department Store
-Kennedale,32.64,-97.21,7-Eleven,32.6492139,-97.3674468,Convenience Store
-Kennedale,32.64,-97.21,Dollar Tree,32.71085186588216,-97.06575193644457,Discount Store
-Kennedale,32.64,-97.21,At Home,32.6786716,-97.0482675,Furniture / Home Store
-Kennedale,32.64,-97.21,QuikTrip,32.64893439144533,-97.06476123386713,Convenience Store
-Kennedale,32.64,-97.21,Batteries Plus Bulbs,32.604807,-97.120493,Lighting Store
-Kennedale,32.64,-97.21,Walgreens,32.6581342,-97.1750995,Pharmacy
-Kennedale,32.64,-97.21,7-Eleven,32.6479192,-97.1346927,Convenience Store
-Kennedale,32.64,-97.21,T-Mobile,32.708127,-97.149703,Mobile Phone Shop
-Lillian,32.5031,-97.1881,QuikTrip,32.415391929844056,-97.22871641477562,Convenience Store
-Lillian,32.5031,-97.1881,Sam's Club,32.59404711642228,-97.14837075312752,Warehouse Store
-Lillian,32.5031,-97.1881,I-H 35 Liquor Depot,32.417556159820414,-97.22550100125704,Liquor Store
-Lillian,32.5031,-97.1881,Sprouts Farmers Market,32.6062186,-97.1131917,Grocery Store
-Lillian,32.5031,-97.1881,HomeGoods,32.5958623,-97.1507531,Furniture / Home Store
-Lillian,32.5031,-97.1881,Target,32.59020555321659,-97.14461804512567,Big Box Store
-Lillian,32.5031,-97.1881,Kroger Marketplace,32.5738864,-97.0834569,Supermarket
-Lillian,32.5031,-97.1881,Academy Sports + Outdoors,32.571088,-97.1127472,Sporting Goods Shop
-Lillian,32.5031,-97.1881,H-E-B,32.5206069,-97.3518676,Grocery Store
-Lillian,32.5031,-97.1881,Half Price Books,32.574011,-97.321701,Bookstore
-Lillian,32.5031,-97.1881,Kroger Marketplace,32.516641703362346,-97.34911585389563,Supermarket
-Lillian,32.5031,-97.1881,Dollar General,32.49720073317051,-97.1850995578184,Discount Store
-Lillian,32.5031,-97.1881,Best Buy,32.57130176030815,-97.32090305237301,Electronics Store
-Lillian,32.5031,-97.1881,Raymond's Liquor Stop,32.615396000000004,-97.16053199999999,Liquor Store
-Lillian,32.5031,-97.1881,QuikTrip,32.59223822393973,-97.15135292739691,Convenience Store
-Lillian,32.5031,-97.1881,QuikTrip,32.57825082428325,-97.31638950735929,Convenience Store
-Lillian,32.5031,-97.1881,Walgreens,32.5715396,-97.0932016,Pharmacy
-Lillian,32.5031,-97.1881,Academy Sports + Outdoors,32.57300725504129,-97.32201218605042,Sporting Goods Shop
-Lillian,32.5031,-97.1881,City Market,32.54307547383999,-97.31747283620895,Grocery Store
-Lillian,32.5031,-97.1881,Half Price Books,32.5864978,-97.1404498,Bookstore
-Lillian,32.5031,-97.1881,Old Navy,32.57027182077641,-97.32122262943398,Clothing Store
-Lillian,32.5031,-97.1881,CVS pharmacy,32.611141321404425,-97.14189552207213,Pharmacy
-Lillian,32.5031,-97.1881,Dollar General,32.46417729440422,-97.26199507713318,Discount Store
-Lillian,32.5031,-97.1881,QuikTrip,32.54419778714251,-97.32732487675351,Convenience Store
-Lillian,32.5031,-97.1881,Hobby Lobby,32.5644331,-97.1187085,Fabric Shop
-Lillian,32.5031,-97.1881,Kohl's,32.56816,-97.319312,Department Store
-Lillian,32.5031,-97.1881,CVS pharmacy,32.5951737889749,-97.1072384578942,Pharmacy
-Lillian,32.5031,-97.1881,Dollar Tree,32.59762719463482,-97.15044948461107,Discount Store
-Lillian,32.5031,-97.1881,7-Eleven,32.6140669,-97.1164711,Convenience Store
-Lillian,32.5031,-97.1881,Smoothie King,32.53995,-97.331328,Smoothie Shop
-Lillian,32.5031,-97.1881,JCPenney,32.5659145,-97.3207635,Department Store
-Lillian,32.5031,-97.1881,Michaels,32.567193500544555,-97.32269844291295,Arts & Crafts Store
-Lillian,32.5031,-97.1881,Aldi,32.523705475407155,-97.34367212873849,Grocery Store
-Lillian,32.5031,-97.1881,Ulta Beauty,32.5980634,-97.1507558,Cosmetics Shop
-Lillian,32.5031,-97.1881,CVS pharmacy,32.579511342856925,-97.07451693258173,Pharmacy
-Lillian,32.5031,-97.1881,7-Eleven,32.544516899041,-97.3142729401752,Convenience Store
-Lillian,32.5031,-97.1881,Stampede Harley-Davidson,32.54645916309794,-97.31526041196271,Motorcycle Shop
-Lillian,32.5031,-97.1881,Target,32.52356942862007,-97.34912601404133,Big Box Store
-Lillian,32.5031,-97.1881,Five Below,32.59445558226706,-97.15111112313912,Discount Store
-Lillian,32.5031,-97.1881,Tom Thumb,32.5819493,-97.1284601,Grocery Store
-Lillian,32.5031,-97.1881,7-Eleven,32.569003,-97.116349,Convenience Store
-Lillian,32.5031,-97.1881,At Home,32.5729118,-97.1163925,Construction & Landscaping
-Lillian,32.5031,-97.1881,PetSmart,32.5694554,-97.3225831,Pet Store
-Lillian,32.5031,-97.1881,Dollar General,32.56464236078909,-97.13477300284535,Discount Store
-Lillian,32.5031,-97.1881,Hobby Lobby,32.5373137,-97.3367926,Fabric Shop
-Lillian,32.5031,-97.1881,Boot Barn,32.566878607602256,-97.32164526853676,Shoe Store
-Lillian,32.5031,-97.1881,7-Eleven,32.6121970517661,-97.1412836015224,Convenience Store
-Lillian,32.5031,-97.1881,PetSmart,32.5861194,-97.1403252,Pet Store
-Lillian,32.5031,-97.1881,Walgreens,32.5303737,-97.3379,Pharmacy
-Lillian,32.5031,-97.1881,HomeGoods,32.56660017825001,-97.32200671656813,Department Store
-Lillian,32.5031,-97.1881,Jamba Juice,32.52731471,-97.3385126,Smoothie Shop
-Lillian,32.5031,-97.1881,GameStop,32.5280093466371,-97.34048783654453,Video Game Store
-Lillian,32.5031,-97.1881,Sally Beauty,32.59142,-97.145107,Cosmetics Shop
-Lillian,32.5031,-97.1881,Dollar General,32.59112636122682,-97.1475076675415,Discount Store
-Lillian,32.5031,-97.1881,Dollar General,32.647779,-97.18189699999999,Discount Store
-Lillian,32.5031,-97.1881,Kroger,32.6073451,-97.1181455,Supermarket
-Lillian,32.5031,-97.1881,Michaels,32.59620855893086,-97.1507399274924,Arts & Crafts Store
-Lillian,32.5031,-97.1881,Dollar Tree,32.5373893260038,-97.33607822982883,Discount Store
-Lillian,32.5031,-97.1881,GNC,32.605087,-97.115155,Supplement Shop
-Lillian,32.5031,-97.1881,ALDI,32.607811574855496,-97.11545258760447,Grocery Store
-Lillian,32.5031,-97.1881,AT&T Store,32.59544020884048,-97.14795021701389,Mobile Phone Shop
-Lillian,32.5031,-97.1881,Best Buy,32.5973487,-97.1504722,Electronics Store
-Lillian,32.5031,-97.1881,Walmart Pharmacy,32.5293251915603,-97.3398286766004,Pharmacy
-Lillian,32.5031,-97.1881,Albertsons,32.5650381,-97.3222187,Grocery Store
-Lillian,32.5031,-97.1881,QuikTrip,32.62718326959245,-97.1158949529529,Convenience Store
-Lillian,32.5031,-97.1881,Sally Beauty,32.565286267846595,-97.32137109225232,Cosmetics Shop
-Lillian,32.5031,-97.1881,Goodwill Super Store,32.51457598826874,-97.35285839369422,Thrift / Vintage Store
-Lillian,32.5031,-97.1881,QuikTrip,32.56654476539314,-97.11927287249532,Convenience Store
-Lillian,32.5031,-97.1881,Batteries Plus Bulbs,32.604807,-97.120493,Lighting Store
-Lillian,32.5031,-97.1881,Corner Store,32.590688344626756,-97.16302787394756,Convenience Store
-Lillian,32.5031,-97.1881,Brookshire's,32.41745354447429,-97.22249231881882,Grocery Store
-Lillian,32.5031,-97.1881,America's Best Contacts & Eyeglasses,32.565358,-97.321492,Optical Shop
-Lillian,32.5031,-97.1881,Walgreens,32.5752583,-97.1327015,Pharmacy
-Lillian,32.5031,-97.1881,The UPS Store,32.568553,-97.32282,Shipping Store
-Lillian,32.5031,-97.1881,CVS pharmacy,32.52023288595067,-97.34814414229767,Pharmacy
-Lillian,32.5031,-97.1881,Kohl's,32.56360200766756,-97.11753994150659,Department Store
-Lillian,32.5031,-97.1881,Redbox,32.531914,-97.337784,Video Store
-Lillian,32.5031,-97.1881,7-Eleven,32.5804501600469,-97.0750424265861,Convenience Store
-Lillian,32.5031,-97.1881,Staples,32.589157,-97.143794,Paper / Office Supplies Store
-Lillian,32.5031,-97.1881,Marshalls,32.59567652828261,-97.15035006650238,Department Store
-Lillian,32.5031,-97.1881,Albertsons,32.6441124,-97.1861586,Grocery Store
-Lillian,32.5031,-97.1881,Corner Store,32.645726,-97.186188,Convenience Store
-Lillian,32.5031,-97.1881,Walmart Supercenter,32.57603400837239,-97.1303679320981,Big Box Store
-Lillian,32.5031,-97.1881,FedEx Office Print & Ship Center,32.57452617316331,-97.32051819562912,Shipping Store
-Lillian,32.5031,-97.1881,Harper's Plumbing,32.522934114581375,-97.18689322471619,Home Service
-Lillian,32.5031,-97.1881,Gideon Service,32.5168547950824,-97.15139150619507,Medical Supply Store
-Lillian,32.5031,-97.1881,ACR Service Co,32.483891,-97.237807,Construction & Landscaping
-Lillian,32.5031,-97.1881,Office Depot,32.5235187,-97.3485276,Paper / Office Supplies Store
-Lillian,32.5031,-97.1881,Dryer Vent Cleaning Mansfield TX,32.47495783230312,-97.13035225868225,Dry Cleaner
-Lillian,32.5031,-97.1881,2CB Builders,32.56131840994775,-97.14758276939392,Home Service
-Lillian,32.5031,-97.1881,Fizzle Bomb Co,32.547458,-97.120915,Accessories Store
-Lillian,32.5031,-97.1881,Texan RV Ranch,32.53469006629399,-97.11118965491262,Food & Drink Shop
-Lillian,32.5031,-97.1881,Kold Spot,32.575032,-97.203678,Convenience Store
-Lillian,32.5031,-97.1881,Mansfield Farmers Market,32.565366,-97.140962,Market
-Lillian,32.5031,-97.1881,Afronet Towing,32.5763117,-97.2013237,Business Service
-Lillian,32.5031,-97.1881,Venus Construction Company Inc,32.53759,-97.10981799999999,Construction & Landscaping
-Lillian,32.5031,-97.1881,Mansfield Mission Thrift Store,32.564384,-97.13446,Thrift / Vintage Store
-Lillian,32.5031,-97.1881,Time Warner Cable,32.565883,-97.135079,Business Service
-Lillian,32.5031,-97.1881,Marksmen Firearms,32.58011,-97.1835,Gun Shop
-Lillian,32.5031,-97.1881,Sport N Spirit,32.582384807339324,-97.18113183975218,Print Shop
 Mansfield,32.57,-97.13,Sam's Club,32.59404711642228,-97.14837075312752,Warehouse Store
 Mansfield,32.57,-97.13,Sprouts Farmers Market,32.6062186,-97.1131917,Grocery Store
 Mansfield,32.57,-97.13,Academy Sports + Outdoors,32.571088,-97.1127472,Sporting Goods Shop
@@ -18373,61 +18073,6 @@ Mansfield,32.57,-97.13,Staples,32.589157,-97.143794,Paper / Office Supplies Stor
 Mansfield,32.57,-97.13,CVS pharmacy,32.65580128309355,-97.07659553313277,Pharmacy
 Mansfield,32.57,-97.13,Macy's,32.68,-97.13,Department Store
 Mansfield,32.57,-97.13,7-Eleven,32.6479192,-97.1346927,Convenience Store
-Maypearl,32.28,-97.02,Dollar General,32.313586,-97.010688,Discount Store
-Maypearl,32.28,-97.02,David's Supermarket,32.308172,-97.012946,Grocery Store
-Maypearl,32.28,-97.02,Dollar General,32.270526768148756,-97.17617174141004,Discount Store
-Maypearl,32.28,-97.02,Dollar General,32.19203,-96.896276,Discount Store
-Maypearl,32.28,-97.02,Walmart Neighborhood Market,32.277202,-97.179706,Grocery Store
-Maypearl,32.28,-97.02,Brookshire Brothers,32.308101,-97.013061,Grocery Store
-Maypearl,32.28,-97.02,Brookshire Brothers,32.3081728,-97.01298109999999,Grocery Store
-Maypearl,32.28,-97.02,Maypearl TX Air Duct Cleaning,32.3082009,-97.0129419,Home Service
-Maypearl,32.28,-97.02,Carter's Custom Picture Framing,32.322045264937245,-97.02436208724976,Photography Studio
-Maypearl,32.28,-97.02,Raleigh Fence Co.,32.33804,-96.98234,Construction & Landscaping
-Maypearl,32.28,-97.02,Fibrenew Mansfield Burleson,32.29697028762459,-97.10691779851913,Other Repair Shop
-Maypearl,32.28,-97.02,The Rustice Rose Boutique,32.30665,-97.10736,Boutique
-Maypearl,32.28,-97.02,FORT WORTH GUN,32.30665,-97.10736,Gun Shop
-Maypearl,32.28,-97.02,CBA Auto Part,32.28858381506922,-96.92419767379761,Auto Workshop
-Maypearl,32.28,-97.02,Heat Mechanical,32.35136,-96.96076,Home Service
-Maypearl,32.28,-97.02,Reeves Electrical Contracting Inc.,32.32258925145113,-96.91967010498045,Business Service
-Maypearl,32.28,-97.02,Crafty Chics Cottage Retreat,32.2659794,-96.89537050000001,Arts & Crafts Store
-Maypearl,32.28,-97.02,Leopard Lilly Designs,32.27717326650437,-97.14952468872069,Jewelry Store
-Maypearl,32.28,-97.02,Muhammad Umer Farooq,32.17009100209673,-96.98729395866394,Health & Beauty Service
-Maypearl,32.28,-97.02,Marilyn Kelley Agency,32.23831729279232,-97.14872488752007,Insurance Office
-Maypearl,32.28,-97.02,Rick Rodgers Carpet Service,32.370864097857684,-96.9280707836151,Carpet Store
-Maypearl,32.28,-97.02,Ricky's Landscaping,32.22857,-97.157205,Construction & Landscaping
-Maypearl,32.28,-97.02,Cain's Mobility Waco,32.179035988994585,-97.11249947547913,Home Service
-Maypearl,32.28,-97.02,Zebra Express Food Mart,32.272687561703385,-97.17178408972542,Convenience Store
-Maypearl,32.28,-97.02,Mansell's Grocery,32.19789109831567,-96.90007562173669,Convenience Store
-Maypearl,32.28,-97.02,Leland's Barns,32.26913604087526,-97.17411518096924,Construction & Landscaping
-Maypearl,32.28,-97.02,Midlothian Foundation Repair,32.40504696449491,-96.97397947311401,Home Service
-Maypearl,32.28,-97.02,Copper Rose Boutique,32.25616249319634,-96.86573624610901,Flower Shop
-Maypearl,32.28,-97.02,David's,32.26738307591252,-97.17640041500921,Grocery Store
-Maypearl,32.28,-97.02,DJM Plumbing,32.41314273,-97.0183646,Home Service
-Maypearl,32.28,-97.02,MG Doors & More LLC,32.252982,-96.865559,Home Service
-Maypearl,32.28,-97.02,The Frock Shop,32.359994,-96.892746,Clothing Store
-Maypearl,32.28,-97.02,Click's Construction Services,32.15832768829792,-97.08739399909973,Home Service
-Maypearl,32.28,-97.02,Brookshire Brothers,32.270801,-97.178605,Grocery Store
-Maypearl,32.28,-97.02,Dekontee Trucking LLC,32.269426336812444,-97.17862129211426,Business Service
-Maypearl,32.28,-97.02,The Rustic Revolver,32.271604,-97.17909800000001,Gun Shop
-Maypearl,32.28,-97.02,Spring Market,32.27723693847656,-97.17939758300781,Grocery Store
-Maypearl,32.28,-97.02,East Wind Games,32.361325110434436,-96.89261025542073,Toy / Game Store
-Maypearl,32.28,-97.02,White Horse Pub,32.36054663936365,-96.89105921593902,Shop & Service
-Maypearl,32.28,-97.02,Rhiannon Oils And Incenses,32.359775,-96.890002,Gift Shop
-Maypearl,32.28,-97.02,JR Mechanical,32.295877,-96.8597961,Construction & Landscaping
-Maypearl,32.28,-97.02,B & C Exteriors,32.268079,-97.180815,Construction & Landscaping
-Maypearl,32.28,-97.02,Middle-ground Publishing,32.400673,-97.096734,Bookstore
-Maypearl,32.28,-97.02,Spring Market,32.190798,-96.896176,Grocery Store
-Maypearl,32.28,-97.02,Grandview Service Center,32.27416165814561,-97.1830952167511,Auto Workshop
-Maypearl,32.28,-97.02,Screams Workshop,32.316444396972656,-96.86170196533203,Hobby Shop
-Maypearl,32.28,-97.02,Leland's Custom Homes,32.275234,-97.185493,Construction & Landscaping
-Maypearl,32.28,-97.02,Computer Doctor On Wheel,32.4189041,-96.9977729,Other Repair Shop
-Maypearl,32.28,-97.02,A Oasis Landscaping,32.312909,-96.85875999999999,Construction & Landscaping
-Maypearl,32.28,-97.02,Leland's Barns and Sheds,32.274946,-97.186026,Construction & Landscaping
-Maypearl,32.28,-97.02,Stallion Buildings,32.274946,-97.186026,Construction & Landscaping
-Maypearl,32.28,-97.02,Martin Heavy Duty Towing,32.3141,-96.85698,Business Service
-Maypearl,32.28,-97.02,Charitable Movers & Packers,32.4229159,-97.010324,Home Service
-Maypearl,32.28,-97.02,"Fletcher Excavating & Septic, Inc.",32.2704245,-97.1791759,Construction & Landscaping
-Maypearl,32.28,-97.02,Consolidated Electrical Distributors,32.3671951,-96.88650400000002,Construction & Landscaping
 Midlothian,32.5,-97.0,Kroger Marketplace,32.458383350346125,-96.9929643663253,Supermarket
 Midlothian,32.5,-97.0,Chick-fil-A,32.460275,-96.993438,Food Service
 Midlothian,32.5,-97.0,Sprouts Farmers Market,32.5925211,-96.9393553,Grocery Store
@@ -19816,106 +19461,6 @@ Rio Vista,32.23,-97.4,Bradley Law Firm,32.347603,-97.386362,Lawyer
 "(Greenway, Upper Westside, Eastchase) - Fort Worth",32.76,-97.33,CVS pharmacy,32.66183205900589,-97.42324860363524,Pharmacy
 "(Greenway, Upper Westside, Eastchase) - Fort Worth",32.76,-97.33,PetSmart,32.8822706,-97.2588557,Pet Store
 "(Greenway, Upper Westside, Eastchase) - Fort Worth",32.76,-97.33,DICK'S Sporting Goods,32.83095217390008,-97.19878950359015,Sporting Goods Shop
-Meadowbrook - Fort Worth,32.75,-97.27,Old Home Supply,32.72453644273714,-97.33505606558019,Furniture / Home Store
-Meadowbrook - Fort Worth,32.75,-97.27,Montgomery Plaza,32.752212228721525,-97.35294026597981,Shopping Plaza
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.73255849581731,-97.33120133656263,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Tom Thumb,32.751756,-97.351422,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,PetSmart,32.7540336,-97.3517743,Pet Store
-Meadowbrook - Fort Worth,32.75,-97.27,Spec's Wine & Spirits,32.75638236467232,-97.1699339354943,Liquor Store
-Meadowbrook - Fort Worth,32.75,-97.27,7-Eleven,32.707386561093784,-97.19171480280966,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,eatZi's Market & Bakery,32.72952478585827,-97.36154478325642,Gourmet Shop
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.79547134772728,-97.32513584027096,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Central Market,32.7298823,-97.389034,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,University Park Village,32.72754638475581,-97.3636133227539,Shopping Mall
-Meadowbrook - Fort Worth,32.75,-97.27,Sprouts Farmers Market,32.6769207,-97.1947703,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,WinCo Foods,32.84290941790971,-97.23531769652114,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,Sam's Club,32.763941315686054,-97.1719143839263,Warehouse Store
-Meadowbrook - Fort Worth,32.75,-97.27,Trader Joe's,32.71187304077815,-97.38523320386945,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.80933252842343,-97.20683697878249,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.82946492396729,-97.22066098392354,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Green's Produce,32.70705194304998,-97.15479519941283,Farmers Market
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.79448494179209,-97.29086311756123,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Spec's,32.71143958116504,-97.38651997027387,Liquor Store
-Meadowbrook - Fort Worth,32.75,-97.27,ALDI,32.756165026903524,-97.17042982578278,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,7-Eleven,32.7157738,-97.3523122,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Target,32.75549735964916,-97.35332586521915,Big Box Store
-Meadowbrook - Fort Worth,32.75,-97.27,Sprouts Farmers Market,32.6832099,-97.3940934,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Sam's Club,32.84230950610182,-97.24833675568124,Warehouse Store
-Meadowbrook - Fort Worth,32.75,-97.27,The Shops at Clearfork,32.7098685,-97.3994157,Shopping Plaza
-Meadowbrook - Fort Worth,32.75,-97.27,Walmart Neighborhood Market,32.82442036352458,-97.184804017413,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Tom Thumb,32.72275656143119,-97.15037763118744,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Sprouts,32.72596402838834,-97.41704734673826,Market
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.78568622860785,-97.38469649746847,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Kroger,32.6827477,-97.1934668,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,Whole Foods Market,32.700069923708625,-97.41309245310919,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,El Rio Grande Latin Market,32.70716634274999,-97.31941808356439,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Total Wine & More,32.673025,-97.40055,Wine Shop
-Meadowbrook - Fort Worth,32.75,-97.27,Kroger,32.7045815,-97.3610941,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,Walmart Neighborhood Market,32.81370877066678,-97.23932155221814,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,CVS pharmacy,32.6717194314556,-97.37600185270594,Pharmacy
-Meadowbrook - Fort Worth,32.75,-97.27,Costco,32.677616496502004,-97.40858328967609,Warehouse Store
-Meadowbrook - Fort Worth,32.75,-97.27,Spec's,32.680331335958364,-97.41633396647143,Liquor Store
-Meadowbrook - Fort Worth,32.75,-97.27,Total Wine & More,32.679494,-97.1205212,Wine Shop
-Meadowbrook - Fort Worth,32.75,-97.27,Target,32.836369301450915,-97.18374575544779,Big Box Store
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.861202207724496,-97.21025037149707,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Whole Foods Market,32.76649702921431,-97.0989113578509,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.75926497161485,-97.42258461405716,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Tom Thumb,32.70606568831487,-97.39003300666815,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Kroger,32.872349262357766,-97.34017817314452,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,North East Mall,32.829863801557266,-97.19976760978699,Shopping Mall
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.67274230842699,-97.38280177116394,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.756976184492444,-97.114233696675,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Tom Thumb,32.8640062,-97.1795488,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,WinCo Foods,32.63300561693519,-97.34965828948528,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.68894853820952,-97.11554364200677,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Target,32.68409889335653,-97.13603832801509,Big Box Store
-Meadowbrook - Fort Worth,32.75,-97.27,PetSmart,32.746351,-97.433528,Pet Store
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.84734797047883,-97.34367986563048,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,WinCo Foods,32.67353402389601,-97.13911171918606,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,Kroger,32.85470399090788,-97.19034057633348,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,Kroger,32.86292841516968,-97.2889451086644,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,Target,32.6786829865866,-97.41257532287422,Big Box Store
-Meadowbrook - Fort Worth,32.75,-97.27,Spec's,32.710266668781856,-97.15740121514594,Liquor Store
-Meadowbrook - Fort Worth,32.75,-97.27,Kroger,32.762798,-97.1180085,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,H&M,32.7554982,-97.3305903,Clothing Store
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.873443930647916,-97.31911483847692,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Petco,32.888831262458794,-97.25868628231329,Pet Store
-Meadowbrook - Fort Worth,32.75,-97.27,Spec's Wine & Spirits,32.682278850227874,-97.13266460081464,Liquor Store
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.840633280967516,-97.18576200287806,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Kroger,32.64849045261919,-97.18908919752093,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,Albertsons,32.6768894,-97.1999184,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,ALDI,32.72180372897001,-97.1477222442627,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Restaurant Depot,32.76309829361567,-97.2155814873863,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,Kroger,32.66060401937263,-97.13608869911468,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,Archie's Gardenland,32.722297999999995,-97.433145,Garden Center
-Meadowbrook - Fort Worth,32.75,-97.27,Bicycles Inc.,32.85154982,-97.16877732,Sporting Goods Shop
-Meadowbrook - Fort Worth,32.75,-97.27,Dollar Tree,32.83764041034523,-97.15075619772018,Discount Store
-Meadowbrook - Fort Worth,32.75,-97.27,7-Eleven,32.7420542156098,-97.3827733845064,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Kroger,32.8250092,-97.2276745,Supermarket
-Meadowbrook - Fort Worth,32.75,-97.27,El Rancho,32.67579055068031,-97.32164016072011,Market
-Meadowbrook - Fort Worth,32.75,-97.27,Fiesta Mart Inc,32.68671393146434,-97.3280593896662,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Walgreens,32.861537866162834,-97.20849573612213,Pharmacy
-Meadowbrook - Fort Worth,32.75,-97.27,The Runner,32.71266169826607,-97.16162465389603,Sporting Goods Shop
-Meadowbrook - Fort Worth,32.75,-97.27,Target,32.88980417304663,-97.2574782371521,Big Box Store
-Meadowbrook - Fort Worth,32.75,-97.27,Calloway's Nursery,32.7129110589694,-97.38460451199872,Garden Center
-Meadowbrook - Fort Worth,32.75,-97.27,Walgreens,32.7098245666685,-97.38576963543892,Pharmacy
-Meadowbrook - Fort Worth,32.75,-97.27,GameStop,32.665856372399524,-97.20642421849752,Video Game Store
-Meadowbrook - Fort Worth,32.75,-97.27,Walgreens,32.7493794,-97.3371868,Pharmacy
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.77691165313808,-97.34563782612759,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,QuikTrip,32.66946580936592,-97.20410865175842,Convenience Store
-Meadowbrook - Fort Worth,32.75,-97.27,Academy Sports + Outdoors,32.682680577567496,-97.12452113628387,Sporting Goods Shop
-Meadowbrook - Fort Worth,32.75,-97.27,Aldi,32.666962161374144,-97.39963799715048,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Big Lots,32.67448200620836,-97.1913065734052,Big Box Store
-Meadowbrook - Fort Worth,32.75,-97.27,Best Buy,32.6773338,-97.1374816,Electronics Store
-Meadowbrook - Fort Worth,32.75,-97.27,PetSmart,32.757626,-97.100175,Pet Store
-Meadowbrook - Fort Worth,32.75,-97.27,Adam Smith's Texas Harley-Davidson,32.838941919723986,-97.13606736655349,Motorcycle Shop
-Meadowbrook - Fort Worth,32.75,-97.27,Walmart Neighborhood Market,32.875033747636884,-97.27034825986101,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Albertsons,32.6334662,-97.3715795,Grocery Store
-Meadowbrook - Fort Worth,32.75,-97.27,Sam's Club,32.687970859047326,-97.41441748304851,Warehouse Store
-Meadowbrook - Fort Worth,32.75,-97.27,Walmart Supercenter,32.782604769298345,-97.38084576046418,Big Box Store
-Meadowbrook - Fort Worth,32.75,-97.27,Best Buy,32.826968,-97.203019,Electronics Store
-Meadowbrook - Fort Worth,32.75,-97.27,Dollar Tree,32.75540378961999,-97.35095350933058,Discount Store
-Meadowbrook - Fort Worth,32.75,-97.27,The UPS Store,32.67075697705327,-97.13151695051457,Shipping Store
 "(Hillside, Morningside) - Fort Worth",32.73,-97.32,Old Home Supply,32.72453644273714,-97.33505606558019,Furniture / Home Store
 "(Hillside, Morningside) - Fort Worth",32.73,-97.32,QuikTrip,32.73255849581731,-97.33120133656263,Convenience Store
 "(Hillside, Morningside) - Fort Worth",32.73,-97.32,Montgomery Plaza,32.752212228721525,-97.35294026597981,Shopping Plaza
@@ -20409,13 +19954,13 @@ White Settlement - Fort Worth,32.78,-97.51,Dollar General,32.866187964061574,-97
 White Settlement - Fort Worth,32.78,-97.51,Walmart Supercenter,32.782604769298345,-97.38084576046418,Big Box Store
 White Settlement - Fort Worth,32.78,-97.51,Tyler's,32.72758011953423,-97.36053730096032,Clothing Store
 White Settlement - Fort Worth,32.78,-97.51,Henderson Street Bazaar,32.763752000000004,-97.34741,Flea Market
+White Settlement - Fort Worth,32.78,-97.51,Ross Dress for Less,32.75544299138097,-97.35199562343236,Clothing Store
 White Settlement - Fort Worth,32.78,-97.51,The UPS Store,32.7257218397803,-97.42163255135026,Shipping Store
 White Settlement - Fort Worth,32.78,-97.51,Walgreens,32.73991128591342,-97.38708218810643,Pharmacy
 White Settlement - Fort Worth,32.78,-97.51,Chick-fil-A,32.8813402,-97.3917975,Food Service
 White Settlement - Fort Worth,32.78,-97.51,CVS pharmacy,32.81242480891865,-97.43291525824809,Pharmacy
 White Settlement - Fort Worth,32.78,-97.51,Albertsons,32.7370246,-97.4328499,Grocery Store
 White Settlement - Fort Worth,32.78,-97.51,Dollar Tree,32.81157336958872,-97.42356228770616,Discount Store
-White Settlement - Fort Worth,32.78,-97.51,Corner Store,32.766756,-97.479354,Convenience Store
 TCU Area - Fort Worth,32.7,-97.39,Trader Joe's,32.71187304077815,-97.38523320386945,Grocery Store
 TCU Area - Fort Worth,32.7,-97.39,Sprouts Farmers Market,32.6832099,-97.3940934,Grocery Store
 TCU Area - Fort Worth,32.7,-97.39,Whole Foods Market,32.700069923708625,-97.41309245310919,Grocery Store
@@ -21069,6 +20614,7 @@ TCU Area - Fort Worth,32.7,-97.39,Walgreens,32.5654502,-97.3514091,Pharmacy
 "(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,QuikTrip,32.809129001081416,-97.42138901303458,Convenience Store
 "(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,Kroger,32.7045815,-97.3610941,Supermarket
 "(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,Sam's Club,32.75499724371597,-97.4316411810641,Warehouse Store
+"(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,Fort Worth Running Company,32.75073153620879,-97.3516900886637,Sporting Goods Shop
 "(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,7-Eleven,32.7157738,-97.3523122,Convenience Store
 "(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,Aldi,32.666962161374144,-97.39963799715048,Grocery Store
 "(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,CVS pharmacy,32.66183205900589,-97.42324860363524,Pharmacy
@@ -21115,7 +20661,6 @@ TCU Area - Fort Worth,32.7,-97.39,Walgreens,32.5654502,-97.3514091,Pharmacy
 "(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,Walgreens,32.727570256964576,-97.41974277427289,Pharmacy
 "(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,CVS pharmacy,32.74737483653512,-97.37161662892946,Pharmacy
 "(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,Hulen Mall,32.6784819,-97.3983788,Shopping Mall
-"(Western Hills, Ridglea Hills) - Fort Worth",32.72,-97.46,Dollar General,32.714628000000005,-97.332279,Discount Store
 Haltom City,32.8,-97.26,WinCo Foods,32.84290941790971,-97.23531769652114,Supermarket
 Haltom City,32.8,-97.26,QuikTrip,32.82946492396729,-97.22066098392354,Convenience Store
 Haltom City,32.8,-97.26,Sam's Club,32.84230950610182,-97.24833675568124,Warehouse Store
@@ -21580,6 +21125,7 @@ Richland Hills,32.8,-97.19,Smoothie King,32.894361,-97.258179,Smoothie Shop
 "(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,Tom Thumb,32.751756,-97.351422,Grocery Store
 "(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,CVS pharmacy,32.65028979750451,-97.36647115419484,Pharmacy
 "(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,QuikTrip,32.73255849581731,-97.33120133656263,Convenience Store
+"(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,JOANN Fabrics and Crafts,32.745827181984964,-97.43376735082569,Fabric Shop
 "(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,PetSmart,32.746351,-97.433528,Pet Store
 "(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,PetSmart,32.7540336,-97.3517743,Pet Store
 "(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,Aldi,32.523705475407155,-97.34367212873849,Grocery Store
@@ -21615,7 +21161,6 @@ Richland Hills,32.8,-97.19,Smoothie King,32.894361,-97.258179,Smoothie Shop
 "(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,QuikTrip,32.736969,-97.467421,Convenience Store
 "(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,7-Eleven,32.5394122,-97.360322,Convenience Store
 "(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,QuikTrip,32.64944444404312,-97.34788664641293,Convenience Store
-"(Wedgewood, Stone Meadow) - Fort Worth",32.62,-97.39,CVS pharmacy,32.6596789834166,-97.27027463065382,Pharmacy
 Benbrook,32.6,-97.5,Spec's,32.680331335958364,-97.41633396647143,Liquor Store
 Benbrook,32.6,-97.5,Costco,32.677616496502004,-97.40858328967609,Warehouse Store
 Benbrook,32.6,-97.5,Total Wine & More,32.673025,-97.40055,Wine Shop
@@ -21735,6 +21280,7 @@ NAS-JRB - Fort Worth,32.78,-97.42,Whole Foods Market,32.700069923708625,-97.4130
 NAS-JRB - Fort Worth,32.78,-97.42,University Park Village,32.72754638475581,-97.3636133227539,Shopping Mall
 NAS-JRB - Fort Worth,32.78,-97.42,eatZi's Market & Bakery,32.72952478585827,-97.36154478325642,Gourmet Shop
 NAS-JRB - Fort Worth,32.78,-97.42,Spec's,32.71143958116504,-97.38651997027387,Liquor Store
+NAS-JRB - Fort Worth,32.78,-97.42,Natural Grocers,32.75084,-97.35432,Organic Grocery
 NAS-JRB - Fort Worth,32.78,-97.42,Atwoods Ranch and Home,32.80363,-97.414192,Department Store
 NAS-JRB - Fort Worth,32.78,-97.42,Spec's,32.680331335958364,-97.41633396647143,Liquor Store
 NAS-JRB - Fort Worth,32.78,-97.42,Sprouts Farmers Market,32.6832099,-97.3940934,Grocery Store
@@ -21815,7 +21361,6 @@ NAS-JRB - Fort Worth,32.78,-97.42,CVS pharmacy,32.67960186782531,-97.46438425100
 NAS-JRB - Fort Worth,32.78,-97.42,CVS pharmacy,32.78959543671408,-97.38761375038287,Pharmacy
 NAS-JRB - Fort Worth,32.78,-97.42,7-Eleven,32.851738746737674,-97.4108072012234,Convenience Store
 NAS-JRB - Fort Worth,32.78,-97.42,Kroger,32.7257468,-97.4770474,Supermarket
-NAS-JRB - Fort Worth,32.78,-97.42,FedEx Office Print & Ship Center,32.68530681714286,-97.4130311608588,Shipping Store
 TCU,32.709,-97.363,Trader Joe's,32.71187304077815,-97.38523320386945,Grocery Store
 TCU,32.709,-97.363,Central Market,32.7298823,-97.389034,Grocery Store
 TCU,32.709,-97.363,World Market,32.73152320895182,-97.39064911011155,Furniture / Home Store
@@ -22114,8 +21659,8 @@ TCU,32.709,-97.363,Target,32.74901609484095,-97.43193784771015,Big Box Store
 "(Quail Ridge Estates, Huken Bend Estates) - Fort Worth",32.66,-97.42,Dollar General,32.714628000000005,-97.332279,Discount Store
 "(Quail Ridge Estates, Huken Bend Estates) - Fort Worth",32.66,-97.42,The UPS Store,32.7257218397803,-97.42163255135026,Shipping Store
 "(Quail Ridge Estates, Huken Bend Estates) - Fort Worth",32.66,-97.42,Walgreens,32.73991128591342,-97.38708218810643,Pharmacy
+"(Quail Ridge Estates, Huken Bend Estates) - Fort Worth",32.66,-97.42,Dollar Tree,32.67174,-97.35298,Discount Store
 "(Quail Ridge Estates, Huken Bend Estates) - Fort Worth",32.66,-97.42,Big Lots,32.67712407807066,-97.41380252513125,Discount Store
-"(Quail Ridge Estates, Huken Bend Estates) - Fort Worth",32.66,-97.42,7-Eleven,32.635412,-97.370428,Convenience Store
 Wedgewood - Fort Worth,32.66,-97.38,Total Wine & More,32.673025,-97.40055,Wine Shop
 Wedgewood - Fort Worth,32.66,-97.38,Sprouts Farmers Market,32.6832099,-97.3940934,Grocery Store
 Wedgewood - Fort Worth,32.66,-97.38,Dillard's,32.67879290143702,-97.399612972405,Department Store
@@ -23024,6 +22569,7 @@ DFW Airport Area - Fort Worth,32.81,-97.05,Michaels,32.909888,-96.961546,Arts & 
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Hobby Lobby,32.90672030192672,-97.3190073147673,Hobby Shop
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Total Wine & More,32.9135916,-97.3117815,Wine Shop
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,PetSmart,32.913488,-97.313664,Pet Store
+"(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,CVS pharmacy,32.880561,-97.42636999999999,Pharmacy
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Petco,32.90029603841163,-97.32616662925432,Pet Store
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Cabela's,32.9610104,-97.3083559,Hunting Supply
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Kroger Marketplace,32.9117086,-97.3094739,Supermarket
@@ -23115,7 +22661,6 @@ DFW Airport Area - Fort Worth,32.81,-97.05,Michaels,32.909888,-96.961546,Arts & 
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,The UPS Store,32.8952807,-97.2901882,Shipping Store
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Walmart Pharmacy,32.90411631119883,-97.5461314949292,Pharmacy
 "(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,CVS pharmacy,32.81242480891865,-97.43291525824809,Pharmacy
-"(Saginaw, Eagle Mountain) - Fort Worth",32.9,-97.4,Walgreens,32.8606793,-97.2887555,Pharmacy
 North Richland Hills - Fort Worth,32.84,-97.22,WinCo Foods,32.84290941790971,-97.23531769652114,Supermarket
 North Richland Hills - Fort Worth,32.84,-97.22,QuikTrip,32.82946492396729,-97.22066098392354,Convenience Store
 North Richland Hills - Fort Worth,32.84,-97.22,QuikTrip,32.861202207724496,-97.21025037149707,Convenience Store

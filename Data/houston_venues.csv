@@ -1,6 +1,6 @@
 Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,Venue Longitude,Venue Category
 "Downtown, Midtown",29.75,-95.37,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
-"Downtown, Midtown",29.75,-95.37,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Downtown, Midtown",29.75,-95.37,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Downtown, Midtown",29.75,-95.37,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 "Downtown, Midtown",29.75,-95.37,Whole Foods Market,29.75799411457671,-95.39764273104588,Grocery Store
 "Downtown, Midtown",29.75,-95.37,H-E-B,29.7379131,-95.4026184,Grocery Store
@@ -99,7 +99,7 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Downtown, Midtown",29.75,-95.37,Dollar Tree,29.73959927383527,-95.50300075500193,Discount Store
 "Downtown, Midtown",29.75,-95.37,CVS pharmacy,29.694490276123894,-95.41501915347386,Pharmacy
 "Downtown, Midtown",29.75,-95.37,Restaurant Depot,29.803412396449207,-95.42522723915876,Kitchen Supply Store
-East Downtown,29.75,-95.35,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+East Downtown,29.75,-95.35,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 East Downtown,29.75,-95.35,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 East Downtown,29.75,-95.35,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 East Downtown,29.75,-95.35,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
@@ -205,7 +205,7 @@ East Downtown,29.75,-95.35,FedEx Office Print & Ship Center,29.7384521,-95.47475
 "South Central, Greater Third Ward",29.72,-95.38,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
 "South Central, Greater Third Ward",29.72,-95.38,Trader Joe's,29.739137321386455,-95.41136096166395,Grocery Store
 "South Central, Greater Third Ward",29.72,-95.38,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
-"South Central, Greater Third Ward",29.72,-95.38,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"South Central, Greater Third Ward",29.72,-95.38,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "South Central, Greater Third Ward",29.72,-95.38,Whole Foods Market,29.75799411457671,-95.39764273104588,Grocery Store
 "South Central, Greater Third Ward",29.72,-95.38,Kirbside Bar,29.73915182491743,-95.41818404559953,Grocery Store
 "South Central, Greater Third Ward",29.72,-95.38,H-E-B,29.7267244,-95.4271793,Grocery Store
@@ -326,7 +326,6 @@ West University Place,29.72,-95.42,Smoothie King,29.744462,-95.390984,Smoothie S
 West University Place,29.72,-95.42,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 West University Place,29.72,-95.42,Micro Center,29.724975553127997,-95.46689928963602,Electronics Store
 West University Place,29.72,-95.42,H-E-B,29.7479856,-95.4850284,Grocery Store
-West University Place,29.72,-95.42,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 West University Place,29.72,-95.42,Target,29.74507658164775,-95.45362958238226,Big Box Store
 West University Place,29.72,-95.42,"Spec's Wines, Spirits & Finer Foods",29.732484758031248,-95.46428225016463,Liquor Store
 West University Place,29.72,-95.42,Walgreens,29.7409721,-95.4677254,Pharmacy
@@ -399,6 +398,7 @@ West University Place,29.72,-95.42,Macy's,29.781,-95.54,Department Store
 West University Place,29.72,-95.42,Buffalo Heights H-E-B,29.769018225991914,-95.39657534418029,Grocery Store
 West University Place,29.72,-95.42,CVS pharmacy,29.733914464313486,-95.39135798975319,Pharmacy
 West University Place,29.72,-95.42,Kroger,29.7429498,-95.3920988,Supermarket
+West University Place,29.72,-95.42,Legacy Pharmacy,29.74495533351506,-95.39403541023603,Pharmacy
 "Montrose, Hyde Park",29.74,-95.39,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 "Montrose, Hyde Park",29.74,-95.39,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 "Montrose, Hyde Park",29.74,-95.39,H-E-B,29.7379131,-95.4026184,Grocery Store
@@ -407,7 +407,7 @@ West University Place,29.72,-95.42,Kroger,29.7429498,-95.3920988,Supermarket
 "Montrose, Hyde Park",29.74,-95.39,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
 "Montrose, Hyde Park",29.74,-95.39,Smoothie King,29.744462,-95.390984,Smoothie Shop
 "Montrose, Hyde Park",29.74,-95.39,Kirbside Bar,29.73915182491743,-95.41818404559953,Grocery Store
-"Montrose, Hyde Park",29.74,-95.39,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Montrose, Hyde Park",29.74,-95.39,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Montrose, Hyde Park",29.74,-95.39,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 "Montrose, Hyde Park",29.74,-95.39,PetSmart,29.739527,-95.411243,Pet Store
 "Montrose, Hyde Park",29.74,-95.39,Whole Foods Market,29.744379,-95.381412,Grocery Store
@@ -512,7 +512,6 @@ West University Place,29.72,-95.42,Kroger,29.7429498,-95.3920988,Supermarket
 "Rice Military, Memorial Park",29.77,-95.41,Smoothie King,29.775785,-95.382698,Smoothie Shop
 "Rice Military, Memorial Park",29.77,-95.41,River Oaks District,29.74278708403033,-95.453509579883,Shopping Mall
 "Rice Military, Memorial Park",29.77,-95.41,Highland Village,29.7416493273977,-95.44676971193074,Shopping Mall
-"Rice Military, Memorial Park",29.77,-95.41,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "Rice Military, Memorial Park",29.77,-95.41,H-E-B,29.7267244,-95.4271793,Grocery Store
 "Rice Military, Memorial Park",29.77,-95.41,PetSmart,29.739527,-95.411243,Pet Store
 "Rice Military, Memorial Park",29.77,-95.41,Whole Foods Market,29.749479791687545,-95.46163506664445,Grocery Store
@@ -599,6 +598,7 @@ West University Place,29.72,-95.42,Kroger,29.7429498,-95.3920988,Supermarket
 "Rice Military, Memorial Park",29.77,-95.41,PetSmart,29.689347,-95.4135854,Pet Store
 "Rice Military, Memorial Park",29.77,-95.41,H-E-B,29.6886245,-95.4642329,Grocery Store
 "Rice Military, Memorial Park",29.77,-95.41,Kroger,29.7429498,-95.3920988,Supermarket
+"Rice Military, Memorial Park",29.77,-95.41,Whole Foods Market,29.735312616116317,-95.57039122357129,Grocery Store
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,The Heights H-E-B,29.8070977,-95.4092752,Grocery Store
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
@@ -616,7 +616,6 @@ West University Place,29.72,-95.42,Kroger,29.7429498,-95.3920988,Supermarket
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,Kirbside Bar,29.73915182491743,-95.41818404559953,Grocery Store
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,"Spec's Wines, Spirits & Finer Foods",29.78516934659421,-95.49411949289518,Liquor Store
-"Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,The UPS Store,29.802465623626425,-95.40543638546296,Shipping Store
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,Costco,29.733971115841793,-95.43964074339954,Warehouse Store
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,The Container Store,29.741415225598274,-95.46005247032731,Furniture / Home Store
@@ -699,12 +698,13 @@ West University Place,29.72,-95.42,Kroger,29.7429498,-95.3920988,Supermarket
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,Stripes Store 7784,29.897642848314018,-95.51606293222241,Convenience Store
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,Office Depot,29.811161,-95.42304,Paper / Office Supplies Store
 "Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,Walmart Pharmacy,29.772815,-95.401336,Pharmacy
+"Shady Acres, Greater Heights, Lazybrook",29.8,-95.42,Walgreens,29.742854063730295,-95.39039120078087,Pharmacy
 "Northside Village, Woodland Heights",29.79,-95.37,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
 "Northside Village, Woodland Heights",29.79,-95.37,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
 "Northside Village, Woodland Heights",29.79,-95.37,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 "Northside Village, Woodland Heights",29.79,-95.37,Smoothie King,29.775785,-95.382698,Smoothie Shop
 "Northside Village, Woodland Heights",29.79,-95.37,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
-"Northside Village, Woodland Heights",29.79,-95.37,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Northside Village, Woodland Heights",29.79,-95.37,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Northside Village, Woodland Heights",29.79,-95.37,Whole Foods Market,29.75799411457671,-95.39764273104588,Grocery Store
 "Northside Village, Woodland Heights",29.79,-95.37,The Heights H-E-B,29.8070977,-95.4092752,Grocery Store
 "Northside Village, Woodland Heights",29.79,-95.37,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
@@ -799,7 +799,7 @@ West University Place,29.72,-95.42,Kroger,29.7429498,-95.3920988,Supermarket
 "Northside Village, Woodland Heights",29.79,-95.37,Corner Store,29.749525,-95.497118,Convenience Store
 "Northside Village, Woodland Heights",29.79,-95.37,FedEx Office Print & Ship Center,29.7384521,-95.4747551,Shipping Store
 "Northside Village, Woodland Heights",29.79,-95.37,Costco Optical,29.73396183784413,-95.43966944278837,Optical Shop
-George R Brown,29.754,-95.36,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+George R Brown,29.754,-95.36,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 George R Brown,29.754,-95.36,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 George R Brown,29.754,-95.36,Whole Foods Market,29.75799411457671,-95.39764273104588,Grocery Store
 George R Brown,29.754,-95.36,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
@@ -824,7 +824,6 @@ George R Brown,29.754,-95.36,Highland Village,29.7416493273977,-95.4467697119307
 George R Brown,29.754,-95.36,Costco,29.733971115841793,-95.43964074339954,Warehouse Store
 George R Brown,29.754,-95.36,River Oaks District,29.74278708403033,-95.453509579883,Shopping Mall
 George R Brown,29.754,-95.36,The Heights H-E-B,29.8070977,-95.4092752,Grocery Store
-George R Brown,29.754,-95.36,Rice Village,29.715884923510725,-95.41690263076377,Shopping Mall
 George R Brown,29.754,-95.36,Total Wine & More,29.7053679,-95.4198345,Wine Shop
 George R Brown,29.754,-95.36,Whole Foods Market,29.70683332400925,-95.44169206646067,Grocery Store
 George R Brown,29.754,-95.36,Whole Foods Market,29.749479791687545,-95.46163506664445,Grocery Store
@@ -899,8 +898,9 @@ George R Brown,29.754,-95.36,Dollar Tree,29.73959927383527,-95.50300075500193,Di
 George R Brown,29.754,-95.36,Walmart Supercenter,29.72310341009565,-95.46533072207033,Big Box Store
 George R Brown,29.754,-95.36,CVS pharmacy,29.694490276123894,-95.41501915347386,Pharmacy
 George R Brown,29.754,-95.36,Restaurant Depot,29.803412396449207,-95.42522723915876,Kitchen Supply Store
+George R Brown,29.754,-95.36,Kroger,29.6694668,-95.4636655,Supermarket
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
-"Greater East End, Second ward, Magnolia Park",29.74,-95.3,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Greater East End, Second ward, Magnolia Park",29.74,-95.3,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
@@ -926,6 +926,7 @@ George R Brown,29.754,-95.36,Restaurant Depot,29.803412396449207,-95.42522723915
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Pepper Twins,29.75267404,-95.40339739,Health Food Store
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Walgreens,29.768195807272175,-95.23334920406342,Pharmacy
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Total Wine & More,29.7053679,-95.4198345,Wine Shop
+"Greater East End, Second ward, Magnolia Park",29.74,-95.3,FedEx Ship Center,29.686316,-95.384728,Shipping Store
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Costco,29.733971115841793,-95.43964074339954,Warehouse Store
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,The Heights H-E-B,29.8070977,-95.4092752,Grocery Store
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Target,29.77467685280716,-95.38498275102646,Big Box Store
@@ -957,7 +958,6 @@ George R Brown,29.754,-95.36,Restaurant Depot,29.803412396449207,-95.42522723915
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Kroger,29.695869,-95.415516,Supermarket
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Walgreens,29.7410742,-95.4406324,Pharmacy
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Al-Ameen Halal Meat,29.685192954261364,-95.39125016208939,Grocery Store
-"Greater East End, Second ward, Magnolia Park",29.74,-95.3,Chick-fil-A,29.664406,-95.187314,Food Service
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Walgreens,29.803672324094446,-95.39989292621613,Pharmacy
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Fiesta Mart,29.690640703345146,-95.41476688911051,Grocery Store
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,"Spec's Wines, Spirits & Finer Foods",29.732484758031248,-95.46428225016463,Liquor Store
@@ -1000,7 +1000,7 @@ George R Brown,29.754,-95.36,Restaurant Depot,29.803412396449207,-95.42522723915
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Michaels,29.72311121003342,-95.44004521413626,Arts & Crafts Store
 "Greater East End, Second ward, Magnolia Park",29.74,-95.3,Walgreens,29.6932069,-95.4127839,Pharmacy
 "Harrisburg, Manchester",29.72,-95.27,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
-"Harrisburg, Manchester",29.72,-95.27,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Harrisburg, Manchester",29.72,-95.27,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Harrisburg, Manchester",29.72,-95.27,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 "Harrisburg, Manchester",29.72,-95.27,Walgreens,29.7144789,-95.295355,Pharmacy
 "Harrisburg, Manchester",29.72,-95.27,Mi Tienda,29.6636845,-95.2088761,Grocery Store
@@ -1016,6 +1016,7 @@ George R Brown,29.754,-95.36,Restaurant Depot,29.803412396449207,-95.42522723915
 "Harrisburg, Manchester",29.72,-95.27,H-E-B,29.6018509,-95.2496955,Grocery Store
 "Harrisburg, Manchester",29.72,-95.27,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 "Harrisburg, Manchester",29.72,-95.27,Walgreens,29.665746247079873,-95.18727382896031,Pharmacy
+"Harrisburg, Manchester",29.72,-95.27,Stripes,29.696617609864298,-95.3193971797459,Convenience Store
 "Harrisburg, Manchester",29.72,-95.27,Trader Joe's,29.739137321386455,-95.41136096166395,Grocery Store
 "Harrisburg, Manchester",29.72,-95.27,"Spec's Wines, Spirits & Finer Foods",29.59774473702675,-95.26551575980437,Liquor Store
 "Harrisburg, Manchester",29.72,-95.27,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
@@ -1025,7 +1026,6 @@ George R Brown,29.754,-95.36,Restaurant Depot,29.803412396449207,-95.42522723915
 "Harrisburg, Manchester",29.72,-95.27,Whole Foods Market,29.744379,-95.381412,Grocery Store
 "Harrisburg, Manchester",29.72,-95.27,Smoothie King,29.775785,-95.382698,Smoothie Shop
 "Harrisburg, Manchester",29.72,-95.27,Academy Sports + Outdoors,29.6398215,-95.1569493,Sporting Goods Shop
-"Harrisburg, Manchester",29.72,-95.27,Chick-fil-A,29.664406,-95.187314,Food Service
 "Harrisburg, Manchester",29.72,-95.27,Urban Harvest Farmers Market,29.735229053017452,-95.42444213179364,Farmers Market
 "Harrisburg, Manchester",29.72,-95.27,H-E-B,29.6486983,-95.1445449,Grocery Store
 "Harrisburg, Manchester",29.72,-95.27,Kirbside Bar,29.73915182491743,-95.41818404559953,Grocery Store
@@ -1103,7 +1103,7 @@ North Shore,29.8,-95.24,Texas Mattress Makers,29.752096010409602,-95.32372481216
 North Shore,29.8,-95.24,Walgreens,29.768195807272175,-95.23334920406342,Pharmacy
 North Shore,29.8,-95.24,Kroger,29.7896913,-95.2007364,Supermarket
 North Shore,29.8,-95.24,Fuel Maxx,29.882470847437567,-95.19611490621826,Convenience Store
-North Shore,29.8,-95.24,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+North Shore,29.8,-95.24,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 North Shore,29.8,-95.24,Houston Dairymaids,29.806944429492102,-95.38213117007098,Cheese Shop
 North Shore,29.8,-95.24,Sam's Club,29.768823885225782,-95.18309911189435,Warehouse Store
 North Shore,29.8,-95.24,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
@@ -1409,7 +1409,7 @@ Cloverleaf,29.77,-95.16,Hong Kong Food Market,29.651134066741736,-95.25227158511
 "East Little York, Homestead",29.86,-95.3,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 "East Little York, Homestead",29.86,-95.3,Farmer's Market,29.81040615434165,-95.38049769026809,Flea Market
 "East Little York, Homestead",29.86,-95.3,Fuel Maxx,29.882470847437567,-95.19611490621826,Convenience Store
-"East Little York, Homestead",29.86,-95.3,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"East Little York, Homestead",29.86,-95.3,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "East Little York, Homestead",29.86,-95.3,The Heights H-E-B,29.8070977,-95.4092752,Grocery Store
 "East Little York, Homestead",29.86,-95.3,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 "East Little York, Homestead",29.86,-95.3,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
@@ -1508,9 +1508,8 @@ Cloverleaf,29.77,-95.16,Hong Kong Food Market,29.651134066741736,-95.25227158511
 "Meadowbrook, Allendale",29.68,-95.26,Walgreens,29.665746247079873,-95.18727382896031,Pharmacy
 "Meadowbrook, Allendale",29.68,-95.26,Academy Sports + Outdoors,29.6398215,-95.1569493,Sporting Goods Shop
 "Meadowbrook, Allendale",29.68,-95.26,Chick-fil-A,29.6281,-95.23246,Food Service
-"Meadowbrook, Allendale",29.68,-95.26,Chick-fil-A,29.664406,-95.187314,Food Service
 "Meadowbrook, Allendale",29.68,-95.26,H-E-B,29.6486983,-95.1445449,Grocery Store
-"Meadowbrook, Allendale",29.68,-95.26,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Meadowbrook, Allendale",29.68,-95.26,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Meadowbrook, Allendale",29.68,-95.26,Walgreens,29.681658634577605,-95.22743503214775,Pharmacy
 "Meadowbrook, Allendale",29.68,-95.26,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 "Meadowbrook, Allendale",29.68,-95.26,H-E-B,29.5582134,-95.2649669,Grocery Store
@@ -1586,6 +1585,7 @@ Cloverleaf,29.77,-95.16,Hong Kong Food Market,29.651134066741736,-95.25227158511
 "Meadowbrook, Allendale",29.68,-95.26,Kroger,29.7429498,-95.3920988,Supermarket
 "Meadowbrook, Allendale",29.68,-95.26,CVS pharmacy,29.733914464313486,-95.39135798975319,Pharmacy
 "Meadowbrook, Allendale",29.68,-95.26,Legacy Pharmacy,29.74495533351506,-95.39403541023603,Pharmacy
+"Meadowbrook, Allendale",29.68,-95.26,Office Depot,29.569695,-95.287485,Paper / Office Supplies Store
 "Meadowbrook, Allendale",29.68,-95.26,Walgreens,29.6932069,-95.4127839,Pharmacy
 "Meadowbrook, Allendale",29.68,-95.26,The UPS Store,29.6908687,-95.1231024,Shipping Store
 "Meadowbrook, Allendale",29.68,-95.26,Corner Store,29.6848736,-95.3996758,Convenience Store
@@ -1623,7 +1623,7 @@ Central Northwest,29.83,-95.43,Kirbside Bar,29.73915182491743,-95.41818404559953
 Central Northwest,29.83,-95.43,99 Ranch Market,29.785290749203405,-95.52282601930271,Food & Drink Shop
 Central Northwest,29.83,-95.43,Costco,29.78785797483925,-95.52988734348452,Warehouse Store
 Central Northwest,29.83,-95.43,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
-Central Northwest,29.83,-95.43,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+Central Northwest,29.83,-95.43,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 Central Northwest,29.83,-95.43,H-E-B,29.7874794,-95.5320694,Grocery Store
 Central Northwest,29.83,-95.43,The Container Store,29.741415225598274,-95.46005247032731,Furniture / Home Store
 Central Northwest,29.83,-95.43,Kroger,29.8286304,-95.432477,Supermarket
@@ -1717,7 +1717,6 @@ Central Northwest,29.83,-95.43,The UPS Store,29.816605,-95.429201,Shipping Store
 "River Oaks, Fourth Ward",29.75,-95.41,Pepper Twins,29.75267404,-95.40339739,Health Food Store
 "River Oaks, Fourth Ward",29.75,-95.41,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
 "River Oaks, Fourth Ward",29.75,-95.41,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
-"River Oaks, Fourth Ward",29.75,-95.41,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "River Oaks, Fourth Ward",29.75,-95.41,Whole Foods Market,29.749479791687545,-95.46163506664445,Grocery Store
 "River Oaks, Fourth Ward",29.75,-95.41,Total Wine & More,29.751325699382097,-95.46231890674585,Wine Shop
 "River Oaks, Fourth Ward",29.75,-95.41,Smoothie King,29.775785,-95.382698,Smoothie Shop
@@ -1743,6 +1742,7 @@ Central Northwest,29.83,-95.43,The UPS Store,29.816605,-95.429201,Shipping Store
 "River Oaks, Fourth Ward",29.75,-95.41,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 "River Oaks, Fourth Ward",29.75,-95.41,Bedrock City Comic Co.,29.738429130167564,-95.49966111103411,Comic Shop
 "River Oaks, Fourth Ward",29.75,-95.41,Target,29.77467685280716,-95.38498275102646,Big Box Store
+"River Oaks, Fourth Ward",29.75,-95.41,PetSmart,29.7239084,-95.4593838,Pet Store
 "River Oaks, Fourth Ward",29.75,-95.41,"Spec's Wines, Spirits & Finer Foods",29.78516934659421,-95.49411949289518,Liquor Store
 "River Oaks, Fourth Ward",29.75,-95.41,Rice Epicurean,29.746557109400666,-95.48589879169144,Fruit & Vegetable Store
 "River Oaks, Fourth Ward",29.75,-95.41,Trader Joe's,29.75262739583288,-95.50144920293054,Grocery Store
@@ -1800,7 +1800,7 @@ Central Northwest,29.83,-95.43,The UPS Store,29.816605,-95.429201,Shipping Store
 "River Oaks, Fourth Ward",29.75,-95.41,CVS pharmacy,29.733914464313486,-95.39135798975319,Pharmacy
 "River Oaks, Fourth Ward",29.75,-95.41,Kroger,29.78932260971469,-95.41113406419754,Supermarket
 "Greater Fifth Ward, Denver Harbor, Port Houston",29.77,-95.32,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
-"Greater Fifth Ward, Denver Harbor, Port Houston",29.77,-95.32,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Greater Fifth Ward, Denver Harbor, Port Houston",29.77,-95.32,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Greater Fifth Ward, Denver Harbor, Port Houston",29.77,-95.32,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 "Greater Fifth Ward, Denver Harbor, Port Houston",29.77,-95.32,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
 "Greater Fifth Ward, Denver Harbor, Port Houston",29.77,-95.32,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
@@ -1902,7 +1902,7 @@ Central Northwest,29.83,-95.43,The UPS Store,29.816605,-95.429201,Shipping Store
 Greater OST,29.7,-95.36,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 Greater OST,29.7,-95.36,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 Greater OST,29.7,-95.36,H-E-B,29.7379131,-95.4026184,Grocery Store
-Greater OST,29.7,-95.36,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+Greater OST,29.7,-95.36,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 Greater OST,29.7,-95.36,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 Greater OST,29.7,-95.36,Trader Joe's,29.739137321386455,-95.41136096166395,Grocery Store
 Greater OST,29.7,-95.36,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
@@ -1993,13 +1993,12 @@ Greater OST,29.7,-95.36,CVS pharmacy,29.74058424862417,-95.45759534402666,Pharma
 Greater OST,29.7,-95.36,Legacy Pharmacy,29.74495533351506,-95.39403541023603,Pharmacy
 Greater OST,29.7,-95.36,Buffalo Heights H-E-B,29.769018225991914,-95.39657534418029,Grocery Store
 Greater OST,29.7,-95.36,The UPS Store,29.802465623626425,-95.40543638546296,Shipping Store
-Greater OST,29.7,-95.36,Academy Sports + Outdoors,29.739931306021663,-95.50377488136292,Sporting Goods Shop
 Greater OST,29.7,-95.36,Michaels,29.72311121003342,-95.44004521413626,Arts & Crafts Store
 Greater OST,29.7,-95.36,CVS pharmacy,29.55596365270911,-95.36801998144283,Pharmacy
 Greater OST,29.7,-95.36,Whole Foods Market 365,29.81367916321041,-95.39832836374156,Grocery Store
 Greater OST,29.7,-95.36,Target,29.686719006040402,-95.462403432708,Big Box Store
 Greater OST,29.7,-95.36,Walmart Supercenter,29.72310341009565,-95.46533072207033,Big Box Store
-Independence Heights,29.83,-95.38,Manready Mercantile,29.803043048215088,-95.40226318352558,Men's Store
+Greater OST,29.7,-95.36,Chick-fil-A,29.6281,-95.23246,Food Service
 Independence Heights,29.83,-95.38,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
 Independence Heights,29.83,-95.38,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
 Independence Heights,29.83,-95.38,The Heights H-E-B,29.8070977,-95.4092752,Grocery Store
@@ -2008,7 +2007,7 @@ Independence Heights,29.83,-95.38,Smoothie King,29.775785,-95.382698,Smoothie Sh
 Independence Heights,29.83,-95.38,Whole Foods Market,29.75799411457671,-95.39764273104588,Grocery Store
 Independence Heights,29.83,-95.38,Mi Tienda,29.869838237102282,-95.33241391181946,Grocery Store
 Independence Heights,29.83,-95.38,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
-Independence Heights,29.83,-95.38,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+Independence Heights,29.83,-95.38,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 Independence Heights,29.83,-95.38,Whole Foods Market 365,29.81367916321041,-95.39832836374156,Grocery Store
 Independence Heights,29.83,-95.38,European Wax Center,29.828910963742754,-95.43072542042579,Health & Beauty Service
 Independence Heights,29.83,-95.38,Walgreens,29.803672324094446,-95.39989292621613,Pharmacy
@@ -2099,8 +2098,9 @@ Independence Heights,29.83,-95.38,Walmart Pharmacy,29.772815,-95.401336,Pharmacy
 Independence Heights,29.83,-95.38,Office Depot,29.811161,-95.42304,Paper / Office Supplies Store
 Independence Heights,29.83,-95.38,Dollar Tree,29.73959927383527,-95.50300075500193,Discount Store
 Independence Heights,29.83,-95.38,PetSmart,29.855734,-95.513606,Pet Store
+Independence Heights,29.83,-95.38,FedEx Office Print & Ship Center,29.7384521,-95.4747551,Shipping Store
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
-"Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,H-E-B,29.7379131,-95.4026184,Grocery Store
@@ -2162,7 +2162,6 @@ Independence Heights,29.83,-95.38,PetSmart,29.855734,-95.513606,Pet Store
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Walgreens,29.7409721,-95.4677254,Pharmacy
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,PetSmart,29.689347,-95.4135854,Pet Store
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Meyerland Plaza,29.68781133559464,-95.46093611001596,Shopping Mall
-"Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Chick-fil-A,29.664406,-95.187314,Food Service
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,"Spec's Wines, Spirits & Finer Foods",29.732484758031248,-95.46428225016463,Liquor Store
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,PetSmart,29.7239084,-95.4593838,Pet Store
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Chick-fil-A,29.6281,-95.23246,Food Service
@@ -2199,6 +2198,7 @@ Independence Heights,29.83,-95.38,PetSmart,29.855734,-95.513606,Pet Store
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Costco Optical,29.73396183784413,-95.43966944278837,Optical Shop
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Kroger,29.6032787,-95.2148579,Supermarket
 "Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,Michaels,29.72311121003342,-95.44004521413626,Arts & Crafts Store
+"Greater Eastwood, Lawndale, Wayside, Gulfgate, Pine Valley",29.72,-95.31,FedEx Office Print & Ship Center,29.7384521,-95.4747551,Shipping Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,"Spec's Wines, Spirits & Finer Foods",29.78516934659421,-95.49411949289518,Liquor Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,Trader Joe's,29.75262739583288,-95.50144920293054,Grocery Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,H-E-B,29.7479856,-95.4850284,Grocery Store
@@ -2275,7 +2275,6 @@ Independence Heights,29.83,-95.38,PetSmart,29.855734,-95.513606,Pet Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,CVS pharmacy,29.74058424862417,-95.45759534402666,Pharmacy
 "Memorial Villages, Briargrove Park",29.77,-95.5,Kroger,29.8139417,-95.5443577,Supermarket
 "Memorial Villages, Briargrove Park",29.77,-95.5,H-E-B,29.7076528,-95.4698099,Grocery Store
-"Memorial Villages, Briargrove Park",29.77,-95.5,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "Memorial Villages, Briargrove Park",29.77,-95.5,Dun Huang Plaza 敦煌廣場,29.70395165757924,-95.55362976921904,Shopping Mall
 "Memorial Villages, Briargrove Park",29.77,-95.5,Target,29.782451009519765,-95.54213785972112,Big Box Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,Almadina Supermarket,29.730922456819034,-95.50166226293848,Supermarket
@@ -2292,13 +2291,14 @@ Independence Heights,29.83,-95.38,PetSmart,29.855734,-95.513606,Pet Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,Target,29.732804941168112,-95.6267438421302,Big Box Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,Walgreens,29.803672324094446,-95.39989292621613,Pharmacy
-"Memorial Villages, Briargrove Park",29.77,-95.5,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,CVS pharmacy,29.886260814905796,-95.54050152768444,Pharmacy
 "Memorial Villages, Briargrove Park",29.77,-95.5,Kroger,29.7736237,-95.3899761,Supermarket
 "Memorial Villages, Briargrove Park",29.77,-95.5,Kroger,29.7525255,-95.6052993,Supermarket
 "Memorial Villages, Briargrove Park",29.77,-95.5,Kroger,29.695869,-95.415516,Supermarket
 "Memorial Villages, Briargrove Park",29.77,-95.5,Whole Foods Market 365,29.81367916321041,-95.39832836374156,Grocery Store
 "Memorial Villages, Briargrove Park",29.77,-95.5,Joe V's Smart Shop,29.655176,-95.513204,Grocery Store
+"Memorial Villages, Briargrove Park",29.77,-95.5,Target,29.735493661085858,-95.56825485108713,Big Box Store
+"Memorial Villages, Briargrove Park",29.77,-95.5,H-E-B,29.7059432,-95.6415745,Grocery Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,Target,29.692844991400705,-95.41843855877896,Big Box Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,Whole Foods Market,29.70683332400925,-95.44169206646067,Grocery Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,Total Wine & More,29.7053679,-95.4198345,Wine Shop
@@ -2327,6 +2327,7 @@ Independence Heights,29.83,-95.38,PetSmart,29.855734,-95.513606,Pet Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,PetSmart,29.689347,-95.4135854,Pet Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,H-E-B,29.7479856,-95.4850284,Grocery Store
+"Braeswood Place, Willowbend Area",29.68,-95.43,Stogies,29.738751095122883,-95.48979045703787,Smoke Shop
 "Braeswood Place, Willowbend Area",29.68,-95.43,H-E-B,29.6886245,-95.4642329,Grocery Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,Bedrock City Comic Co.,29.738429130167564,-95.49966111103411,Comic Shop
 "Braeswood Place, Willowbend Area",29.68,-95.43,Whole Foods Market,29.75799411457671,-95.39764273104588,Grocery Store
@@ -2338,7 +2339,6 @@ Independence Heights,29.83,-95.38,PetSmart,29.855734,-95.513606,Pet Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,Smoothie King,29.744462,-95.390984,Smoothie Shop
 "Braeswood Place, Willowbend Area",29.68,-95.43,Target,29.74507658164775,-95.45362958238226,Big Box Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,Kroger,29.6694668,-95.4636655,Supermarket
-"Braeswood Place, Willowbend Area",29.68,-95.43,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "Braeswood Place, Willowbend Area",29.68,-95.43,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,H-E-B,29.7076528,-95.4698099,Grocery Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,Al-Ameen Halal Meat,29.685192954261364,-95.39125016208939,Grocery Store
@@ -2366,6 +2366,7 @@ Independence Heights,29.83,-95.38,PetSmart,29.855734,-95.513606,Pet Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,"Spec's Wines, Spirits & Finer Foods",29.78516934659421,-95.49411949289518,Liquor Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,Kroger,29.5825474,-95.3898638,Supermarket
 "Braeswood Place, Willowbend Area",29.68,-95.43,Randalls,29.7488787,-95.4658379,Supermarket
+"Braeswood Place, Willowbend Area",29.68,-95.43,Walgreens,29.655369718639353,-95.50785720348358,Pharmacy
 "Braeswood Place, Willowbend Area",29.68,-95.43,Walgreens,29.7232028,-95.3793189,Pharmacy
 "Braeswood Place, Willowbend Area",29.68,-95.43,H-E-B plus!,29.5589001,-95.3907595,Supermarket
 "Braeswood Place, Willowbend Area",29.68,-95.43,Walmart Supercenter,29.72310341009565,-95.46533072207033,Big Box Store
@@ -2398,10 +2399,9 @@ Independence Heights,29.83,-95.38,PetSmart,29.855734,-95.513606,Pet Store
 "Braeswood Place, Willowbend Area",29.68,-95.43,Walgreens,29.66383513949685,-95.46494722366333,Pharmacy
 "Braeswood Place, Willowbend Area",29.68,-95.43,Randalls,29.672705353087544,-95.45876741409302,Supermarket
 "Braeswood Place, Willowbend Area",29.68,-95.43,CVS pharmacy,29.731906765111187,-95.46727565014902,Pharmacy
-"Braeswood Place, Willowbend Area",29.68,-95.43,Walmart Neighborhood Market,29.674500286454787,-95.49528265818766,Grocery Store
 Kashmere Gardens,29.8,-95.32,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 Kashmere Gardens,29.8,-95.32,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
-Kashmere Gardens,29.8,-95.32,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+Kashmere Gardens,29.8,-95.32,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 Kashmere Gardens,29.8,-95.32,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
 Kashmere Gardens,29.8,-95.32,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 Kashmere Gardens,29.8,-95.32,Manready Mercantile,29.803043048215088,-95.40226318352558,Men's Store
@@ -2545,12 +2545,12 @@ Kashmere Gardens,29.8,-95.32,Michaels,29.72311121003342,-95.44004521413626,Arts 
 "River Oaks, Bellaire Junction",29.74,-95.45,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
 "River Oaks, Bellaire Junction",29.74,-95.45,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
 "River Oaks, Bellaire Junction",29.74,-95.45,Smoothie King,29.744462,-95.390984,Smoothie Shop
+"River Oaks, Bellaire Junction",29.74,-95.45,Fish Gallery,29.73518178548169,-95.48411932629477,Pet Store
 "River Oaks, Bellaire Junction",29.74,-95.45,Pepper Twins,29.75267404,-95.40339739,Health Food Store
 "River Oaks, Bellaire Junction",29.74,-95.45,Meyerland Plaza,29.68781133559464,-95.46093611001596,Shopping Mall
 "River Oaks, Bellaire Junction",29.74,-95.45,Michaels,29.7398241754355,-95.50261214375496,Arts & Crafts Store
 "River Oaks, Bellaire Junction",29.74,-95.45,Target,29.735120688291364,-95.5174901003278,Big Box Store
 "River Oaks, Bellaire Junction",29.74,-95.45,Sam's Club,29.72419938926226,-95.47079795175348,Warehouse Store
-"River Oaks, Bellaire Junction",29.74,-95.45,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "River Oaks, Bellaire Junction",29.74,-95.45,CVS pharmacy,29.74058424862417,-95.45759534402666,Pharmacy
 "River Oaks, Bellaire Junction",29.74,-95.45,Super H Mart,29.79232357986547,-95.52111143558255,Supermarket
 "River Oaks, Bellaire Junction",29.74,-95.45,99 Ranch Market,29.785290749203405,-95.52282601930271,Food & Drink Shop
@@ -2560,6 +2560,7 @@ Kashmere Gardens,29.8,-95.32,Michaels,29.72311121003342,-95.44004521413626,Arts 
 "River Oaks, Bellaire Junction",29.74,-95.45,The Heights H-E-B,29.8070977,-95.4092752,Grocery Store
 "River Oaks, Bellaire Junction",29.74,-95.45,Whole Foods Market,29.744379,-95.381412,Grocery Store
 "River Oaks, Bellaire Junction",29.74,-95.45,H-E-B,29.7076528,-95.4698099,Grocery Store
+"River Oaks, Bellaire Junction",29.74,-95.45,FedEx Office Print & Ship Center,29.7384521,-95.4747551,Shipping Store
 "River Oaks, Bellaire Junction",29.74,-95.45,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 "River Oaks, Bellaire Junction",29.74,-95.45,Academy Sports + Outdoors,29.7873171,-95.536337,Sporting Goods Shop
 "River Oaks, Bellaire Junction",29.74,-95.45,H Mart,29.70615440149667,-95.55390669781087,Supermarket
@@ -2598,14 +2599,13 @@ Kashmere Gardens,29.8,-95.32,Michaels,29.72311121003342,-95.44004521413626,Arts 
 "River Oaks, Bellaire Junction",29.74,-95.45,Dun Huang Plaza 敦煌廣場,29.70395165757924,-95.55362976921904,Shopping Mall
 "River Oaks, Bellaire Junction",29.74,-95.45,Al-Ameen Halal Meat,29.685192954261364,-95.39125016208939,Grocery Store
 "River Oaks, Bellaire Junction",29.74,-95.45,Target,29.686719006040402,-95.462403432708,Big Box Store
-"River Oaks, Bellaire Junction",29.74,-95.45,JCPenney,29.6869047,-95.4632169,Department Store
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,Mi Tienda,29.869838237102282,-95.33241391181946,Grocery Store
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,Houston Dairymaids,29.806944429492102,-95.38213117007098,Cheese Shop
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,Manready Mercantile,29.803043048215088,-95.40226318352558,Men's Store
-"Trinity, Houston Gardens, Settegast",29.83,-95.29,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Trinity, Houston Gardens, Settegast",29.83,-95.29,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,Farmer's Market,29.81040615434165,-95.38049769026809,Flea Market
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
@@ -2701,7 +2701,7 @@ Kashmere Gardens,29.8,-95.32,Michaels,29.72311121003342,-95.44004521413626,Arts 
 "Trinity, Houston Gardens, Settegast",29.83,-95.29,Office Depot,29.811161,-95.42304,Paper / Office Supplies Store
 Jacinto City,29.76,-95.25,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 Jacinto City,29.76,-95.25,Walgreens,29.768195807272175,-95.23334920406342,Pharmacy
-Jacinto City,29.76,-95.25,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+Jacinto City,29.76,-95.25,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 Jacinto City,29.76,-95.25,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 Jacinto City,29.76,-95.25,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
 Jacinto City,29.76,-95.25,Houston Dairymaids,29.806944429492102,-95.38213117007098,Cheese Shop
@@ -2726,7 +2726,6 @@ Jacinto City,29.76,-95.25,Whole Foods Market,29.744379,-95.381412,Grocery Store
 Jacinto City,29.76,-95.25,Academy Sports + Outdoors,29.6398215,-95.1569493,Sporting Goods Shop
 Jacinto City,29.76,-95.25,H-E-B,29.6486983,-95.1445449,Grocery Store
 Jacinto City,29.76,-95.25,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
-Jacinto City,29.76,-95.25,Chick-fil-A,29.664406,-95.187314,Food Service
 Jacinto City,29.76,-95.25,Mi Tienda,29.869838237102282,-95.33241391181946,Grocery Store
 Jacinto City,29.76,-95.25,Academy Sports + Outdoors,29.640631614640018,-95.24577587842936,Sporting Goods Shop
 Jacinto City,29.76,-95.25,Farmer's Market,29.81040615434165,-95.38049769026809,Flea Market
@@ -2780,6 +2779,7 @@ Jacinto City,29.76,-95.25,Dollar General,29.786859999999997,-95.12536800000001,D
 Jacinto City,29.76,-95.25,Fiesta Mart Inc.,29.81271897936589,-95.31781915984577,Department Store
 Jacinto City,29.76,-95.25,Walgreens,29.646295835199787,-95.22186024119947,Pharmacy
 Jacinto City,29.76,-95.25,Dollar General,29.815351,-95.143651,Discount Store
+Jacinto City,29.76,-95.25,Houston Wine Merchant,29.740881681668647,-95.41085259465869,Wine Shop
 Jacinto City,29.76,-95.25,Kroger,29.7429498,-95.3920988,Supermarket
 Jacinto City,29.76,-95.25,Walgreens,29.6817121,-95.1239338,Pharmacy
 Jacinto City,29.76,-95.25,Legacy Pharmacy,29.74495533351506,-95.39403541023603,Pharmacy
@@ -2824,7 +2824,6 @@ Texas Medical Center,29.71,-95.41,Academy Sports + Outdoors,29.7323123,-95.41575
 Texas Medical Center,29.71,-95.41,Whole Foods Market,29.749479791687545,-95.46163506664445,Grocery Store
 Texas Medical Center,29.71,-95.41,The Container Store,29.741415225598274,-95.46005247032731,Furniture / Home Store
 Texas Medical Center,29.71,-95.41,Total Wine & More,29.751325699382097,-95.46231890674585,Wine Shop
-Texas Medical Center,29.71,-95.41,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 Texas Medical Center,29.71,-95.41,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 Texas Medical Center,29.71,-95.41,Kroger,29.695869,-95.415516,Supermarket
 Texas Medical Center,29.71,-95.41,Micro Center,29.724975553127997,-95.46689928963602,Electronics Store
@@ -2899,8 +2898,8 @@ Texas Medical Center,29.71,-95.41,Total Wine & More,29.7668615,-95.5514798,Wine 
 Texas Medical Center,29.71,-95.41,CVS pharmacy,29.731906765111187,-95.46727565014902,Pharmacy
 Texas Medical Center,29.71,-95.41,Walgreens,29.655369718639353,-95.50785720348358,Pharmacy
 Texas Medical Center,29.71,-95.41,Kroger,29.7961848,-95.4857755,Supermarket
+Texas Medical Center,29.71,-95.41,Macy's,29.781,-95.54,Department Store
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,H Mart,29.70615440149667,-95.55390669781087,Supermarket
-"Brays Oaks, Braeburn Gardens",29.66,-95.55,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,Joe V's Smart Shop,29.655176,-95.513204,Grocery Store
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,Phoenicia Specialty Foods,29.73467771179062,-95.59472162301888,Gourmet Shop
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,Whole Foods Market,29.735312616116317,-95.57039122357129,Grocery Store
@@ -2966,6 +2965,7 @@ Texas Medical Center,29.71,-95.41,Kroger,29.7961848,-95.4857755,Supermarket
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,99 Ranch Market,29.785290749203405,-95.52282601930271,Food & Drink Shop
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,H-E-B,29.6886245,-95.4642329,Grocery Store
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,Kroger,29.563560467610287,-95.56548977263719,Supermarket
+"Brays Oaks, Braeburn Gardens",29.66,-95.55,ALDI,29.718009073084744,-95.6430566310882,Grocery Store
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,Sam's Club,29.612143055407383,-95.6426733206307,Warehouse Store
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,Memorial City Mall,29.781108986953505,-95.54020966983371,Shopping Mall
 "Brays Oaks, Braeburn Gardens",29.66,-95.55,H-E-B,29.6910702,-95.5597218,Grocery Store
@@ -3104,7 +3104,7 @@ Texas Medical Center,29.71,-95.41,Kroger,29.7961848,-95.4857755,Supermarket
 "Southeast Houston, Southpark",29.67,-95.34,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 "Southeast Houston, Southpark",29.67,-95.34,H-E-B,29.7379131,-95.4026184,Grocery Store
 "Southeast Houston, Southpark",29.67,-95.34,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
-"Southeast Houston, Southpark",29.67,-95.34,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Southeast Houston, Southpark",29.67,-95.34,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Southeast Houston, Southpark",29.67,-95.34,Trader Joe's,29.739137321386455,-95.41136096166395,Grocery Store
 "Southeast Houston, Southpark",29.67,-95.34,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 "Southeast Houston, Southpark",29.67,-95.34,Total Wine & More,29.7053679,-95.4198345,Wine Shop
@@ -3303,6 +3303,7 @@ Edgebrook,29.62,-95.2,Dollar General,29.69517289645623,-95.1228715486015,Discoun
 "Westbury, Southeast Houston",29.65,-95.48,Whole Foods Market,29.70683332400925,-95.44169206646067,Grocery Store
 "Westbury, Southeast Houston",29.65,-95.48,Joe V's Smart Shop,29.655176,-95.513204,Grocery Store
 "Westbury, Southeast Houston",29.65,-95.48,Target,29.692844991400705,-95.41843855877896,Big Box Store
+"Westbury, Southeast Houston",29.65,-95.48,Walgreens,29.655369718639353,-95.50785720348358,Pharmacy
 "Westbury, Southeast Houston",29.65,-95.48,Kroger,29.6694668,-95.4636655,Supermarket
 "Westbury, Southeast Houston",29.65,-95.48,H Mart,29.70615440149667,-95.55390669781087,Supermarket
 "Westbury, Southeast Houston",29.65,-95.48,Bedrock City Comic Co.,29.738429130167564,-95.49966111103411,Comic Shop
@@ -3315,6 +3316,7 @@ Edgebrook,29.62,-95.2,Dollar General,29.69517289645623,-95.1228715486015,Discoun
 "Westbury, Southeast Houston",29.65,-95.48,"Spec's Wines, Spirits & Finer Foods",29.738083222098417,-95.51041953766054,Liquor Store
 "Westbury, Southeast Houston",29.65,-95.48,H-E-B,29.6886245,-95.4642329,Grocery Store
 "Westbury, Southeast Houston",29.65,-95.48,Micro Center,29.724975553127997,-95.46689928963602,Electronics Store
+"Westbury, Southeast Houston",29.65,-95.48,Stogies,29.738751095122883,-95.48979045703787,Smoke Shop
 "Westbury, Southeast Houston",29.65,-95.48,H-E-B,29.7479856,-95.4850284,Grocery Store
 "Westbury, Southeast Houston",29.65,-95.48,Costco,29.733971115841793,-95.43964074339954,Warehouse Store
 "Westbury, Southeast Houston",29.65,-95.48,Highland Village,29.7416493273977,-95.44676971193074,Shopping Mall
@@ -3337,7 +3339,6 @@ Edgebrook,29.62,-95.2,Dollar General,29.69517289645623,-95.1228715486015,Discoun
 "Westbury, Southeast Houston",29.65,-95.48,Walgreens,29.750449730198486,-95.49663081765169,Pharmacy
 "Westbury, Southeast Houston",29.65,-95.48,Whole Foods Market,29.735312616116317,-95.57039122357129,Grocery Store
 "Westbury, Southeast Houston",29.65,-95.48,Kroger,29.5825474,-95.3898638,Supermarket
-"Westbury, Southeast Houston",29.65,-95.48,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Westbury, Southeast Houston",29.65,-95.48,Kroger,29.7482323,-95.500197,Supermarket
 "Westbury, Southeast Houston",29.65,-95.48,Kroger,29.695869,-95.415516,Supermarket
 "Westbury, Southeast Houston",29.65,-95.48,"Spec's Wines, Spirits & Finer Foods",29.592567173804113,-95.60335668051967,Liquor Store
@@ -3398,7 +3399,6 @@ Edgebrook,29.62,-95.2,Dollar General,29.69517289645623,-95.1228715486015,Discoun
 "Westbury, Southeast Houston",29.65,-95.48,Kroger,29.7362743,-95.5448898,Supermarket
 "Westbury, Southeast Houston",29.65,-95.48,Corner Store,29.749525,-95.497118,Convenience Store
 "Westbury, Southeast Houston",29.65,-95.48,Target,29.55323364184265,-95.38386608166181,Big Box Store
-"Westbury, Southeast Houston",29.65,-95.48,Sam's Club,29.567652108326026,-95.38967468093367,Warehouse Store
 "Chinatown, Sharpstown",29.69,-95.53,H Mart,29.70615440149667,-95.55390669781087,Supermarket
 "Chinatown, Sharpstown",29.69,-95.53,"Spec's Wines, Spirits & Finer Foods",29.738083222098417,-95.51041953766054,Liquor Store
 "Chinatown, Sharpstown",29.69,-95.53,Bedrock City Comic Co.,29.738429130167564,-95.49966111103411,Comic Shop
@@ -3415,7 +3415,6 @@ Edgebrook,29.62,-95.2,Dollar General,29.69517289645623,-95.1228715486015,Discoun
 "Chinatown, Sharpstown",29.69,-95.53,Sprouts Farmers Market,29.73761328474466,-95.59024853793744,Grocery Store
 "Chinatown, Sharpstown",29.69,-95.53,Great Wall Supermarket,29.703301577159678,-95.55398752266464,Grocery Store
 "Chinatown, Sharpstown",29.69,-95.53,Whole Foods Market,29.752211956945917,-95.5002600692758,Grocery Store
-"Chinatown, Sharpstown",29.69,-95.53,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Chinatown, Sharpstown",29.69,-95.53,The Galleria,29.7368358,-95.4636925,Shopping Mall
 "Chinatown, Sharpstown",29.69,-95.53,Joe V's Smart Shop,29.655176,-95.513204,Grocery Store
 "Chinatown, Sharpstown",29.69,-95.53,Whole Foods Market,29.70683332400925,-95.44169206646067,Grocery Store
@@ -3427,6 +3426,7 @@ Edgebrook,29.62,-95.2,Dollar General,29.69517289645623,-95.1228715486015,Discoun
 "Chinatown, Sharpstown",29.69,-95.53,Total Wine & More,29.751325699382097,-95.46231890674585,Wine Shop
 "Chinatown, Sharpstown",29.69,-95.53,Walgreens,29.750449730198486,-95.49663081765169,Pharmacy
 "Chinatown, Sharpstown",29.69,-95.53,Rice Epicurean,29.746557109400666,-95.48589879169144,Fruit & Vegetable Store
+"Chinatown, Sharpstown",29.69,-95.53,The Container Store,29.741415225598274,-95.46005247032731,Furniture / Home Store
 "Chinatown, Sharpstown",29.69,-95.53,Central Market,29.7410098,-95.44379,Gourmet Shop
 "Chinatown, Sharpstown",29.69,-95.53,Kroger,29.7482323,-95.500197,Supermarket
 "Chinatown, Sharpstown",29.69,-95.53,CityCentre,29.779789972526707,-95.55975063844612,Shopping Mall
@@ -3990,7 +3990,6 @@ Aldine,29.9,-95.39,Joe V's Smart Shop,29.8317901,-95.4846158,Grocery Store
 "Lakes on Eldridge, Jersey Acres",29.87,-95.57,Kroger,30.0029775,-95.5316138,Supermarket
 "Lakes on Eldridge, Jersey Acres",29.87,-95.57,Kroger,29.9941861,-95.6217475,Supermarket
 "Lakes on Eldridge, Jersey Acres",29.87,-95.57,Walgreens,29.897298704479656,-95.68460136651993,Pharmacy
-"Lakes on Eldridge, Jersey Acres",29.87,-95.57,Best Buy,29.881212,-95.643352,Electronics Store
 "Lakes on Eldridge, Jersey Acres",29.87,-95.57,Walmart Neighborhood Market,29.844460652505113,-95.64499783721568,Grocery Store
 "Lakes on Eldridge, Jersey Acres",29.87,-95.57,Walgreens,29.810499412021002,-95.52400222425604,Pharmacy
 "Lakes on Eldridge, Jersey Acres",29.87,-95.57,CVS pharmacy,29.78564063918323,-95.5434271659432,Pharmacy
@@ -3999,6 +3998,7 @@ Aldine,29.9,-95.39,Joe V's Smart Shop,29.8317901,-95.4846158,Grocery Store
 "Lakes on Eldridge, Jersey Acres",29.87,-95.57,Tuesday Morning,29.978848,-95.511097,Discount Store
 "Lakes on Eldridge, Jersey Acres",29.87,-95.57,Randalls,29.7718414,-95.6070031,Supermarket
 "Lakes on Eldridge, Jersey Acres",29.87,-95.57,FedEx Office Print & Ship Center,29.814049908026792,-95.46130760615165,Shipping Store
+"Lakes on Eldridge, Jersey Acres",29.87,-95.57,Restaurant Depot,29.803412396449207,-95.42522723915876,Kitchen Supply Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,Whole Foods Market,29.735312616116317,-95.57039122357129,Grocery Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,Trader Joe's,29.73545763509632,-95.5825621347282,Grocery Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,"Spec's Wines, Spirits & Finer Foods",29.736926,-95.591091,Liquor Store
@@ -4045,7 +4045,6 @@ Aldine,29.9,-95.39,Joe V's Smart Shop,29.8317901,-95.4846158,Grocery Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,H-E-B,29.7059432,-95.6415745,Grocery Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,Micro Center,29.724975553127997,-95.46689928963602,Electronics Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,Highland Village,29.7416493273977,-95.44676971193074,Shopping Mall
-"Briarforest, Westchase, Walnut Bend",29.74,-95.56,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,Kroger,29.7525255,-95.6052993,Supermarket
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,"Spec's Wines, Spirits & Finer Foods",29.732484758031248,-95.46428225016463,Liquor Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,Whole Foods Market,29.70683332400925,-95.44169206646067,Grocery Store
@@ -4099,6 +4098,7 @@ Aldine,29.9,-95.39,Joe V's Smart Shop,29.8317901,-95.4846158,Grocery Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,Kroger,29.695869,-95.415516,Supermarket
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,Target,29.849260379664457,-95.50263827750311,Big Box Store
 "Briarforest, Westchase, Walnut Bend",29.74,-95.56,Randalls,29.7718414,-95.6070031,Supermarket
+"Briarforest, Westchase, Walnut Bend",29.74,-95.56,Target,29.686719006040402,-95.462403432708,Big Box Store
 "Spring Branch North, Spring Branch West",29.81,-95.58,CityCentre,29.779789972526707,-95.55975063844612,Shopping Mall
 "Spring Branch North, Spring Branch West",29.81,-95.58,Chick-fil-A,29.811921882379874,-95.5646012304551,Food Service
 "Spring Branch North, Spring Branch West",29.81,-95.58,Town & Country Village,29.77533046,-95.5602272,Shopping Mall
@@ -4177,7 +4177,6 @@ Aldine,29.9,-95.39,Joe V's Smart Shop,29.8317901,-95.4846158,Grocery Store
 "Spring Branch North, Spring Branch West",29.81,-95.58,Randalls,29.7488787,-95.4658379,Supermarket
 "Spring Branch North, Spring Branch West",29.81,-95.58,Target,29.735493661085858,-95.56825485108713,Big Box Store
 "Spring Branch North, Spring Branch West",29.81,-95.58,Corner Store,29.8800257,-95.6210527,Convenience Store
-"Spring Branch North, Spring Branch West",29.81,-95.58,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Spring Branch North, Spring Branch West",29.81,-95.58,CVS pharmacy,29.78564063918323,-95.5434271659432,Pharmacy
 "Spring Branch North, Spring Branch West",29.81,-95.58,Target,29.87751497081766,-95.64681126841685,Big Box Store
 "Spring Branch North, Spring Branch West",29.81,-95.58,Sam's Club,29.901440845510006,-95.5958661456615,Warehouse Store
@@ -4199,6 +4198,7 @@ Aldine,29.9,-95.39,Joe V's Smart Shop,29.8317901,-95.4846158,Grocery Store
 "Spring Branch North, Spring Branch West",29.81,-95.58,Kroger,29.907954,-95.5836751,Supermarket
 "Spring Branch North, Spring Branch West",29.81,-95.58,Hong Kong Food Mart,29.702199794438204,-95.57733521723206,Grocery Store
 "Spring Branch North, Spring Branch West",29.81,-95.58,Walmart Neighborhood Market,29.844460652505113,-95.64499783721568,Grocery Store
+"Spring Branch North, Spring Branch West",29.81,-95.58,Randalls,29.7738219,-95.5592691,Supermarket
 Summerwood,29.9,-95.17,H-E-B,29.9229083,-95.1967692,Grocery Store
 Summerwood,29.9,-95.17,Kroger,29.9245394,-95.2034862,Supermarket
 Summerwood,29.9,-95.17,Fuel Maxx,29.882470847437567,-95.19611490621826,Convenience Store
@@ -4357,7 +4357,7 @@ Central Southwest,29.64,-95.43,Target,29.55323364184265,-95.38386608166181,Big B
 Central Southwest,29.64,-95.43,Sam's Club,29.567652108326026,-95.38967468093367,Warehouse Store
 Central Southwest,29.64,-95.43,H-E-B,29.7076528,-95.4698099,Grocery Store
 Central Southwest,29.64,-95.43,CVS pharmacy,29.55596365270911,-95.36801998144283,Pharmacy
-Central Southwest,29.64,-95.43,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+Central Southwest,29.64,-95.43,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 Central Southwest,29.64,-95.43,Target,29.74507658164775,-95.45362958238226,Big Box Store
 Central Southwest,29.64,-95.43,The Vitamin Shoppe,29.7371869,-95.5012751,Supplement Shop
 Central Southwest,29.64,-95.43,Trader Joe's,29.75262739583288,-95.50144920293054,Grocery Store
@@ -4392,13 +4392,13 @@ Central Southwest,29.64,-95.43,Walgreens,29.7232028,-95.3793189,Pharmacy
 Central Southwest,29.64,-95.43,Randalls,29.7488787,-95.4658379,Supermarket
 Central Southwest,29.64,-95.43,Kroger,29.5605699,-95.3489337,Supermarket
 Central Southwest,29.64,-95.43,Walgreens,29.66383513949685,-95.46494722366333,Pharmacy
-Central Southwest,29.64,-95.43,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 Central Southwest,29.64,-95.43,Dun Huang Plaza 敦煌廣場,29.70395165757924,-95.55362976921904,Shopping Mall
 Central Southwest,29.64,-95.43,Chick-fil-A,29.5375007,-95.5315097,Food Service
 Central Southwest,29.64,-95.43,Walmart Supercenter,29.72310341009565,-95.46533072207033,Big Box Store
 Central Southwest,29.64,-95.43,Walmart Neighborhood Market,29.674500286454787,-95.49528265818766,Grocery Store
 Central Southwest,29.64,-95.43,Dollar Tree,29.73959927383527,-95.50300075500193,Discount Store
 Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Department Store
+Central Southwest,29.64,-95.43,Great Wall Supermarket,29.703301577159678,-95.55398752266464,Grocery Store
 "Greenway, Upper Kirby",29.732,-95.435,Central Market,29.7410098,-95.44379,Gourmet Shop
 "Greenway, Upper Kirby",29.732,-95.435,H-E-B,29.7267244,-95.4271793,Grocery Store
 "Greenway, Upper Kirby",29.732,-95.435,Costco,29.733971115841793,-95.43964074339954,Warehouse Store
@@ -4429,6 +4429,7 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Greenway, Upper Kirby",29.732,-95.435,Target,29.692844991400705,-95.41843855877896,Big Box Store
 "Greenway, Upper Kirby",29.732,-95.435,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 "Greenway, Upper Kirby",29.732,-95.435,Academy Sports + Outdoors,29.7323123,-95.4157543,Sporting Goods Shop
+"Greenway, Upper Kirby",29.732,-95.435,PetSmart,29.7239084,-95.4593838,Pet Store
 "Greenway, Upper Kirby",29.732,-95.435,Stogies,29.738751095122883,-95.48979045703787,Smoke Shop
 "Greenway, Upper Kirby",29.732,-95.435,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
 "Greenway, Upper Kirby",29.732,-95.435,Bedrock City Comic Co.,29.738429130167564,-95.49966111103411,Comic Shop
@@ -4440,7 +4441,6 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Greenway, Upper Kirby",29.732,-95.435,Trader Joe's,29.75262739583288,-95.50144920293054,Grocery Store
 "Greenway, Upper Kirby",29.732,-95.435,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
 "Greenway, Upper Kirby",29.732,-95.435,Whole Foods Market,29.752211956945917,-95.5002600692758,Grocery Store
-"Greenway, Upper Kirby",29.732,-95.435,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "Greenway, Upper Kirby",29.732,-95.435,Meyerland Plaza,29.68781133559464,-95.46093611001596,Shopping Mall
 "Greenway, Upper Kirby",29.732,-95.435,Walgreens,29.750449730198486,-95.49663081765169,Pharmacy
 "Greenway, Upper Kirby",29.732,-95.435,The Vitamin Shoppe,29.7371869,-95.5012751,Supplement Shop
@@ -4514,6 +4514,7 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Cloverland, South Acres, Crestmont Park",29.61,-95.38,CVS pharmacy,29.55596365270911,-95.36801998144283,Pharmacy
 "Cloverland, South Acres, Crestmont Park",29.61,-95.38,Target,29.55323364184265,-95.38386608166181,Big Box Store
 "Cloverland, South Acres, Crestmont Park",29.61,-95.38,Sam's Club,29.567652108326026,-95.38967468093367,Warehouse Store
+"Cloverland, South Acres, Crestmont Park",29.61,-95.38,Michaels,29.552164317407044,-95.38497000943602,Arts & Crafts Store
 "Cloverland, South Acres, Crestmont Park",29.61,-95.38,Target,29.692844991400705,-95.41843855877896,Big Box Store
 "Cloverland, South Acres, Crestmont Park",29.61,-95.38,"Spec's Wines, Spirits & Finer Foods",29.59774473702675,-95.26551575980437,Liquor Store
 "Cloverland, South Acres, Crestmont Park",29.61,-95.38,Pearland Pet Health Center,29.57096,-95.3833,Pet Store
@@ -4598,7 +4599,6 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Cloverland, South Acres, Crestmont Park",29.61,-95.38,Corner Store,29.6848736,-95.3996758,Convenience Store
 "Cloverland, South Acres, Crestmont Park",29.61,-95.38,Petco,29.723633403217775,-95.44202018938026,Pet Store
 "Cloverland, South Acres, Crestmont Park",29.61,-95.38,CVS pharmacy,29.496061,-95.439064,Pharmacy
-"Cloverland, South Acres, Crestmont Park",29.61,-95.38,Kroger,29.6032787,-95.2148579,Supermarket
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,"Spec's Wines, Spirits & Finer Foods",29.59774473702675,-95.26551575980437,Liquor Store
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,H-E-B,29.6018509,-95.2496955,Grocery Store
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Sprouts Farmers Market,29.558096877198146,-95.34817188978195,Grocery Store
@@ -4633,7 +4633,7 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Best Buy,29.55918,-95.385305,Electronics Store
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Trader Joe's,29.739137321386455,-95.41136096166395,Grocery Store
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,H-E-B,29.7267244,-95.4271793,Grocery Store
-"Minnetex, South Acres, Crestmont Park",29.62,-95.33,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Minnetex, South Acres, Crestmont Park",29.62,-95.33,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Rice Village,29.715884923510725,-95.41690263076377,Shopping Mall
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
@@ -4656,7 +4656,6 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Chick-fil-A,29.5586622,-95.2612147,Food Service
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Kroger,29.7274415,-95.4305636,Supermarket
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Academy Sports + Outdoors,29.7323123,-95.4157543,Sporting Goods Shop
-"Minnetex, South Acres, Crestmont Park",29.62,-95.33,Chick-fil-A,29.664406,-95.187314,Food Service
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Kroger,29.6032787,-95.2148579,Supermarket
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Walgreens,29.7232028,-95.3793189,Pharmacy
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Walgreens,29.7144789,-95.295355,Pharmacy
@@ -4699,6 +4698,7 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Walgreens,29.742854063730295,-95.39039120078087,Pharmacy
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,FedEx Office Print & Ship Center,29.692371834985927,-95.416618317791,Shipping Store
 "Minnetex, South Acres, Crestmont Park",29.62,-95.33,Fiesta Grocery Store,29.646653761173916,-95.46051731340947,Grocery Store
+"Minnetex, South Acres, Crestmont Park",29.62,-95.33,Michaels,29.72311121003342,-95.44004521413626,Arts & Crafts Store
 "Houston Farms, Sheldon Park",29.84,-95.15,JCPenney,29.810661,-95.1609907,Department Store
 "Houston Farms, Sheldon Park",29.84,-95.15,Fuel Maxx,29.882470847437567,-95.19611490621826,Convenience Store
 "Houston Farms, Sheldon Park",29.84,-95.15,H-E-B,29.9229083,-95.1967692,Grocery Store
@@ -4911,7 +4911,7 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Sunnyside, Brookhaven",29.66,-95.37,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 "Sunnyside, Brookhaven",29.66,-95.37,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
 "Sunnyside, Brookhaven",29.66,-95.37,Kirbside Bar,29.73915182491743,-95.41818404559953,Grocery Store
-"Sunnyside, Brookhaven",29.66,-95.37,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Sunnyside, Brookhaven",29.66,-95.37,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Sunnyside, Brookhaven",29.66,-95.37,Al-Ameen Halal Meat,29.685192954261364,-95.39125016208939,Grocery Store
 "Sunnyside, Brookhaven",29.66,-95.37,Kroger,29.5825474,-95.3898638,Supermarket
 "Sunnyside, Brookhaven",29.66,-95.37,Central Market,29.7410098,-95.44379,Gourmet Shop
@@ -5129,7 +5129,6 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Astrodome, South Main",29.68,-95.41,Micro Center,29.724975553127997,-95.46689928963602,Electronics Store
 "Astrodome, South Main",29.68,-95.41,Total Wine & More,29.751325699382097,-95.46231890674585,Wine Shop
 "Astrodome, South Main",29.68,-95.41,Smoothie King,29.744462,-95.390984,Smoothie Shop
-"Astrodome, South Main",29.68,-95.41,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "Astrodome, South Main",29.68,-95.41,Academy Sports + Outdoors,29.7323123,-95.4157543,Sporting Goods Shop
 "Astrodome, South Main",29.68,-95.41,H-E-B,29.7479856,-95.4850284,Grocery Store
 "Astrodome, South Main",29.68,-95.41,Chocolat zeina,29.738490850482208,-95.49033461045305,Chocolate Shop
@@ -5199,6 +5198,7 @@ Central Southwest,29.64,-95.43,Marshalls,29.7428056800702,-95.46144448298116,Dep
 "Astrodome, South Main",29.68,-95.41,Dun Huang Plaza 敦煌廣場,29.70395165757924,-95.55362976921904,Shopping Mall
 "Astrodome, South Main",29.68,-95.41,CVS pharmacy,29.731906765111187,-95.46727565014902,Pharmacy
 "Astrodome, South Main",29.68,-95.41,CVS pharmacy,29.737711361399764,-95.52554171890593,Pharmacy
+"Astrodome, South Main",29.68,-95.41,Walgreens,29.7259643,-95.4283708,Pharmacy
 Spring Branch East,29.8,-95.5,"Spec's Wines, Spirits & Finer Foods",29.78516934659421,-95.49411949289518,Liquor Store
 Spring Branch East,29.8,-95.5,Super H Mart,29.79232357986547,-95.52111143558255,Supermarket
 Spring Branch East,29.8,-95.5,99 Ranch Market,29.785290749203405,-95.52282601930271,Food & Drink Shop
@@ -5271,7 +5271,6 @@ Spring Branch East,29.8,-95.5,Target,29.782451009519765,-95.54213785972112,Big B
 Spring Branch East,29.8,-95.5,Smoothie King,29.744462,-95.390984,Smoothie Shop
 Spring Branch East,29.8,-95.5,Kroger,29.7362743,-95.5448898,Supermarket
 Spring Branch East,29.8,-95.5,Pepper Twins,29.75267404,-95.40339739,Health Food Store
-Spring Branch East,29.8,-95.5,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 Spring Branch East,29.8,-95.5,Stripes Store 7784,29.897642848314018,-95.51606293222241,Convenience Store
 Spring Branch East,29.8,-95.5,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
 Spring Branch East,29.8,-95.5,Total Wine & More,29.7053679,-95.4198345,Wine Shop
@@ -5299,6 +5298,7 @@ Spring Branch East,29.8,-95.5,HEB MacGregor Market,29.713732,-95.377456,Grocery 
 Spring Branch East,29.8,-95.5,Kroger,29.7525255,-95.6052993,Supermarket
 Spring Branch East,29.8,-95.5,H-E-B,29.9111035,-95.5860287,Grocery Store
 Spring Branch East,29.8,-95.5,Walmart Supercenter,29.72310341009565,-95.46533072207033,Big Box Store
+Spring Branch East,29.8,-95.5,The UPS Store,29.7828888,-95.4760092,Shipping Store
 "West Oaks, Uptown",29.75,-95.47,Total Wine & More,29.751325699382097,-95.46231890674585,Wine Shop
 "West Oaks, Uptown",29.75,-95.47,Whole Foods Market,29.749479791687545,-95.46163506664445,Grocery Store
 "West Oaks, Uptown",29.75,-95.47,H-E-B,29.7479856,-95.4850284,Grocery Store
@@ -5366,7 +5366,6 @@ Spring Branch East,29.8,-95.5,Walmart Supercenter,29.72310341009565,-95.46533072
 "West Oaks, Uptown",29.75,-95.47,Whole Foods Market,29.735312616116317,-95.57039122357129,Grocery Store
 "West Oaks, Uptown",29.75,-95.47,Macy's,29.781,-95.54,Department Store
 "West Oaks, Uptown",29.75,-95.47,Smoothie King,29.775785,-95.382698,Smoothie Shop
-"West Oaks, Uptown",29.75,-95.47,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "West Oaks, Uptown",29.75,-95.47,H-E-B,29.7076528,-95.4698099,Grocery Store
 "West Oaks, Uptown",29.75,-95.47,Kroger,29.7961848,-95.4857755,Supermarket
 "West Oaks, Uptown",29.75,-95.47,Trader Joe's,29.73545763509632,-95.5825621347282,Grocery Store
@@ -5399,6 +5398,7 @@ Spring Branch East,29.8,-95.5,Walmart Supercenter,29.72310341009565,-95.46533072
 "West Oaks, Uptown",29.75,-95.47,PetSmart,29.689347,-95.4135854,Pet Store
 "West Oaks, Uptown",29.75,-95.47,Kroger,29.6694668,-95.4636655,Supermarket
 "West Oaks, Uptown",29.75,-95.47,Joe V's Smart Shop,29.655176,-95.513204,Grocery Store
+"West Oaks, Uptown",29.75,-95.47,Whole Foods Market 365,29.81367916321041,-95.39832836374156,Grocery Store
 "Tanglewood, San Felipe",29.75,-95.49,H-E-B,29.7479856,-95.4850284,Grocery Store
 "Tanglewood, San Felipe",29.75,-95.49,Chocolat zeina,29.738490850482208,-95.49033461045305,Chocolate Shop
 "Tanglewood, San Felipe",29.75,-95.49,Bedrock City Comic Co.,29.738429130167564,-95.49966111103411,Comic Shop
@@ -5444,6 +5444,7 @@ Spring Branch East,29.8,-95.5,Walmart Supercenter,29.72310341009565,-95.46533072
 "Tanglewood, San Felipe",29.75,-95.49,Total Wine & More,29.7668615,-95.5514798,Wine Shop
 "Tanglewood, San Felipe",29.75,-95.49,H-E-B,29.7379131,-95.4026184,Grocery Store
 "Tanglewood, San Felipe",29.75,-95.49,Whole Foods Market,29.735312616116317,-95.57039122357129,Grocery Store
+"Tanglewood, San Felipe",29.75,-95.49,Macy's,29.781,-95.54,Department Store
 "Tanglewood, San Felipe",29.75,-95.49,Macy's,29.737893463506403,-95.46436099175105,Department Store
 "Tanglewood, San Felipe",29.75,-95.49,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 "Tanglewood, San Felipe",29.75,-95.49,Whole Foods Market,29.75799411457671,-95.39764273104588,Grocery Store
@@ -5476,7 +5477,6 @@ Spring Branch East,29.8,-95.5,Walmart Supercenter,29.72310341009565,-95.46533072
 "Tanglewood, San Felipe",29.75,-95.49,Almadina Supermarket,29.730922456819034,-95.50166226293848,Supermarket
 "Tanglewood, San Felipe",29.75,-95.49,Smoothie King,29.775785,-95.382698,Smoothie Shop
 "Tanglewood, San Felipe",29.75,-95.49,Chick-fil-A,29.811921882379874,-95.5646012304551,Food Service
-"Tanglewood, San Felipe",29.75,-95.49,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "Tanglewood, San Felipe",29.75,-95.49,Dun Huang Plaza 敦煌廣場,29.70395165757924,-95.55362976921904,Shopping Mall
 "Tanglewood, San Felipe",29.75,-95.49,Walmart Supercenter,29.72310341009565,-95.46533072207033,Big Box Store
 "Tanglewood, San Felipe",29.75,-95.49,H-E-B,29.6886245,-95.4642329,Grocery Store
@@ -5487,7 +5487,6 @@ Spring Branch East,29.8,-95.5,Walmart Supercenter,29.72310341009565,-95.46533072
 "Tanglewood, San Felipe",29.75,-95.49,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 "Tanglewood, San Felipe",29.75,-95.49,Kroger,29.695869,-95.415516,Supermarket
 "Tanglewood, San Felipe",29.75,-95.49,Joe V's Smart Shop,29.655176,-95.513204,Grocery Store
-"Tanglewood, San Felipe",29.75,-95.49,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Tanglewood, San Felipe",29.75,-95.49,Target,29.77467685280716,-95.38498275102646,Big Box Store
 "Tanglewood, San Felipe",29.75,-95.49,Kroger,29.8139417,-95.5443577,Supermarket
 "Tanglewood, San Felipe",29.75,-95.49,Fiesta Mart,29.690640703345146,-95.41476688911051,Grocery Store
@@ -5499,6 +5498,7 @@ Spring Branch East,29.8,-95.5,Walmart Supercenter,29.72310341009565,-95.46533072
 "Tanglewood, San Felipe",29.75,-95.49,Walgreens,29.655369718639353,-95.50785720348358,Pharmacy
 "Tanglewood, San Felipe",29.75,-95.49,The UPS Store,29.802465623626425,-95.40543638546296,Shipping Store
 "Tanglewood, San Felipe",29.75,-95.49,Target,29.732804941168112,-95.6267438421302,Big Box Store
+"Tanglewood, San Felipe",29.75,-95.49,Michaels,29.72311121003342,-95.44004521413626,Arts & Crafts Store
 "Clear Lake Area, Nassau Bay",29.56,-95.1,"Spec's Wines, Spirits & Finer Foods",29.55670059007617,-95.11986096579214,Liquor Store
 "Clear Lake Area, Nassau Bay",29.56,-95.1,Total Wine & More,29.5475107,-95.151625,Wine Shop
 "Clear Lake Area, Nassau Bay",29.56,-95.1,HEB Clear Lake Marketplace,29.605931214266526,-95.12662763338714,Market
@@ -5810,12 +5810,11 @@ Greenspoint,29.93,-95.4,Fiesta Mart Inc.,29.81271897936589,-95.31781915984577,De
 "Hobby, Glenbrook Valley",29.65,-95.28,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 "Hobby, Glenbrook Valley",29.65,-95.28,Walgreens,29.665746247079873,-95.18727382896031,Pharmacy
 "Hobby, Glenbrook Valley",29.65,-95.28,Bass Pro Shops Outdoor World,29.5948277,-95.390336,Sporting Goods Shop
-"Hobby, Glenbrook Valley",29.65,-95.28,Chick-fil-A,29.664406,-95.187314,Food Service
 "Hobby, Glenbrook Valley",29.65,-95.28,H-E-B,29.6486983,-95.1445449,Grocery Store
 "Hobby, Glenbrook Valley",29.65,-95.28,Sprouts Farmers Market,29.558096877198146,-95.34817188978195,Grocery Store
 "Hobby, Glenbrook Valley",29.65,-95.28,Target,29.602102189467733,-95.26454888740288,Big Box Store
 "Hobby, Glenbrook Valley",29.65,-95.28,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
-"Hobby, Glenbrook Valley",29.65,-95.28,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Hobby, Glenbrook Valley",29.65,-95.28,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Hobby, Glenbrook Valley",29.65,-95.28,FedEx Ship Center,29.686316,-95.384728,Shipping Store
 "Hobby, Glenbrook Valley",29.65,-95.28,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 "Hobby, Glenbrook Valley",29.65,-95.28,Kroger,29.5825474,-95.3898638,Supermarket
@@ -5848,6 +5847,7 @@ Greenspoint,29.93,-95.4,Fiesta Mart Inc.,29.81271897936589,-95.31781915984577,De
 "Hobby, Glenbrook Valley",29.65,-95.28,Pearland Town Center,29.553374500701494,-95.39377212524414,Shopping Mall
 "Hobby, Glenbrook Valley",29.65,-95.28,Whole Foods Market,29.744379,-95.381412,Grocery Store
 "Hobby, Glenbrook Valley",29.65,-95.28,Kroger,29.5605458,-95.2714549,Supermarket
+"Hobby, Glenbrook Valley",29.65,-95.28,Astros Team Store,29.757010055526194,-95.35544817539866,Clothing Store
 "Hobby, Glenbrook Valley",29.65,-95.28,Walgreens,29.6719744,-95.2765688,Pharmacy
 "Hobby, Glenbrook Valley",29.65,-95.28,Walgreens,29.579937329663395,-95.39913117885595,Pharmacy
 "Hobby, Glenbrook Valley",29.65,-95.28,Academy Sports + Outdoors,29.55921677600435,-95.39306938648224,Sporting Goods Shop
@@ -6000,6 +6000,7 @@ Greenspoint,29.93,-95.4,Fiesta Mart Inc.,29.81271897936589,-95.31781915984577,De
 "Clear Lake Area, Bay Knoll",29.57,-95.14,Tuesday Morning,29.641140980420044,-95.15620132097557,Discount Store
 "Clear Lake Area, Bay Knoll",29.57,-95.14,Corner Store,29.5642291,-95.0424979,Convenience Store
 Mid-west,29.74,-95.52,"Spec's Wines, Spirits & Finer Foods",29.738083222098417,-95.51041953766054,Liquor Store
+Mid-west,29.74,-95.52,Bedrock City Comic Co.,29.738429130167564,-95.49966111103411,Comic Shop
 Mid-west,29.74,-95.52,Target,29.735120688291364,-95.5174901003278,Big Box Store
 Mid-west,29.74,-95.52,Trader Joe's,29.75262739583288,-95.50144920293054,Grocery Store
 Mid-west,29.74,-95.52,Chocolat zeina,29.738490850482208,-95.49033461045305,Chocolate Shop
@@ -6085,7 +6086,6 @@ Mid-west,29.74,-95.52,Target,29.782451009519765,-95.54213785972112,Big Box Store
 Mid-west,29.74,-95.52,Kroger,29.7525255,-95.6052993,Supermarket
 Mid-west,29.74,-95.52,Kroger,29.8139417,-95.5443577,Supermarket
 Mid-west,29.74,-95.52,Smoothie King,29.775785,-95.382698,Smoothie Shop
-Mid-west,29.74,-95.52,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 Mid-west,29.74,-95.52,Sam's Club,29.788093236658618,-95.55473886755446,Warehouse Store
 Mid-west,29.74,-95.52,CVS pharmacy,29.731906765111187,-95.46727565014902,Pharmacy
 Mid-west,29.74,-95.52,Whole Foods Market,29.744379,-95.381412,Grocery Store
@@ -6282,7 +6282,6 @@ Mid-west,29.74,-95.52,H-E-B,29.6910702,-95.5597218,Grocery Store
 "Wortham Park, Tower Oaks",29.92,-95.61,Food Town,29.87762996,-95.64884717,Grocery Store
 "Wortham Park, Tower Oaks",29.92,-95.61,PetSmart,29.967659,-95.693548,Pet Store
 "Wortham Park, Tower Oaks",29.92,-95.61,Bunker Hill Shopping Center,29.795196720311754,-95.53325990311635,Shopping Mall
-"Wortham Park, Tower Oaks",29.92,-95.61,Best Buy,29.881212,-95.643352,Electronics Store
 "Wortham Park, Tower Oaks",29.92,-95.61,"Spec's Wines, Spirits & Finer Foods",29.84627064586625,-95.64532439573935,Liquor Store
 "Wortham Park, Tower Oaks",29.92,-95.61,Smoothie King,30.021449,-95.527563,Smoothie Shop
 "Wortham Park, Tower Oaks",29.92,-95.61,Kroger,29.9236373,-95.6044749,Supermarket
@@ -6299,6 +6298,7 @@ Mid-west,29.74,-95.52,H-E-B,29.6910702,-95.5597218,Grocery Store
 "Wortham Park, Tower Oaks",29.92,-95.61,Hobby Lobby,29.7866748,-95.5586469,Fabric Shop
 "Wortham Park, Tower Oaks",29.92,-95.61,Walgreens,30.032092,-95.555301,Pharmacy
 "Wortham Park, Tower Oaks",29.92,-95.61,Walgreens,29.880260058624934,-95.72451263666153,Pharmacy
+"Wortham Park, Tower Oaks",29.92,-95.61,CVS pharmacy,29.946741135627608,-95.62846489110635,Pharmacy
 "Champions Point, Glennwood Forest, Kleinbrook",29.96,-95.5,Bedrock City Comic Company,29.985405531744945,-95.50000199690602,Toy / Game Store
 "Champions Point, Glennwood Forest, Kleinbrook",29.96,-95.5,Total Wine & More,29.96619095782134,-95.54326236248016,Wine Shop
 "Champions Point, Glennwood Forest, Kleinbrook",29.96,-95.5,Serious Cigars,29.971674625460423,-95.5290761590004,Smoke Shop
@@ -6805,7 +6805,6 @@ Willowbrook,29.98,-95.58,CVS pharmacy,29.908214194428393,-95.68553117713887,Phar
 "Brays Oaks, Fondren Park",29.65,-95.52,Meyerland Plaza,29.68781133559464,-95.46093611001596,Shopping Mall
 "Brays Oaks, Fondren Park",29.65,-95.52,"Spec's Wines, Spirits & Finer Foods",29.738083222098417,-95.51041953766054,Liquor Store
 "Brays Oaks, Fondren Park",29.65,-95.52,Bedrock City Comic Co.,29.738429130167564,-95.49966111103411,Comic Shop
-"Brays Oaks, Fondren Park",29.65,-95.52,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Brays Oaks, Fondren Park",29.65,-95.52,Whole Foods Market,29.70683332400925,-95.44169206646067,Grocery Store
 "Brays Oaks, Fondren Park",29.65,-95.52,Chocolat zeina,29.738490850482208,-95.49033461045305,Chocolate Shop
 "Brays Oaks, Fondren Park",29.65,-95.52,"Spec's Wines, Spirits & Finer Foods",29.592567173804113,-95.60335668051967,Liquor Store
@@ -6899,12 +6898,12 @@ Willowbrook,29.98,-95.58,CVS pharmacy,29.908214194428393,-95.68553117713887,Phar
 "Brays Oaks, Fondren Park",29.65,-95.52,Randalls,29.7488787,-95.4658379,Supermarket
 "Brays Oaks, Fondren Park",29.65,-95.52,D & Q - The Beer Station,29.734773715943625,-95.38910639446627,Beer Store
 "Brays Oaks, Fondren Park",29.65,-95.52,Macy's,29.781,-95.54,Department Store
+"Brays Oaks, Fondren Park",29.65,-95.52,Academy Sports + Outdoors,29.7323123,-95.4157543,Sporting Goods Shop
 Alief,29.69,-95.59,H Mart,29.70615440149667,-95.55390669781087,Supermarket
 Alief,29.69,-95.59,Phoenicia Specialty Foods,29.73467771179062,-95.59472162301888,Gourmet Shop
 Alief,29.69,-95.59,"Spec's Wines, Spirits & Finer Foods",29.736926,-95.591091,Liquor Store
 Alief,29.69,-95.59,Trader Joe's,29.73545763509632,-95.5825621347282,Grocery Store
 Alief,29.69,-95.59,Sprouts Farmers Market,29.73761328474466,-95.59024853793744,Grocery Store
-Alief,29.69,-95.59,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 Alief,29.69,-95.59,Whole Foods Market,29.735312616116317,-95.57039122357129,Grocery Store
 Alief,29.69,-95.59,H-E-B,29.7354441,-95.5875698,Grocery Store
 Alief,29.69,-95.59,H-E-B,29.7059432,-95.6415745,Grocery Store
@@ -6999,6 +6998,7 @@ Alief,29.69,-95.59,Macy's,29.737893463506403,-95.46436099175105,Department Store
 Alief,29.69,-95.59,Kroger,29.6694668,-95.4636655,Supermarket
 Alief,29.69,-95.59,Target,29.566198807212526,-95.56789569319234,Big Box Store
 Alief,29.69,-95.59,Almadina Supermarket,29.730922456819034,-95.50166226293848,Supermarket
+Alief,29.69,-95.59,Walgreens,29.7410742,-95.4406324,Pharmacy
 "Northridge Park, Remington Ranch",30.0,-95.4,CVS pharmacy,30.01423827074559,-95.44980217444565,Pharmacy
 "Northridge Park, Remington Ranch",30.0,-95.4,Academy,30.07318652470881,-95.43356132329687,Department Store
 "Northridge Park, Remington Ranch",30.0,-95.4,Michaels,30.067645498708927,-95.42961974562911,Arts & Crafts Store
@@ -7115,7 +7115,6 @@ Alief,29.69,-95.59,Almadina Supermarket,29.730922456819034,-95.50166226293848,Su
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Sprouts Farmers Market,29.73761328474466,-95.59024853793744,Grocery Store
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Great Wall Supermarket,29.703301577159678,-95.55398752266464,Grocery Store
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Whole Foods Market,29.752211956945917,-95.5002600692758,Grocery Store
-"Braeburn, Braes Timbers, Robindell",29.69,-95.53,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,The Galleria,29.7368358,-95.4636925,Shopping Mall
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Joe V's Smart Shop,29.655176,-95.513204,Grocery Store
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Whole Foods Market,29.70683332400925,-95.44169206646067,Grocery Store
@@ -7127,6 +7126,7 @@ Alief,29.69,-95.59,Almadina Supermarket,29.730922456819034,-95.50166226293848,Su
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Total Wine & More,29.751325699382097,-95.46231890674585,Wine Shop
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Walgreens,29.750449730198486,-95.49663081765169,Pharmacy
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Rice Epicurean,29.746557109400666,-95.48589879169144,Fruit & Vegetable Store
+"Braeburn, Braes Timbers, Robindell",29.69,-95.53,The Container Store,29.741415225598274,-95.46005247032731,Furniture / Home Store
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Central Market,29.7410098,-95.44379,Gourmet Shop
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,Kroger,29.7482323,-95.500197,Supermarket
 "Braeburn, Braes Timbers, Robindell",29.69,-95.53,CityCentre,29.779789972526707,-95.55975063844612,Shopping Mall
@@ -7309,7 +7309,7 @@ Greater Hobby Area,29.62,-95.26,Walgreens,29.558299859777883,-95.3509721159935,P
 "Northside, Northline",29.85,-95.38,Whole Foods Market,29.75799411457671,-95.39764273104588,Grocery Store
 "Northside, Northline",29.85,-95.38,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 "Northside, Northline",29.85,-95.38,Whole Foods Market 365,29.81367916321041,-95.39832836374156,Grocery Store
-"Northside, Northline",29.85,-95.38,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Northside, Northline",29.85,-95.38,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Northside, Northline",29.85,-95.38,Walgreens,29.803672324094446,-95.39989292621613,Pharmacy
 "Northside, Northline",29.85,-95.38,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 "Northside, Northline",29.85,-95.38,The UPS Store,29.802465623626425,-95.40543638546296,Shipping Store
@@ -7436,7 +7436,6 @@ Greater Hobby Area,29.62,-95.26,Walgreens,29.558299859777883,-95.3509721159935,P
 "Briar Forest, Eldridge",29.75,-95.63,Dollar Tree,29.78167087628267,-95.74965700134648,Discount Store
 "Briar Forest, Eldridge",29.75,-95.63,Target,29.735120688291364,-95.5174901003278,Big Box Store
 "Briar Forest, Eldridge",29.75,-95.63,Whole Foods Market,29.752211956945917,-95.5002600692758,Grocery Store
-"Briar Forest, Eldridge",29.75,-95.63,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Briar Forest, Eldridge",29.75,-95.63,Dun Huang Plaza 敦煌廣場,29.70395165757924,-95.55362976921904,Shopping Mall
 "Briar Forest, Eldridge",29.75,-95.63,Chocolat zeina,29.738490850482208,-95.49033461045305,Chocolate Shop
 "Briar Forest, Eldridge",29.75,-95.63,H-E-B,29.7479856,-95.4850284,Grocery Store
@@ -7459,6 +7458,7 @@ Greater Hobby Area,29.62,-95.26,Walgreens,29.558299859777883,-95.3509721159935,P
 "Briar Forest, Eldridge",29.75,-95.63,Dollar Tree,29.650329941622275,-95.56572640816024,Discount Store
 "Briar Forest, Eldridge",29.75,-95.63,H Mart,29.792789807397394,-95.77440678746572,Grocery Store
 "Briar Forest, Eldridge",29.75,-95.63,H-E-B,29.6084495,-95.6455307,Grocery Store
+"Briar Forest, Eldridge",29.75,-95.63,Kroger,29.6633466,-95.7382129,Supermarket
 "Briar Forest, Eldridge",29.75,-95.63,Rice Epicurean,29.746557109400666,-95.48589879169144,Fruit & Vegetable Store
 "Briar Forest, Eldridge",29.75,-95.63,Michaels,29.7398241754355,-95.50261214375496,Arts & Crafts Store
 "Briar Forest, Eldridge",29.75,-95.63,Target,29.735493661085858,-95.56825485108713,Big Box Store
@@ -7509,7 +7509,7 @@ East Houston,29.85,-95.26,Texas Mattress Makers,29.752096010409602,-95.323724812
 East Houston,29.85,-95.26,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
 East Houston,29.85,-95.26,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
 East Houston,29.85,-95.26,Manready Mercantile,29.803043048215088,-95.40226318352558,Men's Store
-East Houston,29.85,-95.26,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+East Houston,29.85,-95.26,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 East Houston,29.85,-95.26,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 East Houston,29.85,-95.26,Chick-fil-A,29.9293876,-95.2048855,Food Service
 East Houston,29.85,-95.26,Farmer's Market,29.81040615434165,-95.38049769026809,Flea Market
@@ -7666,7 +7666,6 @@ Energy Corridor,29.79,-95.6,Great Wall Supermarket,29.703301577159678,-95.553987
 Energy Corridor,29.79,-95.6,Kroger,29.782167880937312,-95.52221246528467,Supermarket
 Energy Corridor,29.79,-95.6,Kroger,29.7961848,-95.4857755,Supermarket
 Energy Corridor,29.79,-95.6,Micro Center,29.724975553127997,-95.46689928963602,Electronics Store
-Energy Corridor,29.79,-95.6,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 Energy Corridor,29.79,-95.6,Target,29.735493661085858,-95.56825485108713,Big Box Store
 Energy Corridor,29.79,-95.6,Dollar Tree,29.73959927383527,-95.50300075500193,Discount Store
 Energy Corridor,29.79,-95.6,H-E-B,29.9111035,-95.5860287,Grocery Store
@@ -7699,6 +7698,7 @@ Energy Corridor,29.79,-95.6,"Spec's Wines, Spirits & Finer Foods",29.84627064586
 Energy Corridor,29.79,-95.6,Hong Kong Food Mart,29.702199794438204,-95.57733521723206,Grocery Store
 Energy Corridor,29.79,-95.6,FedEx Office Print & Ship Center,29.7384521,-95.4747551,Shipping Store
 Energy Corridor,29.79,-95.6,H-E-B,29.7076528,-95.4698099,Grocery Store
+Energy Corridor,29.79,-95.6,Almadina Supermarket,29.730922456819034,-95.50166226293848,Supermarket
 Spring Branch Central,29.81,-95.52,Super H Mart,29.79232357986547,-95.52111143558255,Supermarket
 Spring Branch Central,29.81,-95.52,Costco,29.78785797483925,-95.52988734348452,Warehouse Store
 Spring Branch Central,29.81,-95.52,H-E-B,29.7874794,-95.5320694,Grocery Store
@@ -7874,7 +7874,6 @@ Gulfton,29.71,-95.48,CVS pharmacy,29.74058424862417,-95.45759534402666,Pharmacy
 Gulfton,29.71,-95.48,Pepper Twins,29.75267404,-95.40339739,Health Food Store
 Gulfton,29.71,-95.48,H-E-B,29.7354441,-95.5875698,Grocery Store
 Gulfton,29.71,-95.48,Great Wall Supermarket,29.703301577159678,-95.55398752266464,Grocery Store
-Gulfton,29.71,-95.48,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 Gulfton,29.71,-95.48,Target,29.686719006040402,-95.462403432708,Big Box Store
 Gulfton,29.71,-95.48,Fiesta Mart,29.690640703345146,-95.41476688911051,Grocery Store
 Gulfton,29.71,-95.48,JCPenney,29.6869047,-95.4632169,Department Store
@@ -7885,12 +7884,12 @@ Gulfton,29.71,-95.48,Whole Foods Market,29.744379,-95.381412,Grocery Store
 Gulfton,29.71,-95.48,Smoothie King,29.775785,-95.382698,Smoothie Shop
 Gulfton,29.71,-95.48,CVS pharmacy,29.731906765111187,-95.46727565014902,Pharmacy
 Gulfton,29.71,-95.48,PetSmart,29.689347,-95.4135854,Pet Store
-Gulfton,29.71,-95.48,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 Gulfton,29.71,-95.48,The Heights H-E-B,29.8070977,-95.4092752,Grocery Store
 Gulfton,29.71,-95.48,Kroger,29.7961848,-95.4857755,Supermarket
 Gulfton,29.71,-95.48,Michaels,29.72311121003342,-95.44004521413626,Arts & Crafts Store
 Gulfton,29.71,-95.48,Walmart Neighborhood Market,29.674500286454787,-95.49528265818766,Grocery Store
 Gulfton,29.71,-95.48,Viet Hoa,29.688757424071444,-95.55968326174487,Supermarket
+Gulfton,29.71,-95.48,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 Gulfton,29.71,-95.48,Al-Ameen Halal Meat,29.685192954261364,-95.39125016208939,Grocery Store
 Gulfton,29.71,-95.48,Chick-fil-A,29.811921882379874,-95.5646012304551,Food Service
 Gulfton,29.71,-95.48,Target,29.77467685280716,-95.38498275102646,Big Box Store
@@ -7899,6 +7898,7 @@ Gulfton,29.71,-95.48,Walgreens,29.7232028,-95.3793189,Pharmacy
 Gulfton,29.71,-95.48,PETCO,29.746612383543432,-95.41084381511897,Pet Store
 Gulfton,29.71,-95.48,Kroger,29.7736237,-95.3899761,Supermarket
 Gulfton,29.71,-95.48,Kroger,29.754123111789752,-95.40543706747485,Supermarket
+Gulfton,29.71,-95.48,Kroger,29.782167880937312,-95.52221246528467,Supermarket
 "Royal Oaks, Westchase",29.74,-95.64,Goody Goody Liquor,29.73079488235171,-95.64490733156983,Liquor Store
 "Royal Oaks, Westchase",29.74,-95.64,Phoenicia Specialty Foods,29.73467771179062,-95.59472162301888,Gourmet Shop
 "Royal Oaks, Westchase",29.74,-95.64,"Spec's Wines, Spirits & Finer Foods",29.736926,-95.591091,Liquor Store
@@ -7931,7 +7931,6 @@ Gulfton,29.71,-95.48,Kroger,29.754123111789752,-95.40543706747485,Supermarket
 "Royal Oaks, Westchase",29.74,-95.64,Trader Joe's,29.740336470515658,-95.7753117387767,Grocery Store
 "Royal Oaks, Westchase",29.74,-95.64,Kroger,29.67841483585102,-95.64106846122382,Supermarket
 "Royal Oaks, Westchase",29.74,-95.64,Super H Mart,29.79232357986547,-95.52111143558255,Supermarket
-"Royal Oaks, Westchase",29.74,-95.64,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Royal Oaks, Westchase",29.74,-95.64,Chick-fil-A,29.811921882379874,-95.5646012304551,Food Service
 "Royal Oaks, Westchase",29.74,-95.64,Whole Foods Market,29.712593304050017,-95.77181525784218,Grocery Store
 "Royal Oaks, Westchase",29.74,-95.64,Macy's,29.781,-95.54,Department Store
@@ -7999,6 +7998,7 @@ Gulfton,29.71,-95.48,Kroger,29.754123111789752,-95.40543706747485,Supermarket
 "Royal Oaks, Westchase",29.74,-95.64,H-E-B,29.6910702,-95.5597218,Grocery Store
 "Royal Oaks, Westchase",29.74,-95.64,Kroger,29.782167880937312,-95.52221246528467,Supermarket
 "Royal Oaks, Westchase",29.74,-95.64,Kroger,29.8600848,-95.7218508,Supermarket
+"Royal Oaks, Westchase",29.74,-95.64,Walmart Neighborhood Market,29.651945261826576,-95.61702233711537,Grocery Store
 Mission Bend,29.69,-95.65,H-E-B,29.7059432,-95.6415745,Grocery Store
 Mission Bend,29.69,-95.65,Goody Goody Liquor,29.73079488235171,-95.64490733156983,Liquor Store
 Mission Bend,29.69,-95.65,HEB,29.6599,-95.7133637,Grocery Store
@@ -8019,7 +8019,6 @@ Mission Bend,29.69,-95.65,Whole Foods Market,29.599882562119888,-95.623387866914
 Mission Bend,29.69,-95.65,Target,29.658281278752884,-95.71056418825226,Big Box Store
 Mission Bend,29.69,-95.65,Kroger,29.6633466,-95.7382129,Supermarket
 Mission Bend,29.69,-95.65,Kroger,29.757494688525963,-95.62742070124841,Supermarket
-Mission Bend,29.69,-95.65,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 Mission Bend,29.69,-95.65,Kroger,29.648136892465093,-95.649345077818,Supermarket
 Mission Bend,29.69,-95.65,Academy Sports + Outdoors,29.6632938,-95.7158203,Sporting Goods Shop
 Mission Bend,29.69,-95.65,Sam's Club #6867,29.692626442413697,-95.76812010370507,Big Box Store
@@ -8099,6 +8098,7 @@ Mission Bend,29.69,-95.65,Randalls,29.622123,-95.7422257,Supermarket
 Mission Bend,29.69,-95.65,H-E-B,29.6910702,-95.5597218,Grocery Store
 Mission Bend,29.69,-95.65,Kroger,29.7581247,-95.7784093,Supermarket
 Mission Bend,29.69,-95.65,Walgreens,29.655369718639353,-95.50785720348358,Pharmacy
+Mission Bend,29.69,-95.65,99 Ranch Market,29.58899531503647,-95.59939589880992,Grocery Store
 "Addicks, Park Ten",29.83,-95.66,H-E-B,29.8475074,-95.6476437,Grocery Store
 "Addicks, Park Ten",29.83,-95.66,Sprouts Farmers Market,29.8807753,-95.6468792,Grocery Store
 "Addicks, Park Ten",29.83,-95.66,H-E-B,29.789239,-95.7170471,Grocery Store
@@ -8234,7 +8234,6 @@ Mission Bend,29.69,-95.65,Walgreens,29.655369718639353,-95.50785720348358,Pharma
 "Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,Chick-fil-A,29.5375007,-95.5315097,Food Service
 "Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,H-E-B,29.7479856,-95.4850284,Grocery Store
 "Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,Total Wine & More,29.554346424183304,-95.38091692394823,Wine Shop
-"Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,Costco,29.733971115841793,-95.43964074339954,Warehouse Store
 "Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,Highland Village,29.7416493273977,-95.44676971193074,Shopping Mall
 "Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,The Container Store,29.741415225598274,-95.46005247032731,Furniture / Home Store
@@ -8299,6 +8298,7 @@ Mission Bend,29.69,-95.65,Walgreens,29.655369718639353,-95.50785720348358,Pharma
 "Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 "Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,Academy Sports + Outdoors,29.7323123,-95.4157543,Sporting Goods Shop
 "Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,Walgreens,29.7410742,-95.4406324,Pharmacy
+"Fondren Gardens, Corithian Pointe, Winchester",29.62,-95.49,WB Liquors & Wine,29.544160473971996,-95.39083730152498,Liquor Store
 Northwest Park,29.92,-95.49,Total Wine & More,29.96619095782134,-95.54326236248016,Wine Shop
 Northwest Park,29.92,-95.49,Stripes Store 7784,29.897642848314018,-95.51606293222241,Convenience Store
 Northwest Park,29.92,-95.49,Costco,29.954658064909136,-95.54769729277533,Warehouse Store
@@ -8401,7 +8401,7 @@ Northwest Park,29.92,-95.49,Walgreens,29.870656951177953,-95.40924444794655,Phar
 Northwest Park,29.92,-95.49,Walgreens,29.8972778,-95.6365073,Pharmacy
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
-"Golfcrest, Bellfort, Reveille",29.69,-95.3,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Golfcrest, Bellfort, Reveille",29.69,-95.3,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,"Spec's Wines, Spirits & Finer Foods",29.59774473702675,-95.26551575980437,Liquor Store
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,H-E-B,29.6018509,-95.2496955,Grocery Store
@@ -8435,7 +8435,6 @@ Northwest Park,29.92,-95.49,Walgreens,29.8972778,-95.6365073,Pharmacy
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Walgreens,29.665746247079873,-95.18727382896031,Pharmacy
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Costco,29.733971115841793,-95.43964074339954,Warehouse Store
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Highland Village,29.7416493273977,-95.44676971193074,Shopping Mall
-"Golfcrest, Bellfort, Reveille",29.69,-95.3,Chick-fil-A,29.664406,-95.187314,Food Service
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,River Oaks District,29.74278708403033,-95.453509579883,Shopping Mall
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Walgreens,29.7232028,-95.3793189,Pharmacy
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Manready Mercantile,29.803043048215088,-95.40226318352558,Men's Store
@@ -8464,6 +8463,7 @@ Northwest Park,29.92,-95.49,Walgreens,29.8972778,-95.6365073,Pharmacy
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,PetSmart,29.7741444,-95.3831729,Pet Store
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Target,29.74507658164775,-95.45362958238226,Big Box Store
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Walgreens,29.7410742,-95.4406324,Pharmacy
+"Golfcrest, Bellfort, Reveille",29.69,-95.3,Walgreens,29.7472651,-95.3780849,Pharmacy
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,PetSmart,29.7239084,-95.4593838,Pet Store
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Kroger,29.7736237,-95.3899761,Supermarket
 "Golfcrest, Bellfort, Reveille",29.69,-95.3,Walgreens,29.579937329663395,-95.39913117885595,Pharmacy
@@ -8832,7 +8832,6 @@ Greater Inwood,29.86,-95.44,Trader Joe's,29.75262739583288,-95.50144920293054,Gr
 Greater Inwood,29.86,-95.44,"Spec's Wines, Spirits & Finer Foods",29.890511277628526,-95.58241243091176,Liquor Store
 Greater Inwood,29.86,-95.44,The Container Store,29.741415225598274,-95.46005247032731,Furniture / Home Store
 Greater Inwood,29.86,-95.44,Kirbside Bar,29.73915182491743,-95.41818404559953,Grocery Store
-Greater Inwood,29.86,-95.44,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 Greater Inwood,29.86,-95.44,CityCentre,29.779789972526707,-95.55975063844612,Shopping Mall
 Greater Inwood,29.86,-95.44,"Spec's Wines, Spirits & Finer Foods",29.744247888820528,-95.39222463224766,Liquor Store
 Greater Inwood,29.86,-95.44,Whole Foods Market,29.752211956945917,-95.5002600692758,Grocery Store
@@ -8899,6 +8898,7 @@ Greater Inwood,29.86,-95.44,Sam's Club,29.72419938926226,-95.47079795175348,Ware
 Greater Inwood,29.86,-95.44,"Spec's Wines, Spirits & Finer Foods",29.978274211314282,-95.43468849733884,Liquor Store
 Greater Inwood,29.86,-95.44,FedEx Office Print & Ship Center,29.7384521,-95.4747551,Shipping Store
 Greater Inwood,29.86,-95.44,CVS pharmacy,29.729950011163236,-95.41909864816579,Pharmacy
+Greater Inwood,29.86,-95.44,PETCO,29.746612383543432,-95.41084381511897,Pet Store
 "Forest Lake, Langwood",29.83,-95.47,"Spec's Wines, Spirits & Finer Foods",29.78516934659421,-95.49411949289518,Liquor Store
 "Forest Lake, Langwood",29.83,-95.47,Super H Mart,29.79232357986547,-95.52111143558255,Supermarket
 "Forest Lake, Langwood",29.83,-95.47,Costco,29.78785797483925,-95.52988734348452,Warehouse Store
@@ -8953,7 +8953,6 @@ Greater Inwood,29.86,-95.44,CVS pharmacy,29.729950011163236,-95.41909864816579,P
 "Forest Lake, Langwood",29.83,-95.47,"Spec's Wines, Spirits & Finer Foods",29.732484758031248,-95.46428225016463,Liquor Store
 "Forest Lake, Langwood",29.83,-95.47,Whole Foods Market 365,29.81367916321041,-95.39832836374156,Grocery Store
 "Forest Lake, Langwood",29.83,-95.47,The UPS Store,29.802465623626425,-95.40543638546296,Shipping Store
-"Forest Lake, Langwood",29.83,-95.47,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "Forest Lake, Langwood",29.83,-95.47,Micro Center,29.724975553127997,-95.46689928963602,Electronics Store
 "Forest Lake, Langwood",29.83,-95.47,Target,29.735120688291364,-95.5174901003278,Big Box Store
 "Forest Lake, Langwood",29.83,-95.47,Walgreens,29.803672324094446,-95.39989292621613,Pharmacy
@@ -8999,6 +8998,7 @@ Greater Inwood,29.86,-95.44,CVS pharmacy,29.729950011163236,-95.41909864816579,P
 "Forest Lake, Langwood",29.83,-95.47,HEB MacGregor Market,29.713732,-95.377456,Grocery Store
 "Forest Lake, Langwood",29.83,-95.47,Kroger,29.9040179,-95.5554551,Supermarket
 "Forest Lake, Langwood",29.83,-95.47,Kroger,29.78932260971469,-95.41113406419754,Supermarket
+"Forest Lake, Langwood",29.83,-95.47,Sam's Club,29.788093236658618,-95.55473886755446,Warehouse Store
 "Eastex, Jenson",29.86,-95.34,Mi Tienda,29.869838237102282,-95.33241391181946,Grocery Store
 "Eastex, Jenson",29.86,-95.34,Manready Mercantile,29.803043048215088,-95.40226318352558,Men's Store
 "Eastex, Jenson",29.86,-95.34,Buchanan's Native Plants,29.791149286134544,-95.39176072335081,Flower Shop
@@ -9006,7 +9006,7 @@ Greater Inwood,29.86,-95.44,CVS pharmacy,29.729950011163236,-95.41909864816579,P
 "Eastex, Jenson",29.86,-95.34,The Heights H-E-B,29.8070977,-95.4092752,Grocery Store
 "Eastex, Jenson",29.86,-95.34,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 "Eastex, Jenson",29.86,-95.34,Smoothie King,29.775785,-95.382698,Smoothie Shop
-"Eastex, Jenson",29.86,-95.34,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+"Eastex, Jenson",29.86,-95.34,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 "Eastex, Jenson",29.86,-95.34,"Spec's Wines, Spirits & Finer Foods",29.748694497268623,-95.37694865555139,Liquor Store
 "Eastex, Jenson",29.86,-95.34,Texas Mattress Makers,29.752096010409602,-95.3237248121643,Mattress Store
 "Eastex, Jenson",29.86,-95.34,Whole Foods Market,29.75799411457671,-95.39764273104588,Grocery Store
@@ -9171,7 +9171,6 @@ Greater Inwood,29.86,-95.44,CVS pharmacy,29.729950011163236,-95.41909864816579,P
 "Windsor Park, Green Trails",29.76,-95.69,Petco,29.735512147768002,-95.56997904560127,Pet Store
 "Windsor Park, Green Trails",29.76,-95.69,Kroger Marketplace,29.81259158409082,-95.77014992828316,Grocery Store
 "Windsor Park, Green Trails",29.76,-95.69,CVS pharmacy,29.662248639108796,-95.68682000298149,Pharmacy
-"Windsor Park, Green Trails",29.76,-95.69,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 "Windsor Park, Green Trails",29.76,-95.69,Kroger,29.70059493464138,-95.8115421142611,Supermarket
 "Windsor Park, Green Trails",29.76,-95.69,99 Cents Only Stores,29.781743,-95.752908,Discount Store
 "Windsor Park, Green Trails",29.76,-95.69,Kroger,29.7356156,-95.7537776,Supermarket
@@ -9199,6 +9198,7 @@ Greater Inwood,29.86,-95.44,CVS pharmacy,29.729950011163236,-95.41909864816579,P
 "Windsor Park, Green Trails",29.76,-95.69,Kroger,29.8649384,-95.6068015,Supermarket
 "Windsor Park, Green Trails",29.76,-95.69,Randalls,29.7718414,-95.6070031,Supermarket
 "Windsor Park, Green Trails",29.76,-95.69,Sam's Club,29.788093236658618,-95.55473886755446,Warehouse Store
+"Windsor Park, Green Trails",29.76,-95.69,Target,29.87751497081766,-95.64681126841685,Big Box Store
 "Copperfield, Canyon Lakes",29.91,-95.64,Academy Sports + Outdoors,29.91660569446901,-95.61265108874073,Sporting Goods Shop
 "Copperfield, Canyon Lakes",29.91,-95.64,Sprouts Farmers Market,29.8807753,-95.6468792,Grocery Store
 "Copperfield, Canyon Lakes",29.91,-95.64,CVS pharmacy,29.909988544101683,-95.6291751329547,Pharmacy
@@ -9272,7 +9272,6 @@ Greater Inwood,29.86,-95.44,CVS pharmacy,29.729950011163236,-95.41909864816579,P
 "Copperfield, Canyon Lakes",29.91,-95.64,Kroger,29.9710205,-95.6904014,Supermarket
 "Copperfield, Canyon Lakes",29.91,-95.64,PetSmart,29.967659,-95.693548,Pet Store
 "Copperfield, Canyon Lakes",29.91,-95.64,Walgreens,29.962012943526187,-95.49785524606705,Pharmacy
-"Copperfield, Canyon Lakes",29.91,-95.64,Best Buy,29.881212,-95.643352,Electronics Store
 "Copperfield, Canyon Lakes",29.91,-95.64,Kohl's,29.786814,-95.718918,Department Store
 "Copperfield, Canyon Lakes",29.91,-95.64,Target,29.967817644588504,-95.53110870819143,Big Box Store
 "Copperfield, Canyon Lakes",29.91,-95.64,Sam's Club,29.96310830457819,-95.54799853531708,Warehouse Store
@@ -9299,6 +9298,7 @@ Greater Inwood,29.86,-95.44,CVS pharmacy,29.729950011163236,-95.41909864816579,P
 "Copperfield, Canyon Lakes",29.91,-95.64,CVS pharmacy,29.867396091117026,-95.64574302530491,Pharmacy
 "Copperfield, Canyon Lakes",29.91,-95.64,M & M Food Market,29.8908658,-95.642083,Grocery Store
 "Copperfield, Canyon Lakes",29.91,-95.64,Sam's Club,29.788093236658618,-95.55473886755446,Warehouse Store
+"Copperfield, Canyon Lakes",29.91,-95.64,CVS pharmacy,29.939605,-95.723967,Pharmacy
 Meyerland,29.67,-95.48,Meyerland Plaza,29.68781133559464,-95.46093611001596,Shopping Mall
 Meyerland,29.67,-95.48,Whole Foods Market,29.70683332400925,-95.44169206646067,Grocery Store
 Meyerland,29.67,-95.48,Target,29.692844991400705,-95.41843855877896,Big Box Store
@@ -9369,7 +9369,7 @@ Meyerland,29.67,-95.48,Super H Mart,29.79232357986547,-95.52111143558255,Superma
 Meyerland,29.67,-95.48,H-E-B,29.7354441,-95.5875698,Grocery Store
 Meyerland,29.67,-95.48,Town & Country Village,29.77533046,-95.5602272,Shopping Mall
 Meyerland,29.67,-95.48,Total Wine & More,29.7668615,-95.5514798,Wine Shop
-Meyerland,29.67,-95.48,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+Meyerland,29.67,-95.48,"Spec's Wines, Spirits & Finer Foods",29.592567173804113,-95.60335668051967,Liquor Store
 Meyerland,29.67,-95.48,Academy Sports + Outdoors,29.7873171,-95.536337,Sporting Goods Shop
 Meyerland,29.67,-95.48,Kroger,29.5825474,-95.3898638,Supermarket
 Meyerland,29.67,-95.48,Memorial City Mall,29.781108986953505,-95.54020966983371,Shopping Mall
@@ -9425,7 +9425,6 @@ Meyerland,29.67,-95.48,Express,29.6880396,-95.4609919,Clothing Store
 "Boulevard Oaks, Crowne Plaza",29.73,-95.42,Sprouts Farmers Market,29.7746374,-95.4002306,Grocery Store
 "Boulevard Oaks, Crowne Plaza",29.73,-95.42,Smoothie King,29.744462,-95.390984,Smoothie Shop
 "Boulevard Oaks, Crowne Plaza",29.73,-95.42,H-E-B,29.7479856,-95.4850284,Grocery Store
-"Boulevard Oaks, Crowne Plaza",29.73,-95.42,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 "Boulevard Oaks, Crowne Plaza",29.73,-95.42,Micro Center,29.724975553127997,-95.46689928963602,Electronics Store
 "Boulevard Oaks, Crowne Plaza",29.73,-95.42,Target,29.74507658164775,-95.45362958238226,Big Box Store
 "Boulevard Oaks, Crowne Plaza",29.73,-95.42,Premium Draught,29.785078174746292,-95.38786487992098,Beer Store
@@ -9499,7 +9498,7 @@ Meyerland,29.67,-95.48,Express,29.6880396,-95.4609919,Clothing Store
 "Boulevard Oaks, Crowne Plaza",29.73,-95.42,CVS pharmacy,29.731906765111187,-95.46727565014902,Pharmacy
 "Boulevard Oaks, Crowne Plaza",29.73,-95.42,Macy's,29.781,-95.54,Department Store
 "Boulevard Oaks, Crowne Plaza",29.73,-95.42,Legacy Pharmacy,29.74495533351506,-95.39403541023603,Pharmacy
-"Huntington Village, Alief",29.67,-95.59,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
+"Boulevard Oaks, Crowne Plaza",29.73,-95.42,Kroger,29.7429498,-95.3920988,Supermarket
 "Huntington Village, Alief",29.67,-95.59,H Mart,29.70615440149667,-95.55390669781087,Supermarket
 "Huntington Village, Alief",29.67,-95.59,Phoenicia Specialty Foods,29.73467771179062,-95.59472162301888,Gourmet Shop
 "Huntington Village, Alief",29.67,-95.59,"Spec's Wines, Spirits & Finer Foods",29.736926,-95.591091,Liquor Store
@@ -9599,6 +9598,7 @@ Meyerland,29.67,-95.48,Express,29.6880396,-95.4609919,Clothing Store
 "Huntington Village, Alief",29.67,-95.59,Kroger,29.5513151,-95.5842445,Grocery Store
 "Huntington Village, Alief",29.67,-95.59,Corner Store,29.749525,-95.497118,Convenience Store
 "Huntington Village, Alief",29.67,-95.59,Sam's Club,29.72419938926226,-95.47079795175348,Warehouse Store
+"Huntington Village, Alief",29.67,-95.59,Kroger,29.6694668,-95.4636655,Supermarket
 East Conroe,30.3,-95.43,Academy Sports + Outdoors,30.33461357914093,-95.48105388879776,Sporting Goods Shop
 East Conroe,30.3,-95.43,Walgreens,30.3127386,-95.4612867,Pharmacy
 East Conroe,30.3,-95.43,H-E-B,30.325623649019708,-95.50032522847539,Grocery Store
@@ -11744,106 +11744,6 @@ East Spring,30.07,-95.37,CVS pharmacy,30.095805,-95.450035,Pharmacy
 East Spring,30.07,-95.37,Walgreens,30.1771575,-95.4509357,Pharmacy
 East Spring,30.07,-95.37,CVS pharmacy,30.049090626184228,-95.23495278585659,Pharmacy
 East Spring,30.07,-95.37,Corner Store,30.1763047,-95.460469,Convenience Store
-East Tomball,30.09,-95.59,Tejas Chocolate Craftory,30.098959,-95.61481,Chocolate Shop
-East Tomball,30.09,-95.59,Hobby Lobby,30.077869,-95.626399,Fabric Shop
-East Tomball,30.09,-95.59,"Spec's Wines, Spirits & Finer Foods",30.088562225857842,-95.63442290388952,Market
-East Tomball,30.09,-95.59,HEB Champion Forrest Market,30.0540219,-95.5768473,Grocery Store
-East Tomball,30.09,-95.59,Kroger Supermarket,30.1146841,-95.5527595,Supermarket
-East Tomball,30.09,-95.59,HEB,30.1442965,-95.5495682,Grocery Store
-East Tomball,30.09,-95.59,ALDI,30.074461,-95.527486,Market
-East Tomball,30.09,-95.59,Walmart Pharmacy,30.134991794012446,-95.5502235127385,Pharmacy
-East Tomball,30.09,-95.59,Petco,30.078486305289996,-95.5161736539586,Pet Store
-East Tomball,30.09,-95.59,H-E-B,30.0885366,-95.6298663,Grocery Store
-East Tomball,30.09,-95.59,Target,30.087470931615933,-95.52039448450442,Shopping Plaza
-East Tomball,30.09,-95.59,Sprouts Farmers Market,30.0709370135796,-95.50792157649994,Grocery Store
-East Tomball,30.09,-95.59,The Arbor Gate,30.0831,-95.65733,Flower Shop
-East Tomball,30.09,-95.59,"Spec's Wines, Spirits & Finer Foods",30.011979356636,-95.58804156437833,Liquor Store
-East Tomball,30.09,-95.59,Sprouts Farmers Market,30.011817002814894,-95.58749601244926,Grocery Store
-East Tomball,30.09,-95.59,Walgreens,30.0370111,-95.6037756,Pharmacy
-East Tomball,30.09,-95.59,Walgreens,30.087348,-95.6313498,Pharmacy
-East Tomball,30.09,-95.59,PetSmart,30.0918977,-95.6409675,Pet Store
-East Tomball,30.09,-95.59,H-E-B,30.0224554,-95.5274261,Grocery Store
-East Tomball,30.09,-95.59,Walmart Supercenter,30.135026894605566,-95.55026575684943,Big Box Store
-East Tomball,30.09,-95.59,Kohl's,30.089382,-95.640991,Department Store
-East Tomball,30.09,-95.59,H-E-B,30.072267612320314,-95.50182277285363,Grocery Store
-East Tomball,30.09,-95.59,H-E-B,29.9957045,-95.5760192,Grocery Store
-East Tomball,30.09,-95.59,H-E-B,30.0028958,-95.6390226,Grocery Store
-East Tomball,30.09,-95.59,Chick-fil-A,30.0362521,-95.5529166,Food Service
-East Tomball,30.09,-95.59,Hobby Lobby,30.083753298457033,-95.52061689814758,Construction & Landscaping
-East Tomball,30.09,-95.59,Trader Joe's,30.176351187015197,-95.53595857107368,Grocery Store
-East Tomball,30.09,-95.59,Academy Sports + Outdoors,30.08293805759201,-95.51956372023773,Sporting Goods Shop
-East Tomball,30.09,-95.59,Academy Sports + Outdoors,30.0857158,-95.6380814,Sporting Goods Shop
-East Tomball,30.09,-95.59,Harvest Natural Market,30.12919445888107,-95.5059153807434,Market
-East Tomball,30.09,-95.59,Dollar Tree,30.091631838761963,-95.64044027068117,Discount Store
-East Tomball,30.09,-95.59,Walgreens,30.141606185204484,-95.55023074150085,Pharmacy
-East Tomball,30.09,-95.59,Kroger,30.1825943,-95.5354224,Supermarket
-East Tomball,30.09,-95.59,Spec's,30.18176834035139,-95.5341342790924,Liquor Store
-East Tomball,30.09,-95.59,CVS pharmacy,30.11135901850916,-95.55272748125608,Pharmacy
-East Tomball,30.09,-95.59,H-E-B,30.1791288,-95.5381748,Grocery Store
-East Tomball,30.09,-95.59,CVS pharmacy,30.03549991961454,-95.60495774534346,Pharmacy
-East Tomball,30.09,-95.59,Whole Foods Market,29.998739501026424,-95.5622777825255,Grocery Store
-East Tomball,30.09,-95.59,H-E-B,30.0686343,-95.4499001,Grocery Store
-East Tomball,30.09,-95.59,The Eskimo Hut,30.025412511632027,-95.51664438846038,Convenience Store
-East Tomball,30.09,-95.59,Total Wine & More,29.96619095782134,-95.54326236248016,Wine Shop
-East Tomball,30.09,-95.59,H-E-B,30.1637222,-95.4669426,Grocery Store
-East Tomball,30.09,-95.59,HEB,30.221259934466985,-95.58432363354314,Grocery Store
-East Tomball,30.09,-95.59,Bedrock City Comic Company,29.985405531744945,-95.50000199690602,Toy / Game Store
-East Tomball,30.09,-95.59,Market Street,30.163903675460194,-95.46384351451641,Shopping Mall
-East Tomball,30.09,-95.59,ALDI,30.13119903720422,-95.55410486747772,Supermarket
-East Tomball,30.09,-95.59,Academy,30.07318652470881,-95.43356132329687,Department Store
-East Tomball,30.09,-95.59,Harley Davidson of the Woodlands,30.133182462904603,-95.4454852851701,Motorcycle Shop
-East Tomball,30.09,-95.59,Serious Cigars,29.971674625460423,-95.5290761590004,Smoke Shop
-East Tomball,30.09,-95.59,Target,30.091640446166437,-95.6396822446656,Big Box Store
-East Tomball,30.09,-95.59,Target,29.999891646659176,-95.58423021252734,Big Box Store
-East Tomball,30.09,-95.59,Whole Foods Market,30.16913366369499,-95.47073863846488,Grocery Store
-East Tomball,30.09,-95.59,Costco,29.954658064909136,-95.54769729277533,Warehouse Store
-East Tomball,30.09,-95.59,The Woodlands Mall,30.1641089,-95.4554951,Shopping Mall
-East Tomball,30.09,-95.59,H-E-B Curbside Pickup & Grocery Delivery,30.0027457,-95.6385171,Grocery Store
-East Tomball,30.09,-95.59,Kroger,30.1854047,-95.4904072,Supermarket
-East Tomball,30.09,-95.59,Total Wine & More,30.1657387,-95.4631797,Wine Shop
-East Tomball,30.09,-95.59,Michaels,30.067645498708927,-95.42961974562911,Arts & Crafts Store
-East Tomball,30.09,-95.59,Spec's,30.126176709564962,-95.44167743627543,Liquor Store
-East Tomball,30.09,-95.59,CVS pharmacy,30.093479892285544,-95.62343130327994,Pharmacy
-East Tomball,30.09,-95.59,Kroger,30.091948,-95.6344772,Supermarket
-East Tomball,30.09,-95.59,Tomball Farmers Market,30.096860339920394,-95.6159314234438,Farmers Market
-East Tomball,30.09,-95.59,CVS pharmacy,30.182870646724272,-95.53766556547167,Pharmacy
-East Tomball,30.09,-95.59,Academy Sports + Outdoors,30.1694539,-95.4561575,Sporting Goods Shop
-East Tomball,30.09,-95.59,CVS pharmacy,30.01423827074559,-95.44980217444565,Pharmacy
-East Tomball,30.09,-95.59,buybuy BABY,29.9531265271445,-95.5435574054718,Kids Store
-East Tomball,30.09,-95.59,Specs,30.065533290647696,-95.4383375226997,Liquor Store
-East Tomball,30.09,-95.59,Kroger Signature #376,30.040362102202643,-95.48624396324158,Supermarket
-East Tomball,30.09,-95.59,Kroger,30.210745819246355,-95.52810314577073,Supermarket
-East Tomball,30.09,-95.59,Michaels,30.086701043425176,-95.52490307940667,Arts & Crafts Store
-East Tomball,30.09,-95.59,Walgreens,30.06966166775002,-95.44699337337079,Pharmacy
-East Tomball,30.09,-95.59,Smoothie King,30.021449,-95.527563,Smoothie Shop
-East Tomball,30.09,-95.59,Kroger,30.0029775,-95.5316138,Supermarket
-East Tomball,30.09,-95.59,Academy Sports + Outdoors,29.9654757,-95.5439054,Sporting Goods Shop
-East Tomball,30.09,-95.59,"Spec's Wines, Spirits & Finer Foods",29.967980352859957,-95.53206989196863,Liquor Store
-East Tomball,30.09,-95.59,Walgreens,30.183779,-95.4878229,Pharmacy
-East Tomball,30.09,-95.59,Walgreens,30.1785928,-95.5345577,Pharmacy
-East Tomball,30.09,-95.59,Walgreens,30.032092,-95.555301,Pharmacy
-East Tomball,30.09,-95.59,Walgreens,30.1268345,-95.4339692,Pharmacy
-East Tomball,30.09,-95.59,Kroger,30.0329345,-95.5525331,Supermarket
-East Tomball,30.09,-95.59,Kroger,29.9941861,-95.6217475,Supermarket
-East Tomball,30.09,-95.59,Aldi Food Market,29.99368060551048,-95.48591941595083,Market
-East Tomball,30.09,-95.59,Target,30.217687154366665,-95.5654506731299,Big Box Store
-East Tomball,30.09,-95.59,Stripes / Sonoco,30.220399378896353,-95.58433121080945,Convenience Store
-East Tomball,30.09,-95.59,Kroger,29.983176,-95.5663387,Supermarket
-East Tomball,30.09,-95.59,Pier 1 Imports,29.979681,-95.514423,Furniture / Home Store
-East Tomball,30.09,-95.59,Fiesta Mart Inc,29.960375024184422,-95.55077965341194,Grocery Store
-East Tomball,30.09,-95.59,Kroger,30.085511508007098,-95.44841363558191,Grocery Store
-East Tomball,30.09,-95.59,Marshalls,30.169500655800135,-95.45457633074442,Department Store
-East Tomball,30.09,-95.59,JOANN Fabrics and Crafts,30.13189765940066,-95.44591989439365,Fabric Shop
-East Tomball,30.09,-95.59,Kroger,30.0752817,-95.5169623,Supermarket
-East Tomball,30.09,-95.59,Best Buy,30.0499417,-95.4322556,Electronics Store
-East Tomball,30.09,-95.59,H-E-B,30.127641,-95.44571,Grocery Store
-East Tomball,30.09,-95.59,CVS pharmacy,29.999820673856803,-95.47804543232452,Pharmacy
-East Tomball,30.09,-95.59,Smoothie King,30.220392,-95.566455,Smoothie Shop
-East Tomball,30.09,-95.59,Kroger,29.9514854,-95.5838899,Supermarket
-East Tomball,30.09,-95.59,Best Buy,29.967562,-95.538256,Electronics Store
-East Tomball,30.09,-95.59,Kroger,29.9767768,-95.4915485,Supermarket
-East Tomball,30.09,-95.59,Target,29.967817644588504,-95.53110870819143,Big Box Store
-East Tomball,30.09,-95.59,Yun Loy Asian Market,30.125436999999998,-95.448945,Grocery Store
 West Tomball,30.06,-95.68,Hobby Lobby,30.077869,-95.626399,Fabric Shop
 West Tomball,30.06,-95.68,The Arbor Gate,30.0831,-95.65733,Flower Shop
 West Tomball,30.06,-95.68,"Spec's Wines, Spirits & Finer Foods",30.088562225857842,-95.63442290388952,Market
@@ -13051,6 +12951,7 @@ Bellaire,29.71,-95.47,Micro Center,29.724975553127997,-95.46689928963602,Electro
 Bellaire,29.71,-95.47,Central Market,29.7410098,-95.44379,Gourmet Shop
 Bellaire,29.71,-95.47,Chocolat zeina,29.738490850482208,-95.49033461045305,Chocolate Shop
 Bellaire,29.71,-95.47,H-E-B,29.7479856,-95.4850284,Grocery Store
+Bellaire,29.71,-95.47,Bedrock City Comic Co.,29.738429130167564,-95.49966111103411,Comic Shop
 Bellaire,29.71,-95.47,Highland Village,29.7416493273977,-95.44676971193074,Shopping Mall
 Bellaire,29.71,-95.47,Whole Foods Market,29.749479791687545,-95.46163506664445,Grocery Store
 Bellaire,29.71,-95.47,Total Wine & More,29.751325699382097,-95.46231890674585,Wine Shop
@@ -13105,7 +13006,6 @@ Bellaire,29.71,-95.47,Kroger,29.6694668,-95.4636655,Supermarket
 Bellaire,29.71,-95.47,Academy Sports + Outdoors,29.7873171,-95.536337,Sporting Goods Shop
 Bellaire,29.71,-95.47,Pepper Twins,29.75267404,-95.40339739,Health Food Store
 Bellaire,29.71,-95.47,Corner Store,29.749525,-95.497118,Convenience Store
-Bellaire,29.71,-95.47,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
 Bellaire,29.71,-95.47,CVS pharmacy,29.74058424862417,-95.45759534402666,Pharmacy
 Bellaire,29.71,-95.47,Town & Country Village,29.77533046,-95.5602272,Shopping Mall
 Bellaire,29.71,-95.47,Memorial City Mall,29.781108986953505,-95.54020966983371,Shopping Mall
@@ -15175,7 +15075,6 @@ Stafford,29.63,-95.56,Whole Foods Market,29.599882562119888,-95.623387866914,Gro
 Stafford,29.63,-95.56,H-E-B,29.5787448,-95.5825958,Grocery Store
 Stafford,29.63,-95.56,H-E-B,29.6084495,-95.6455307,Grocery Store
 Stafford,29.63,-95.56,H Mart,29.70615440149667,-95.55390669781087,Supermarket
-Stafford,29.63,-95.56,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 Stafford,29.63,-95.56,Total Wine & More,29.59286870107807,-95.63597875248756,Wine Shop
 Stafford,29.63,-95.56,Joe V's Smart Shop,29.655176,-95.513204,Grocery Store
 Stafford,29.63,-95.56,Costco,29.585449745089303,-95.64377760923992,Warehouse Store
@@ -15269,6 +15168,7 @@ Stafford,29.63,-95.56,Corner Store,29.749525,-95.497118,Convenience Store
 Stafford,29.63,-95.56,Kroger,29.7525255,-95.6052993,Supermarket
 Stafford,29.63,-95.56,JCPenney,29.6869047,-95.4632169,Department Store
 Stafford,29.63,-95.56,Randalls,29.7488787,-95.4658379,Supermarket
+Stafford,29.63,-95.56,Macy's,29.737893463506403,-95.46436099175105,Department Store
 Northeast Sugar Land,29.62,-95.61,Whole Foods Market,29.599882562119888,-95.623387866914,Grocery Store
 Northeast Sugar Land,29.62,-95.61,"Spec's Wines, Spirits & Finer Foods",29.592567173804113,-95.60335668051967,Liquor Store
 Northeast Sugar Land,29.62,-95.61,H-E-B,29.6084495,-95.6455307,Grocery Store
@@ -15286,7 +15186,6 @@ Northeast Sugar Land,29.62,-95.61,Randalls,29.5901218,-95.6031339,Supermarket
 Northeast Sugar Land,29.62,-95.61,Smoothie King,29.592307,-95.604176,Smoothie Shop
 Northeast Sugar Land,29.62,-95.61,H-E-B Curbside Pickup & Grocery Delivery,29.6084235,-95.6458491,Grocery Store
 Northeast Sugar Land,29.62,-95.61,HEB,29.6599,-95.7133637,Grocery Store
-Northeast Sugar Land,29.62,-95.61,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 Northeast Sugar Land,29.62,-95.61,H Mart,29.70615440149667,-95.55390669781087,Supermarket
 Northeast Sugar Land,29.62,-95.61,First Colony Mall,29.5917109,-95.6246263,Shopping Mall
 Northeast Sugar Land,29.62,-95.61,Kroger,29.563560467610287,-95.56548977263719,Supermarket
@@ -15330,6 +15229,7 @@ Northeast Sugar Land,29.62,-95.61,Walmart Supercenter,29.57374229227293,-95.5684
 Northeast Sugar Land,29.62,-95.61,Smoothie King,29.679034,-95.644294,Smoothie Shop
 Northeast Sugar Land,29.62,-95.61,Seiwa Market,29.747446743484968,-95.60523460980778,Grocery Store
 Northeast Sugar Land,29.62,-95.61,Viet Hoa,29.688757424071444,-95.55968326174487,Supermarket
+Northeast Sugar Land,29.62,-95.61,Acacia Food Mart,29.652407,-95.569061,Market
 Northeast Sugar Land,29.62,-95.61,Academy Sports + Outdoors,29.543100327797088,-95.74676450663583,Sporting Goods Shop
 Northeast Sugar Land,29.62,-95.61,Target,29.735120688291364,-95.5174901003278,Big Box Store
 Northeast Sugar Land,29.62,-95.61,Walgreens,29.5844779,-95.6326054,Pharmacy
@@ -15866,7 +15766,6 @@ Missouri City,29.61,-95.51,Target,29.566198807212526,-95.56789569319234,Big Box 
 Missouri City,29.61,-95.51,H-E-B plus!,29.5589001,-95.3907595,Supermarket
 Missouri City,29.61,-95.51,Walmart Neighborhood Market,29.55600710141861,-95.41572000902228,Grocery Store
 Missouri City,29.61,-95.51,Total Wine & More,29.59286870107807,-95.63597875248756,Wine Shop
-Missouri City,29.61,-95.51,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 Missouri City,29.61,-95.51,Costco,29.54417732862483,-95.3908870093579,Warehouse Store
 Missouri City,29.61,-95.51,Joe V's Smart Shop,29.6078535,-95.477435,Grocery Store
 Missouri City,29.61,-95.51,Costco,29.585449745089303,-95.64377760923992,Warehouse Store
@@ -15949,6 +15848,7 @@ Missouri City,29.61,-95.51,Southwest Farmers Market,29.674360455923747,-95.55001
 Missouri City,29.61,-95.51,Fiesta Grocery Store,29.646653761173916,-95.46051731340947,Grocery Store
 Missouri City,29.61,-95.51,Best Buy,29.55918,-95.385305,Electronics Store
 Missouri City,29.61,-95.51,PetSmart,29.689347,-95.4135854,Pet Store
+Missouri City,29.61,-95.51,Walgreens,29.7410742,-95.4406324,Pharmacy
 Noorthwest Katy,29.85,-95.84,Kroger Marketplace,29.81286263946895,-95.77029232870842,Grocery Store
 Noorthwest Katy,29.85,-95.84,Specs,29.783583138745115,-95.7935030605423,Liquor Store
 Noorthwest Katy,29.85,-95.84,Bass Pro Shops,29.778011303723535,-95.8109039068222,Sporting Goods Shop
@@ -16176,7 +16076,6 @@ Northwest Sugarland,29.64,-95.65,Goody Goody Liquor,29.73079488235171,-95.644907
 Northwest Sugarland,29.64,-95.65,Phoenicia Specialty Foods,29.73467771179062,-95.59472162301888,Gourmet Shop
 Northwest Sugarland,29.64,-95.65,H-E-B,29.5646915,-95.6855464,Grocery Store
 Northwest Sugarland,29.64,-95.65,CVS pharmacy,29.662248639108796,-95.68682000298149,Pharmacy
-Northwest Sugarland,29.64,-95.65,Restaurant Depot,29.675167825185017,-95.57720483294291,Kitchen Supply Store
 Northwest Sugarland,29.64,-95.65,Kroger,29.7084625,-95.6863011,Supermarket
 Northwest Sugarland,29.64,-95.65,"Spec's Wines, Spirits & Finer Foods",29.736926,-95.591091,Liquor Store
 Northwest Sugarland,29.64,-95.65,H Mart,29.70615440149667,-95.55390669781087,Supermarket
@@ -16198,6 +16097,7 @@ Northwest Sugarland,29.64,-95.65,"Spec's Wines, Spirits & Finer Foods",29.543348
 Northwest Sugarland,29.64,-95.65,Whole Foods Market,29.712593304050017,-95.77181525784218,Grocery Store
 Northwest Sugarland,29.64,-95.65,H-E-B plus!,29.7131773,-95.7760406,Grocery Store
 Northwest Sugarland,29.64,-95.65,PetSmart,29.691834,-95.77466,Pet Store
+Northwest Sugarland,29.64,-95.65,PetSmart,29.5702541,-95.5713505,Pet Store
 Northwest Sugarland,29.64,-95.65,Walmart Neighborhood Market,29.651945261826576,-95.61702233711537,Grocery Store
 Northwest Sugarland,29.64,-95.65,"Spec's Wines, Spirits & Finer Foods",29.76945274423986,-95.60820412194697,Liquor Store
 Northwest Sugarland,29.64,-95.65,Seiwa Market,29.747446743484968,-95.60523460980778,Grocery Store
@@ -16671,7 +16571,7 @@ North Pasadena,29.71,-95.21,Chick-fil-A,29.6281,-95.23246,Food Service
 North Pasadena,29.71,-95.21,Corner Store,29.7729164,-95.2467511,Convenience Store
 North Pasadena,29.71,-95.21,JCPenney,29.810661,-95.1609907,Department Store
 North Pasadena,29.71,-95.21,Walgreens,29.6492905,-95.1429675,Pharmacy
-North Pasadena,29.71,-95.21,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+North Pasadena,29.71,-95.21,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 North Pasadena,29.71,-95.21,Smoothie King,29.664624647323638,-95.19035075711247,Smoothie Shop
 North Pasadena,29.71,-95.21,Stripes,29.676566049785663,-95.26748426489418,Convenience Store
 North Pasadena,29.71,-95.21,Walgreens,29.650156,-95.1725791,Pharmacy
@@ -18374,7 +18274,6 @@ Freeport,29.0,-95.3,Office Depot,29.044082,-95.456986,Paper / Office Supplies St
 Freeport,29.0,-95.3,"United Rentals - Fluid Solutions: Pumps, Tanks, Filtration",29.01428,-95.410388,Construction & Landscaping
 Freeport,29.0,-95.3,McCoy's Building Supply,29.044565212307226,-95.40241856287146,Construction & Landscaping
 Freeport,29.0,-95.3,Honda of Brazosport,29.017382,-95.414579,Motorcycle Shop
-Freeport,29.0,-95.3,Detail Products Inc,29.038071999999996,-95.411082,Clothing Store
 Freeport,29.0,-95.3,Kroger Grocery Pickup and Delivery,29.017618515945326,-95.4186635723802,Grocery Store
 Freeport,29.0,-95.3,Rent-A-Center,29.0127026,-95.4195649,Electronics Store
 Freeport,29.0,-95.3,Buddy's Home Furnishings,29.018093,-95.418991,Furniture / Home Store
@@ -18411,6 +18310,7 @@ Freeport,29.0,-95.3,Amazing Lash Studio,29.041673258397292,-95.4467434471627,Hea
 Freeport,29.0,-95.3,Legend Nails Spa,29.041858123427033,-95.44685158870304,Health & Beauty Service
 Freeport,29.0,-95.3,CareBuilders at Home - Lake Jackson,29.043978000000003,-95.4473,Home Service
 Freeport,29.0,-95.3,C-Star Massage,29.042237,-95.448001,Massage Studio
+Freeport,29.0,-95.3,Gulf Coast Tactical Supply,29.0398,-95.449127,Sporting Goods Shop
 Fresno,29.54,-95.47,Academy Sports + Outdoors,29.53560966730926,-95.53118809325406,Sporting Goods Shop
 Fresno,29.54,-95.47,H-E-B,29.5366437,-95.5364696,Grocery Store
 Fresno,29.54,-95.47,Costco,29.54417732862483,-95.3908870093579,Warehouse Store
@@ -18617,7 +18517,7 @@ Galena Park,29.74,-95.23,PUFF N STUFF,29.664176489061465,-95.21203301128439,Hobb
 Galena Park,29.74,-95.23,Mi Tienda,29.6636845,-95.2088761,Grocery Store
 Galena Park,29.74,-95.23,Walgreens,29.665746247079873,-95.18727382896031,Pharmacy
 Galena Park,29.74,-95.23,Sam's Club,29.768823885225782,-95.18309911189435,Warehouse Store
-Galena Park,29.74,-95.23,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Market
+Galena Park,29.74,-95.23,Phoenicia Specialty Foods,29.754502385638137,-95.3617598578482,Supermarket
 Galena Park,29.74,-95.23,Academy Sports + Outdoors,29.6398215,-95.1569493,Sporting Goods Shop
 Galena Park,29.74,-95.23,H-E-B,29.6486983,-95.1445449,Grocery Store
 Galena Park,29.74,-95.23,Chick-fil-A,29.664406,-95.187314,Food Service

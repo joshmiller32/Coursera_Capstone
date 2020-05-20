@@ -44,7 +44,7 @@ Neighborhood,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4
 "(Timber Brook, Oak Point, Plano Park) - Plano",Grocery Store,Supermarket,Big Box Store,Convenience Store,Warehouse Store,Pharmacy,Shopping Mall,Wine Shop,Shopping Plaza,Pet Store
 "(Turtle Creek, Oaklawn) - Dallas",Grocery Store,Pharmacy,Supermarket,Convenience Store,Big Box Store,Shopping Mall,Liquor Store,Wine Shop,Gourmet Shop,Warehouse Store
 "(Wedgewood, Stone Meadow) - Fort Worth",Convenience Store,Grocery Store,Pharmacy,Supermarket,Department Store,Pet Store,Liquor Store,Big Box Store,Shipping Store,Furniture / Home Store
-"(Western Hills, Ridglea Hills) - Fort Worth",Convenience Store,Grocery Store,Pharmacy,Discount Store,Big Box Store,Liquor Store,Shipping Store,Furniture / Home Store,Supermarket,Warehouse Store
+"(Western Hills, Ridglea Hills) - Fort Worth",Convenience Store,Grocery Store,Pharmacy,Big Box Store,Discount Store,Shipping Store,Liquor Store,Supermarket,Pet Store,Furniture / Home Store
 "(Willow Bend, Westworth Estates) - Plano",Grocery Store,Supermarket,Pharmacy,Warehouse Store,Big Box Store,Convenience Store,Liquor Store,Shopping Mall,Wine Shop,Pet Store
 "(Willow Creek, South Greenbriar, Highland Hills) - Fort Worth",Convenience Store,Grocery Store,Pharmacy,Supermarket,Liquor Store,Pet Store,Discount Store,Furniture / Home Store,Big Box Store,Shopping Plaza
 "(Woodbridge, Forest Meadow, Northwood Heights) - Dallas",Grocery Store,Supermarket,Warehouse Store,Big Box Store,Liquor Store,Convenience Store,Shopping Mall,Gourmet Shop,Wine Shop,Pet Store
@@ -128,14 +128,12 @@ Historic District - Dallas,Grocery Store,Pharmacy,Convenience Store,Supermarket,
 Hutchins,Convenience Store,Discount Store,Grocery Store,Pharmacy,Big Box Store,Supermarket,Cosmetics Shop,Mobile Phone Shop,Shopping Mall,Liquor Store
 Italy,Grocery Store,Home Service,Construction & Landscaping,Clothing Store,Business Service,Arts & Crafts Store,Health & Beauty Service,Discount Store,Convenience Store,Hobby Shop
 Josephine,Construction & Landscaping,Home Service,Business Service,Discount Store,Insurance Office,Other Repair Shop,Furniture / Home Store,Auto Garage,Event Service,IT Services
-Joshua,Convenience Store,Grocery Store,Pharmacy,Discount Store,Home Service,Insurance Office,Supermarket,Furniture / Home Store,Department Store,Construction & Landscaping
 Justin - Fort Worth,Convenience Store,Business Service,Pharmacy,Construction & Landscaping,Clothing Store,Sporting Goods Shop,Home Service,Supermarket,Liquor Store,Insurance Office
 Kaufman,Construction & Landscaping,Discount Store,Clothing Store,Mobile Phone Shop,Home Service,Convenience Store,Insurance Office,Video Store,Shoe Store,Business Service
 Keene,Grocery Store,Construction & Landscaping,Home Service,Convenience Store,Business Service,Pharmacy,Lawyer,Mobile Phone Shop,Discount Store,Smoke Shop
 Keller,Convenience Store,Supermarket,Grocery Store,Pharmacy,Pet Store,Big Box Store,Warehouse Store,Discount Store,Liquor Store,Wine Shop
 Keller - Fort Worth,Convenience Store,Supermarket,Grocery Store,Pharmacy,Pet Store,Arts & Crafts Store,Liquor Store,Discount Store,Big Box Store,Warehouse Store
 Kemp,Construction & Landscaping,Home Service,Convenience Store,Furniture / Home Store,Discount Store,Market,Other Repair Shop,Grocery Store,Auto Garage,Shopping Mall
-Kennedale,Convenience Store,Grocery Store,Pharmacy,Supermarket,Discount Store,Big Box Store,Liquor Store,Sporting Goods Shop,Warehouse Store,Electronics Store
 Kleberg - Dallas,Convenience Store,Discount Store,Pharmacy,Grocery Store,Construction & Landscaping,Mobile Phone Shop,Big Box Store,Shipping Store,Supermarket,Kids Store
 Krum,Home Service,Construction & Landscaping,Business Service,Furniture / Home Store,Mattress Store,Discount Store,Convenience Store,Grocery Store,Mobile Phone Shop,Antique Shop
 Lake Arlington Area - Arlington,Convenience Store,Grocery Store,Supermarket,Pharmacy,Big Box Store,Sporting Goods Shop,Warehouse Store,Liquor Store,Discount Store,Pet Store
@@ -143,7 +141,6 @@ Lake Dallas,Grocery Store,Pharmacy,Supermarket,Convenience Store,Big Box Store,P
 Lantana,Grocery Store,Convenience Store,Pharmacy,Supermarket,Sporting Goods Shop,Furniture / Home Store,Pet Store,Bookstore,Department Store,Liquor Store
 Las Colinas - Irving,Grocery Store,Convenience Store,Supermarket,Pharmacy,Big Box Store,Warehouse Store,Wine Shop,Liquor Store,Shopping Mall,Pet Store
 Lavon,Convenience Store,Pharmacy,Grocery Store,Discount Store,Big Box Store,Supermarket,Sporting Goods Shop,Department Store,Pet Store,Mobile Phone Shop
-Lillian,Convenience Store,Grocery Store,Pharmacy,Discount Store,Department Store,Supermarket,Big Box Store,Cosmetics Shop,Construction & Landscaping,Electronics Store
 Little Elm,Pharmacy,Grocery Store,Convenience Store,Supermarket,Big Box Store,Pet Store,Wine Shop,Warehouse Store,Electronics Store,Discount Store
 Lone Oak,Home Service,Business Service,Sporting Goods Shop,Other Repair Shop,Liquor Store,Construction & Landscaping,Discount Store,Market,Fireworks Store,Motorcycle Shop
 Loryland - Dallas,Grocery Store,Supermarket,Convenience Store,Big Box Store,Warehouse Store,Shopping Mall,Pharmacy,Wine Shop,Liquor Store,Gourmet Shop
@@ -151,14 +148,12 @@ Love Field - Dallas,Grocery Store,Supermarket,Pharmacy,Convenience Store,Big Box
 Lower Greenville - Dallas,Grocery Store,Supermarket,Pharmacy,Convenience Store,Big Box Store,Warehouse Store,Shopping Mall,Liquor Store,Gourmet Shop,Pet Store
 Mabank,Construction & Landscaping,Mobile Phone Shop,Discount Store,Insurance Office,Convenience Store,Furniture / Home Store,Business Service,Home Service,Lawyer,Pharmacy
 Mansfield,Convenience Store,Pharmacy,Grocery Store,Supermarket,Discount Store,Big Box Store,Pet Store,Liquor Store,Video Game Store,Warehouse Store
-Maypearl,Construction & Landscaping,Home Service,Grocery Store,Business Service,Discount Store,Gun Shop,Other Repair Shop,Convenience Store,Auto Workshop,Boutique
-Meadowbrook - Fort Worth,Grocery Store,Convenience Store,Supermarket,Big Box Store,Liquor Store,Pet Store,Pharmacy,Warehouse Store,Sporting Goods Shop,Market
 Melissa,Pharmacy,Convenience Store,Discount Store,Grocery Store,Home Service,Construction & Landscaping,Big Box Store,Liquor Store,Pet Store,Cosmetics Shop
 Midlothian,Pharmacy,Discount Store,Convenience Store,Grocery Store,Big Box Store,Department Store,Mobile Phone Shop,Sporting Goods Shop,Market,Shipping Store
 Milford,Clothing Store,Convenience Store,Grocery Store,Video Store,Discount Store,Mobile Phone Shop,Furniture / Home Store,Construction & Landscaping,Home Service,Business Service
 Millsap,Convenience Store,Construction & Landscaping,Business Service,Grocery Store,Mobile Phone Shop,Insurance Office,Home Service,Furniture / Home Store,Sporting Goods Shop,Discount Store
 Murphy,Grocery Store,Supermarket,Convenience Store,Pharmacy,Big Box Store,Discount Store,Warehouse Store,Shopping Mall,Electronics Store,Sporting Goods Shop
-NAS-JRB - Fort Worth,Convenience Store,Grocery Store,Pharmacy,Discount Store,Big Box Store,Liquor Store,Furniture / Home Store,Supermarket,Pet Store,Shipping Store
+NAS-JRB - Fort Worth,Convenience Store,Grocery Store,Pharmacy,Discount Store,Liquor Store,Big Box Store,Supermarket,Pet Store,Furniture / Home Store,Warehouse Store
 Nemo,Construction & Landscaping,Grocery Store,Home Service,Business Service,Discount Store,Convenience Store,Gift Shop,Furniture / Home Store,Pharmacy,Flea Market
 Nevada,Construction & Landscaping,Grocery Store,Home Service,Insurance Office,Discount Store,Convenience Store,Pharmacy,Mobile Phone Shop,Auto Workshop,Locksmith
 North Bedford,Convenience Store,Grocery Store,Supermarket,Pet Store,Big Box Store,Warehouse Store,Pharmacy,Shopping Mall,Discount Store,Electronics Store
@@ -209,7 +204,7 @@ Royse City,Construction & Landscaping,Home Service,Mobile Phone Shop,Furniture /
 Sachse,Grocery Store,Convenience Store,Supermarket,Pharmacy,Big Box Store,Discount Store,Warehouse Store,Electronics Store,Pet Store,Garden Center
 Sanger,Construction & Landscaping,Home Service,Business Service,Convenience Store,Insurance Office,Discount Store,Furniture / Home Store,Pharmacy,Mobile Phone Shop,Other Repair Shop
 Scurry,Construction & Landscaping,Home Service,Mobile Phone Shop,Lawyer,Insurance Office,Discount Store,Grocery Store,Business Service,Pharmacy,Convenience Store
-Seagoville,Construction & Landscaping,Home Service,Discount Store,Convenience Store,Mobile Phone Shop,Business Service,Video Store,Auto Garage,Clothing Store,Supermarket
+Seagoville,Construction & Landscaping,Home Service,Convenience Store,Discount Store,Mobile Phone Shop,Business Service,Video Store,Auto Garage,Clothing Store,Supermarket
 Smithfield - Fort Worth,Convenience Store,Supermarket,Grocery Store,Pharmacy,Warehouse Store,Big Box Store,Pet Store,Liquor Store,Discount Store,Gourmet Shop
 South Bedford,Convenience Store,Grocery Store,Supermarket,Pet Store,Big Box Store,Warehouse Store,Pharmacy,Liquor Store,Electronics Store,Farmers Market
 South Dallas,Convenience Store,Pharmacy,Grocery Store,Supermarket,Discount Store,Big Box Store,Pet Store,Farmers Market,Warehouse Store,Shopping Mall
@@ -229,7 +224,7 @@ Southeast McKinney,Grocery Store,Convenience Store,Pharmacy,Big Box Store,Superm
 Southeast Mesquite,Convenience Store,Discount Store,Pharmacy,Grocery Store,Supermarket,Big Box Store,Shipping Store,Furniture / Home Store,Thrift / Vintage Store,Paper / Office Supplies Store
 Southeast Weatherford,Construction & Landscaping,Lawyer,Grocery Store,Home Service,Video Store,Business Service,Discount Store,Big Box Store,Convenience Store,Pharmacy
 Southlake,Grocery Store,Supermarket,Convenience Store,Pharmacy,Big Box Store,Pet Store,Warehouse Store,Liquor Store,Sporting Goods Shop,Gourmet Shop
-Southwest Arlington,Convenience Store,Grocery Store,Supermarket,Pharmacy,Big Box Store,Pet Store,Liquor Store,Discount Store,Warehouse Store,Sporting Goods Shop
+Southwest Arlington,Convenience Store,Grocery Store,Supermarket,Pharmacy,Big Box Store,Discount Store,Sporting Goods Shop,Pet Store,Liquor Store,Warehouse Store
 Southwest Grand Prairie,Convenience Store,Grocery Store,Supermarket,Pharmacy,Big Box Store,Discount Store,Liquor Store,Pet Store,Warehouse Store,Shopping Mall
 Southwest McKinney,Grocery Store,Supermarket,Convenience Store,Big Box Store,Warehouse Store,Pharmacy,Shopping Plaza,Electronics Store,Sporting Goods Shop,Wine Shop
 Springtown,Construction & Landscaping,Home Service,Business Service,Discount Store,Convenience Store,Electronics Store,Motorcycle Shop,Grocery Store,Furniture / Home Store,Insurance Office
@@ -260,7 +255,7 @@ West to Southwest Lewisville,Grocery Store,Supermarket,Pharmacy,Convenience Stor
 West_of_Downtown - Dallas,Grocery Store,Pharmacy,Convenience Store,Supermarket,Big Box Store,Shopping Mall,Gourmet Shop,Wine Shop,Liquor Store,Pet Store
 Westwood Park - Dallas,Grocery Store,Convenience Store,Supermarket,Pharmacy,Big Box Store,Discount Store,Warehouse Store,Shopping Mall,Smoothie Shop,Pet Store
 White Rock Creek - Dallas,Grocery Store,Supermarket,Big Box Store,Warehouse Store,Convenience Store,Shopping Mall,Liquor Store,Wine Shop,Pet Store,Gourmet Shop
-White Settlement - Fort Worth,Grocery Store,Pharmacy,Convenience Store,Department Store,Big Box Store,Pet Store,Clothing Store,Discount Store,Liquor Store,Warehouse Store
+White Settlement - Fort Worth,Grocery Store,Pharmacy,Convenience Store,Clothing Store,Department Store,Big Box Store,Pet Store,Discount Store,Liquor Store,Warehouse Store
 Wilmer,Convenience Store,Discount Store,Construction & Landscaping,Pharmacy,Grocery Store,Mobile Phone Shop,Home Service,Big Box Store,Insurance Office,Supermarket
 Wolf Creek - Dallas,Convenience Store,Grocery Store,Pharmacy,Discount Store,Supermarket,Big Box Store,Liquor Store,Farmers Market,Shipping Store,Department Store
 Wolfe City,Construction & Landscaping,Discount Store,Grocery Store,Shipping Store,Video Store,Business Service,Convenience Store,Print Shop,Pet Store,Event Service
